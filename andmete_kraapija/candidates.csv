@@ -1,0 +1,1100 @@
+address,dateofbirth,education,email,id,listing,name,party
+0,14.08.1962,Kõrgharidus,andres.herkel@gmail.com,101,Eesti Vabaerakond,"['ANDRES', 'HERKEL']",Eesti Vabaerakond
+0,07.09.1984,Kõrgharidus,Email puudub,102,Eesti Vabaerakond,"['ÕIE-MARI', 'AASMÄE']",Puudub
+0,04.04.1965,Kõrgharidus,jaak.prozes@fennougria.ee,103,Eesti Vabaerakond,"['JAAK', 'PROZES']",Eesti Vabaerakond
+0,10.12.1972,Kõrgharidus,jaanika.klopets@gmail.com,104,Eesti Vabaerakond,"['JAANIKA', 'KLOPETS']",Eesti Vabaerakond
+0,09.09.1966,Kõrgharidus,jaanus.ojangu@gmail.com,105,Eesti Vabaerakond,"['JAANUS', 'OJANGU']",Eesti Vabaerakond
+"Pardi 3-9, Tallinn",03.07.1970,Kõrgharidus,juri.pino@gmail.com,106,Eesti Vabaerakond,"['JÜRI', 'PINO']",Puudub
+0,31.10.1975,Keskharidus (sh keskeriharidus),jann1975@hot.ee,107,Eesti Vabaerakond,"['JAANUS', 'PAASOJA']",Eesti Vabaerakond
+0,28.09.1962,Kõrgharidus,peter.liinsoo@eesti.ee,108,Eesti Vabaerakond,"['PEETER', 'LIINSOO']",Eesti Vabaerakond
+0,07.03.1957,Keskharidus (sh keskeriharidus),marikelaht@yahoo.com,109,Eesti Vabaerakond,"['MARIKE', 'LAHT']",Eesti Vabaerakond
+0,25.06.1991,Keskharidus (sh keskeriharidus),sander@klausen.ee,110,Eesti Vabaerakond,"['SANDER', 'KLAUSEN']",Puudub
+0,30.03.1963,Kõrgharidus,tonutvr@gmail.com,111,Eesti Vabaerakond,"['TÕNU', 'TEEVEER']",Eesti Vabaerakond
+0,30.01.1965,Keskharidus (sh keskeriharidus),ageminka@gmail.com,112,Eesti Vabaerakond,"['AGE', 'MINKA']",Eesti Vabaerakond
+0,14.10.1955,Kõrgharidus,kuningasneeme@gmail.com,113,Eesti Vabaerakond,"['NEEME', 'KUNINGAS']",Eesti Vabaerakond
+0,24.06.1964,Kõrgharidus,kaja.jakobson@gmail.com,114,Eesti Vabaerakond,"['KAJA', 'JAKOBSON']",Eesti Vabaerakond
+0,07.11.1950,Kõrgharidus,eve.viidalepp@gmail.com,115,Eesti Vabaerakond,"['EVE', 'VIIDALEPP']",Eesti Vabaerakond
+0,24.06.1989,Kõrgharidus,taavi.simson@gmail.com,116,Eesti Vabaerakond,"['TAAVI', 'SIMSON']",Puudub
+0,26.02.1983,Keskharidus (sh keskeriharidus),arvet@personaliteenused.ee,117,Eesti Vabaerakond,"['ARVET', 'LINDSTRÖM']",Eesti Vabaerakond
+0,16.01.1951,Kõrgharidus,osa@neti.ee,118,Eesti Vabaerakond,"['EVE', 'OSA']",Eesti Vabaerakond
+0,27.08.1972,Kõrgharidus,andres@proff.ee,119,Eesti Vabaerakond,"['ANDRES', 'LINTS']",Eesti Vabaerakond
+0,08.02.1977,Kõrgharidus,avelossmann@gmail.com,120,Eesti Vabaerakond,"['AVE', 'LOSSMANN']",Puudub
+0,03.04.1980,Kõrgharidus,siim.tuur@gmail.com,121,Eesti Vabaerakond,"['SIIM', 'TUUR']",Puudub
+0,20.01.1963,Keskharidus (sh keskeriharidus),alar.tinnus@gmail.com,122,Eesti Vabaerakond,"['ALAR', 'TINNUS']",Puudub
+0,12.07.1955,Kõrgharidus,iiza@centrum.cz,123,Eesti Vabaerakond,"['IIVI', 'ZAJEDOVA']",Eesti Vabaerakond
+0,22.05.1971,Kõrgharidus,aldovaino@gmail.com,124,Eesti Vabaerakond,"['ALDO', 'VAINO']",Eesti Vabaerakond
+0,12.09.1988,Kõrgharidus,harly@imelikudfilmid.ee,125,Eesti Vabaerakond,"['HARLY', 'KIRSPUU']",Puudub
+0,23.05.1948,Kõrgharidus,mati@mahero.ee,126,Eesti Vabaerakond,"['MATI', 'ROOSNURM']",Puudub
+0,14.01.1942,Kõrgharidus,mart.mutso@gmail.com,127,Eesti Vabaerakond,"['MART', 'MUTSO']",Eesti Vabaerakond
+0,06.05.1954,Kõrgharidus,ain.lutsepp@riigikogu.ee,128,Eesti Vabaerakond,"['AIN', 'LUTSEPP']",Eesti Vabaerakond
+0,18.07.1963,Kõrgharidus,merike@seesam.ee,129,Eesti Vabaerakond,"['MERIKE', 'VÄRIK']",Eesti Vabaerakond
+0,17.01.1960,Kõrgharidus,toenu@tlu.ee,130,Eesti Vabaerakond,"['TÕNU', 'PLOOMPUU']",Eesti Vabaerakond
+0,23.09.1950,Keskharidus (sh keskeriharidus),venearhiiv@gmail.com,131,Eesti Vabaerakond,"['ALEKSANDR', 'DORMIDONTOV']",Eesti Vabaerakond
+0,13.05.1966,Kõrgharidus,epp.alatalu@gmail.com,132,Eesti Vabaerakond,"['EPP', 'ALATALU']",Eesti Vabaerakond
+0,01.11.1966,Kõrgharidus,mraha66@gmail.com,133,Eesti Vabaerakond,"['MARGUS', 'RAHA']",Eesti Vabaerakond
+0,24.06.1983,Keskharidus (sh keskeriharidus),kaja.vajak@hotmail.com,134,Eesti Vabaerakond,"['KAJA', 'VAJAK']",Eesti Vabaerakond
+0,07.10.1935,Kõrgharidus,tonuaru6819@gmail.com,135,Eesti Vabaerakond,"['TÕNU', 'ARU']",Eesti Vabaerakond
+0,22.09.1946,Kõrgharidus,hansberga@gmail.com,136,Eesti Vabaerakond,"['ANNE', 'HANSBERG']",Eesti Vabaerakond
+0,28.04.1950,Keskharidus (sh keskeriharidus),viktoria.lukats@vabaerakond.ee,137,Eesti Vabaerakond,"['VIKTORIA', 'LUKATS']",Eesti Vabaerakond
+0,28.07.1974,Keskharidus (sh keskeriharidus),juku-kalle@inimesed.eu,138,Eesti Vabaerakond,"['JUKU-KALLE', 'RAID']",Puudub
+"Allika tee 16, Saue vald, 76403, Harjumaa",08.01.1960,Keskharidus (sh keskeriharidus),raivo@eritex.ee,139,Eesti Vabaerakond,"['RAIVO', 'KOKSER']",Eesti Vabaerakond
+0,25.01.1961,Kõrgharidus,tnorbek@gmail.com,140,Eesti Vabaerakond,"['TIIA', 'VÄLK']",Puudub
+0,03.02.1962,Kõrgharidus,ssaarmets@gmail.com,141,Eesti Vabaerakond,"['SUIDO', 'SAARMETS']",Eesti Vabaerakond
+0,17.09.1960,Kõrgharidus,siiri.kapa@gmail.com,142,Eesti Vabaerakond,"['SIIRI', 'KÄPA']",Eesti Vabaerakond
+0,13.09.1967,Keskharidus (sh keskeriharidus),vahur.herm@chw.ee,143,Eesti Vabaerakond,"['VAHUR', 'HERM']",Eesti Vabaerakond
+"Harjumaa, Rae vald, Uuesalu küla, Kopra põik 7-1",13.05.1953,Kõrgharidus,kuurmet@tlu.ee,144,Eesti Vabaerakond,"['TIIU', 'KUURME']",Eesti Vabaerakond
+0,02.09.1971,Kõrgharidus,toonverk@mail.ru,145,Eesti Vabaerakond,"['ELDAR', 'TOONVERK']",Puudub
+"Kopli 49-1, Tallinn",12.11.1959,Kõrgharidus,kaie.herkel@mail.ee,146,Eesti Vabaerakond,"['KAIE', 'HERKEL']",Eesti Vabaerakond
+0,28.08.1972,Kõrgharidus,kristo.krumm@gmail.com,147,Eesti Vabaerakond,"['KRISTO', 'KRUMM']",Eesti Vabaerakond
+0,24.06.1987,Põhiharidus,ingel2406@hot.ee,148,Eesti Vabaerakond,"['RIINA', 'KURG']",Eesti Vabaerakond
+0,23.11.1963,Keskharidus (sh keskeriharidus),vackermannjaak@gmail.com,149,Eesti Vabaerakond,"['JAAK', 'VACKERMANN']",Eesti Vabaerakond
+0,19.11.1980,Kõrgharidus,reinupost@gmail.com,150,Eesti Vabaerakond,"['REIN', 'REBANE']",Eesti Vabaerakond
+0,11.02.1942,Kõrgharidus,antikor@hot.ee,151,Eesti Vabaerakond,"['AARE', 'PERNIK']",Eesti Vabaerakond
+0,31.10.1943,Kõrgharidus,mulkpeeter@gmail.com,152,Eesti Vabaerakond,"['PEETER', 'LUKAS']",Eesti Vabaerakond
+0,13.11.1981,Kõrgharidus,deintom@gmail.com,153,Eesti Vabaerakond,"['DEIN-TOM', 'TÕNSING']",Puudub
+0,30.03.1973,Põhiharidus,mikkjallajas@gmail.com,154,Eesti Vabaerakond,"['MIHHAIL', 'JALLAJAS']",Puudub
+0,03.04.1961,Kõrgharidus,tiina.kangro@riigikogu.ee,155,Eesti Vabaerakond,"['TIINA', 'KANGRO']",Puudub
+0,12.06.1966,Keskharidus (sh keskeriharidus),mikkon24@gmail.com,156,Eesti Vabaerakond,"['MIKKO', 'NÕUKAS']",Eesti Vabaerakond
+0,07.03.1973,Kõrgharidus,elgeharma@gmail.com,157,Eesti Vabaerakond,"['ELGE', 'HÄRMA']",Puudub
+0,29.05.1965,Kõrgharidus,olev.vaher@mail.ee,158,Eesti Vabaerakond,"['OLEV', 'VAHER']",Eesti Vabaerakond
+0,11.07.1968,Keskharidus (sh keskeriharidus),annekiider@gmail.com,159,Eesti Vabaerakond,"['ANNE', 'KIIDER']",Puudub
+0,02.02.1971,Kõrgharidus,egon.erkmann@gmail.com,160,Eesti Vabaerakond,"['EGON', 'ERKMANN']",Puudub
+0,05.06.1976,Keskharidus (sh keskeriharidus),tonkatina@hot.ee,161,Eesti Vabaerakond,"['JANUS', 'TUUR']",Puudub
+0,07.05.1991,Põhiharidus,janek.ostra@hotmail.com,162,Eesti Vabaerakond,"['JANEK', 'OSTRA']",Eesti Vabaerakond
+0,09.10.1973,Keskharidus (sh keskeriharidus),Email puudub,163,Eesti Vabaerakond,"['PAVO', 'RAUDSEPP']",Puudub
+"Hoogla talu, Rägavere küla, Tapa vald 73613",14.12.1961,Kõrgharidus,Email puudub,164,Eesti Vabaerakond,"['PIRET', 'PIHEL']",Puudub
+0,25.02.1976,Keskharidus (sh keskeriharidus),koitkuusk@hot.ee,165,Eesti Vabaerakond,"['KOIT', 'KUUSK']",Puudub
+0,13.10.1966,Keskharidus (sh keskeriharidus),voorsetalu@gmail.com,166,Eesti Vabaerakond,"['REIN', 'KOTŠIN']",Eesti Vabaerakond
+0,20.12.1979,Põhiharidus,marje.salve@gmail.com,167,Eesti Vabaerakond,"['MARJE', 'SALVE']",Eesti Vabaerakond
+0,27.01.1972,Keskharidus (sh keskeriharidus),ave.pytsepp@gmail.com,168,Eesti Vabaerakond,"['AVE', 'PÜTSEPP']",Eesti Vabaerakond
+0,29.04.1987,Põhiharidus,veanaheinmets666@gmail.com,169,Eesti Vabaerakond,"['VEANA', 'HEINMETS']",Eesti Vabaerakond
+0,05.07.1969,Kõrgharidus,Email puudub,170,Eesti Vabaerakond,"['JANE', 'SNAITH']",Puudub
+0,17.02.1952,Kõrgharidus,sirjepallo11@gmail.com,171,Eesti Vabaerakond,"['SIRJE', 'PALLO']",Eesti Vabaerakond
+0,17.09.1981,Kõrgharidus,karina.kyppas@gmail.com,172,Eesti Vabaerakond,"['KARINA', 'KÜPPAS']",Puudub
+0,09.07.1973,Keskharidus (sh keskeriharidus),ando.kuura@vabaerakond.ee,173,Eesti Vabaerakond,"['ANDO', 'KUURA']",Eesti Vabaerakond
+0,10.11.1961,Keskharidus (sh keskeriharidus),muljekullerkup@gmail.com,174,Eesti Vabaerakond,"['MULJE', 'KULLERKUP']",Eesti Vabaerakond
+0,23.03.1976,Keskharidus (sh keskeriharidus),karabljoff@gmail.com,175,Eesti Vabaerakond,"['DENISS', 'TIŠTŠENKO']",Eesti Vabaerakond
+0,31.10.1975,Keskharidus (sh keskeriharidus),zirbik@gmail.com,176,Eesti Vabaerakond,"['ASKO', 'SIRP']",Eesti Vabaerakond
+0,08.04.1958,Keskharidus (sh keskeriharidus),lidia.rettijeva@mail.ee,177,Eesti Vabaerakond,"['LIDIA', 'RETTIJEVA']",Eesti Vabaerakond
+0,10.04.1958,Keskharidus (sh keskeriharidus),innarosekarolin@gmail.com,178,Eesti Vabaerakond,"['INNA', 'ROSE']",Puudub
+0,14.02.1971,Keskharidus (sh keskeriharidus),ain.ostra@vabaerakond.ee,179,Eesti Vabaerakond,"['AIN', 'OSTRA']",Eesti Vabaerakond
+0,22.05.1973,Kõrgharidus,palmistearlet@gmail.com,180,Eesti Vabaerakond,"['ARLET', 'PALMISTE']",Puudub
+0,03.05.1993,Keskharidus (sh keskeriharidus),mariliis.tahker@mail.ee,181,Eesti Vabaerakond,"['MARI-LIIS', 'TAHKER']",Eesti Vabaerakond
+0,03.09.1989,Keskharidus (sh keskeriharidus),Email puudub,182,Eesti Vabaerakond,"['JÜRMO', 'SILLASTE']",Eesti Vabaerakond
+0,21.07.1982,Kõrgharidus,auksimae@gmail.com,183,Eesti Vabaerakond,"['AIN', 'AUKSIMÄE']",Puudub
+0,26.11.1948,Kõrgharidus,merlerips@hot.ee,184,Eesti Vabaerakond,"['HEIKI', 'RIPS']",Eesti Vabaerakond
+0,26.02.1943,Kõrgharidus,olevrahnu@hotmail.com,185,Eesti Vabaerakond,"['OLEV', 'RAHNU']",Eesti Vabaerakond
+0,01.12.1966,Keskharidus (sh keskeriharidus),hanno3661201@gmail.com,186,Eesti Vabaerakond,"['HANNO', 'KIRSCHFELDT']",Eesti Vabaerakond
+0,02.08.1968,Kõrgharidus,margus.sardis@eesti.ee,187,Eesti Vabaerakond,"['MARGUS', 'SARDIS']",Eesti Vabaerakond
+0,22.11.1959,Kõrgharidus,elo.lutsepp@vabaerakond.ee,188,Eesti Vabaerakond,"['ELO', 'LUTSEPP']",Eesti Vabaerakond
+"Mõisniku 47, Ülenurme, Kambja vald, tartumaa",14.07.1962,Kõrgharidus,mart_laanemets@yahoo.com,189,Eesti Vabaerakond,"['MÄRT', 'LÄÄNEMETS']",Eesti Vabaerakond
+0,30.07.1961,Kõrgharidus,urmas.heinaste@eesti.ee,190,Eesti Vabaerakond,"['URMAS', 'HEINASTE']",Eesti Vabaerakond
+0,23.08.1957,Kõrgharidus,katrin.hauk@gmail.com,191,Eesti Vabaerakond,"['KATRIN', 'HAUK']",Eesti Vabaerakond
+0,14.10.1970,Kõrgharidus,kaido.valjaots@heival.ee,192,Eesti Vabaerakond,"['KAIDO', 'VÄLJAOTS']",Puudub
+0,26.04.1957,Kõrgharidus,tiit.urva7@gmail.com,193,Eesti Vabaerakond,"['TIIT', 'URVA']",Eesti Vabaerakond
+0,25.05.1957,Kõrgharidus,tauno.kure@vabaerakond.ee,194,Eesti Vabaerakond,"['TAUNO', 'KURE']",Eesti Vabaerakond
+0,17.01.1965,Kõrgharidus,elar.ploompuu@eesti.ee,195,Eesti Vabaerakond,"['ELAR', 'PLOOMIPUU']",Puudub
+0,01.04.1981,Kõrgharidus,mmeesak@gmail.com,196,Eesti Vabaerakond,"['MÄRT', 'MEESAK']",Eesti Vabaerakond
+0,05.11.1970,Kõrgharidus,kuidon@gmail.com,197,Eesti Vabaerakond,"['KUIDO', 'NÕMM']",Eesti Vabaerakond
+0,19.06.1975,Kõrgharidus,kollomvahur@gmail.com,198,Eesti Vabaerakond,"['VAHUR', 'KOLLOM']",Eesti Vabaerakond
+0,18.02.1982,Kõrgharidus,heiki@lill.ee,199,Eesti Vabaerakond,"['HEIKI', 'LILL']",Eesti Vabaerakond
+0,20.12.1977,Põhiharidus,tyrk@tartuoffroad.ee,200,Eesti Vabaerakond,"['KAIDO', 'KALLAVUS']",Puudub
+0,09.02.1974,Kõrgharidus,laili.jogiaas@gmail.com,201,Eesti Vabaerakond,"['LAILI', 'JÕGIAAS']",Eesti Vabaerakond
+0,29.12.1991,Kõrgharidus,kristokaru@hotmail.com,202,Eesti Vabaerakond,"['KRISTO', 'KARU']",Eesti Vabaerakond
+0,26.10.1981,Keskharidus (sh keskeriharidus),herleernits@gmail.com,203,Eesti Vabaerakond,"['HERLE', 'GERASSIMOVA']",Eesti Vabaerakond
+0,25.06.1974,Kõrgharidus,alvar.tipp@eesti.ee,204,Eesti Vabaerakond,"['ALVAR', 'TIPP']",Eesti Vabaerakond
+0,17.07.1948,Keskharidus (sh keskeriharidus),heino.ritsman@mail.ee,205,Eesti Vabaerakond,"['HEINO', 'RITSMAN']",Eesti Vabaerakond
+"Maisi 22, Tartu",04.03.1963,Kõrgharidus,mart.kivastik@mail.ee,206,Eesti Vabaerakond,"['MART', 'KIVASTIK']",Puudub
+0,27.03.1951,Kõrgharidus,kaul.nurm@gmail.com,207,Eesti Vabaerakond,"['KAUL', 'NURM']",Eesti Vabaerakond
+0,27.01.1963,Kõrgharidus,marikaparv@gmail.com,208,Eesti Vabaerakond,"['MARIKA', 'PARV']",Puudub
+0,02.10.1982,Kõrgharidus,urmas.ott82@gmail.com,209,Eesti Vabaerakond,"['URMAS', 'OTT']",Eesti Vabaerakond
+0,21.04.1981,Keskharidus (sh keskeriharidus),ullar.vana@vabaerakond.ee,210,Eesti Vabaerakond,"['ÜLLAR', 'VANA']",Eesti Vabaerakond
+"Põlva, Salu põik 7-4",20.08.1971,Kõrgharidus,annika.toots.001@mail.ee,211,Eesti Vabaerakond,"['ANNIKA', 'TOOTS']",Puudub
+0,17.02.1978,Kõrgharidus,kati.kongo@vabaerakond.ee,212,Eesti Vabaerakond,"['KATI', 'KONGO']",Eesti Vabaerakond
+0,09.06.1949,Keskharidus (sh keskeriharidus),TL.Lukats@gmail.com,213,Eesti Vabaerakond,"['TÕNIS', 'LUKATS']",Eesti Vabaerakond
+0,11.05.1974,Kõrgharidus,urmet.kulaots@outlook.com,214,Eesti Vabaerakond,"['URMET', 'KÜLAOTS']",Eesti Vabaerakond
+0,07.04.1989,Keskharidus (sh keskeriharidus),mihkel.mallo@gmail.com,215,Eesti Vabaerakond,"['MIHKEL', 'MÄLLO']",Puudub
+0,01.09.1974,Keskharidus (sh keskeriharidus),kristivarul@gmail.com,216,Eesti Vabaerakond,"['KRISTI', 'VARUL']",Eesti Vabaerakond
+"Padriku tee 12/1-11, 11912 Tallinn",23.08.1942,Kõrgharidus,talatalu@online.ee,217,Eesti Vabaerakond,"['TOOMAS', 'ALATALU']",Puudub
+0,10.03.1982,Kõrgharidus,helikunnapas@gmail.com,218,Eesti Vabaerakond,"['HELI', 'KÜNNAPAS']",Eesti Vabaerakond
+0,26.10.1960,Kõrgharidus,elmo@raama.ee,219,Eesti Vabaerakond,"['ELMO', 'JOA']",Puudub
+0,18.06.1988,Põhiharidus,fredy.vabrit@gmail.com,220,Eesti Vabaerakond,"['FREDY', 'VABRIT']",Eesti Vabaerakond
+0,19.08.1959,Keskharidus (sh keskeriharidus),allar.sau@gmail.com,221,Eesti Vabaerakond,"['ALLAR', 'SAU']",Eesti Vabaerakond
+0,19.07.1991,Keskharidus (sh keskeriharidus),dandyrosenberg@gmail.com,222,Eesti Vabaerakond,"['DANDY', 'ROSENBERG']",Puudub
+0,15.04.1958,Keskharidus (sh keskeriharidus),ylleorav8@gmail.com,223,Eesti Vabaerakond,"['ÜLLE', 'ORAV']",Puudub
+0,26.06.1979,Keskharidus (sh keskeriharidus),jyrgen79@gmail.com,224,Eesti Vabaerakond,"['JÜRGEN', 'POST']",Eesti Vabaerakond
+0,22.02.1960,Keskharidus (sh keskeriharidus),haikkobi@haikkobi.ee,225,Eesti Vabaerakond,"['REIN', 'PRINS']",Eesti Vabaerakond
+0,12.07.1975,Kõrgharidus,kristen@reform.ee,226,Eesti Reformierakond,"['KRISTEN', 'MICHAL']",Eesti Reformierakond
+0,18.03.1975,Kõrgharidus,heidy.purga@riigikogu.ee,227,Eesti Reformierakond,"['HEIDY', 'PURGA']",Eesti Reformierakond
+0,09.06.1980,Kõrgharidus,arto.aas@riigikogu.ee,228,Eesti Reformierakond,"['ARTO', 'AAS']",Eesti Reformierakond
+0,08.10.1968,Kõrgharidus,signeriisalo@gmail.com,229,Eesti Reformierakond,"['SIGNE', 'RIISALO']",Eesti Reformierakond
+0,23.06.1950,Kõrgharidus,ants@svm.ee,230,Eesti Reformierakond,"['ANTS', 'LEEMETS']",Eesti Reformierakond
+0,18.05.1958,Kõrgharidus,lamerike@gmail.com,231,Eesti Reformierakond,"['MERIKE', 'LANG']",Eesti Reformierakond
+0,25.01.1938,Kõrgharidus,liisklaar@gmail.com,232,Eesti Reformierakond,"['LIIS', 'KLAAR']",Eesti Reformierakond
+"Valdeku 96, Tallinn 11212",10.05.1970,Kõrgharidus,andres@jobseeker24.ee,233,Eesti Reformierakond,"['ANDRES', 'ARO']",Eesti Reformierakond
+0,25.02.1979,Kõrgharidus,gerol.silkin@gmail.com,234,Eesti Reformierakond,"['GEROL', 'SILKIN']",Eesti Reformierakond
+0,22.11.1968,Kõrgharidus,katrin.helendi1@gmail.com,235,Eesti Reformierakond,"['KATRIN', 'HELENDI']",Eesti Reformierakond
+0,18.07.1944,Kõrgharidus,lembitkolk@hotmail.com,236,Eesti Reformierakond,"['LEMBIT', 'KOLK']",Eesti Reformierakond
+0,04.01.1997,Keskharidus (sh keskeriharidus),kristo@reform.ee,237,Eesti Reformierakond,"['KRISTO', 'ENN', 'VAGA']",Eesti Reformierakond
+0,02.10.1948,Kõrgharidus,siim.kallas@viimsivv.ee,238,Eesti Reformierakond,"['SIIM', 'KALLAS']",Eesti Reformierakond
+0,03.03.1976,Kõrgharidus,keit@reform.ee,239,Eesti Reformierakond,"['KEIT', 'PENTUS-ROSIMANNUS']",Eesti Reformierakond
+0,11.11.1967,Kõrgharidus,andres@andressutt.ee,240,Eesti Reformierakond,"['ANDRES', 'SUTT']",Eesti Reformierakond
+0,23.02.1977,Kõrgharidus,kristina.smigun-vahi@reform.ee,241,Eesti Reformierakond,"['KRISTINA', 'ŠMIGUN-VÄHI']",Eesti Reformierakond
+0,02.06.1943,Kõrgharidus,ivi.eenmaa@neti.ee,242,Eesti Reformierakond,"['IVI', 'EENMAA']",Eesti Reformierakond
+0,06.05.1953,Kõrgharidus,ulle.rajasalu@gmail.com,243,Eesti Reformierakond,"['ÜLLE', 'RAJASALU']",Eesti Reformierakond
+0,08.11.1962,Kõrgharidus,toomaskr@gmail.ee,244,Eesti Reformierakond,"['TOOMAS', 'KRUUSIMÄGI']",Eesti Reformierakond
+0,23.12.1977,Kõrgharidus,helen@vibe.ee,245,Eesti Reformierakond,"['HELEN', 'MAHMASTOL']",Eesti Reformierakond
+0,23.09.1961,Kõrgharidus,kaupo@kuldkroon.ee,246,Eesti Reformierakond,"['KAUPO', 'NÕLVAK']",Eesti Reformierakond
+0,18.10.1990,Kõrgharidus,juhan.kangilaski@kadriorg.org,247,Eesti Reformierakond,"['JUHAN', 'KANGILASKI']",Eesti Reformierakond
+0,06.08.1949,Kõrgharidus,tiit.soorm@eesti.ee,248,Eesti Reformierakond,"['TIIT', 'SOORM']",Eesti Reformierakond
+0,03.07.1983,Keskharidus (sh keskeriharidus),rainar.enden@gmail.com,249,Eesti Reformierakond,"['RAINAR', 'ENDEN']",Eesti Reformierakond
+0,17.04.1990,Kõrgharidus,ttoppi@gmail.com,250,Eesti Reformierakond,"['TAAVI', 'TOPPI']",Eesti Reformierakond
+0,18.02.1968,Kõrgharidus,margit.elviste@gmail.com,251,Eesti Reformierakond,"['MARGIT', 'ELVISTE']",Eesti Reformierakond
+0,09.03.1972,Keskharidus (sh keskeriharidus),melisol@hot.ee,252,Eesti Reformierakond,"['MEELIS', 'SOLL']",Eesti Reformierakond
+0,20.04.1974,Kõrgharidus,urmas.paet@ep.europa.eu,253,Eesti Reformierakond,"['URMAS', 'PAET']",Eesti Reformierakond
+0,01.01.1966,Kõrgharidus,maris.lauri@riigikogu.ee,254,Eesti Reformierakond,"['MARIS', 'LAURI']",Eesti Reformierakond
+0,15.08.1962,Kõrgharidus,viljatoomast@gmail.com,255,Eesti Reformierakond,"['VILJA', 'TOOMAST']",Eesti Reformierakond
+0,03.12.1959,Kõrgharidus,johannes.kert@riigikogu.ee,256,Eesti Reformierakond,"['JOHANNES', 'KERT']",Eesti Reformierakond
+0,23.02.1983,Keskharidus (sh keskeriharidus),onne@reform.ee,257,Eesti Reformierakond,"['ÕNNE', 'PILLAK']",Eesti Reformierakond
+0,20.04.1971,Kõrgharidus,eero.merilind@arst.ee,258,Eesti Reformierakond,"['EERO', 'MERILIND']",Eesti Reformierakond
+0,31.03.1948,Kõrgharidus,tonu.meijelxl@gmail.com,259,Eesti Reformierakond,"['TÕNU', 'MEIJEL']",Eesti Reformierakond
+0,03.07.1966,Kõrgharidus,toomas.kark@gmail.com,260,Eesti Reformierakond,"['TOOMAS', 'KÄRK']",Eesti Reformierakond
+0,22.08.1996,Keskharidus (sh keskeriharidus),sten.laansoo@gmail.com,261,Eesti Reformierakond,"['STEN', 'LAANSOO']",Eesti Reformierakond
+0,09.08.1971,Kõrgharidus,artkuum@hotmail.com,262,Eesti Reformierakond,"['ART', 'KUUM']",Eesti Reformierakond
+0,18.06.1977,Kõrgharidus,kaja@reform.ee,263,Eesti Reformierakond,"['KAJA', 'KALLAS']",Eesti Reformierakond
+0,30.11.1969,Kõrgharidus,marko.mihkelson@gmail.com,264,Eesti Reformierakond,"['MARKO', 'MIHKELSON']",Eesti Reformierakond
+0,22.11.1964,Kõrgharidus,aivar.soerd@riigikogu.ee,265,Eesti Reformierakond,"['AIVAR', 'SÕERD']",Eesti Reformierakond
+0,27.02.1985,Kõrgharidus,palling.kalle@gmail.com,266,Eesti Reformierakond,"['KALLE', 'PALLING']",Eesti Reformierakond
+0,30.07.1964,Kõrgharidus,laine.randjarv@gmail.com,267,Eesti Reformierakond,"['LAINE', 'RANDJÄRV']",Eesti Reformierakond
+0,30.05.1984,Kõrgharidus,martvorklaev@gmail.com,268,Eesti Reformierakond,"['MART', 'VÕRKLAEV']",Eesti Reformierakond
+0,24.11.1970,Kõrgharidus,mmilling31@gmail.com,269,Eesti Reformierakond,"['MADIS', 'MILLING']",Eesti Reformierakond
+0,02.07.1981,Kõrgharidus,timo@keila.ee,270,Eesti Reformierakond,"['TIMO', 'SUSLOV']",Eesti Reformierakond
+0,28.11.1976,Kõrgharidus,andrusumboja@hotmail.com,271,Eesti Reformierakond,"['ANDRUS', 'UMBOJA']",Eesti Reformierakond
+0,27.09.1974,Keskharidus (sh keskeriharidus),tiit.vahenomm@sakuvald.ee,272,Eesti Reformierakond,"['TIIT', 'VAHENÕMM']",Eesti Reformierakond
+0,25.02.1957,Kõrgharidus,tiina.ryhka@gmail.com,273,Eesti Reformierakond,"['TIINA', 'RÜHKA']",Eesti Reformierakond
+0,14.12.1952,Kõrgharidus,jaan@hawaii.ee,274,Eesti Reformierakond,"['JAAN', 'ALVER']",Eesti Reformierakond
+0,21.05.1985,Kõrgharidus,liana.nogene@eesti.ee,275,Eesti Reformierakond,"['LIANA', 'NÕGENE']",Eesti Reformierakond
+0,11.03.1982,Kõrgharidus,kadrikurm@gmail.com,276,Eesti Reformierakond,"['KADRI', 'KURM']",Eesti Reformierakond
+0,16.03.1972,Keskharidus (sh keskeriharidus),vladas.radvila@gmail.com,277,Eesti Reformierakond,"['VLADAS', 'RADVILAVIČIUS']",Eesti Reformierakond
+0,14.05.1972,Keskharidus (sh keskeriharidus),marko.raudlam@gmail.com,278,Eesti Reformierakond,"['MARKO', 'RAUDLAM']",Eesti Reformierakond
+0,01.12.1955,Kõrgharidus,ott.kasuri@gmail.com,279,Eesti Reformierakond,"['OTT', 'KASURI']",Eesti Reformierakond
+0,25.09.1965,Kõrgharidus,Kalle.Laanet@riigikogu.ee,280,Eesti Reformierakond,"['KALLE', 'LAANET']",Eesti Reformierakond
+0,06.06.1954,Kõrgharidus,urve.tiidus@gmail.com,281,Eesti Reformierakond,"['URVE', 'TIIDUS']",Eesti Reformierakond
+0,09.04.1968,Kõrgharidus,aivar.viidik@gmail.com,282,Eesti Reformierakond,"['AIVAR', 'VIIDIK']",Eesti Reformierakond
+0,05.04.1990,Kõrgharidus,laane@reform.ee,283,Eesti Reformierakond,"['JAANUS', 'RATAS']",Eesti Reformierakond
+0,09.10.1961,Kõrgharidus,info@reform.ee,284,Eesti Reformierakond,"['HEIKI', 'KRANICH']",Eesti Reformierakond
+0,21.07.1963,Kõrgharidus,maire.forsel@gmail.com,285,Eesti Reformierakond,"['MAIRE', 'FORSEL']",Eesti Reformierakond
+0,12.08.1979,Kõrgharidus,jaanus_myyr@hotmail.com,286,Eesti Reformierakond,"['JAANUS', 'MÜÜR']",Eesti Reformierakond
+0,18.06.1952,Kõrgharidus,arotiiu@gmail.com,287,Eesti Reformierakond,"['TIIU', 'ARO']",Eesti Reformierakond
+0,26.09.1979,Kõrgharidus,taavi@roivas.ee,288,Eesti Reformierakond,"['TAAVI', 'RÕIVAS']",Eesti Reformierakond
+0,08.09.1971,Keskharidus (sh keskeriharidus),indrek@v-maarja.ee,289,Eesti Reformierakond,"['INDREK', 'KESKÜLA']",Eesti Reformierakond
+0,07.04.1965,Kõrgharidus,mati.raidma@gmail.com,290,Eesti Reformierakond,"['MATI', 'RAIDMA']",Eesti Reformierakond
+0,03.05.1984,Kõrgharidus,Email puudub,291,Eesti Reformierakond,"['KATRIN', 'KUUSEMÄE']",Eesti Reformierakond
+0,20.07.1968,Kõrgharidus,leo.aadel@haljala.ee,292,Eesti Reformierakond,"['LEO', 'AADEL']",Eesti Reformierakond
+0,27.05.1964,Kõrgharidus,Email puudub,293,Eesti Reformierakond,"['RIHO', 'TELL']",Eesti Reformierakond
+0,02.03.1980,Kõrgharidus,marko.torm@rakvere.ee,294,Eesti Reformierakond,"['MARKO', 'TORM']",Eesti Reformierakond
+0,08.09.1967,Kõrgharidus,enkross@gmail.com,295,Eesti Reformierakond,"['EERIK-NIILES', 'KROSS']",Eesti Reformierakond
+0,22.11.1979,Kõrgharidus,maris.toomel@reform.ee,296,Eesti Reformierakond,"['MARIS', 'TOOMEL']",Eesti Reformierakond
+0,27.03.1962,Kõrgharidus,aivar@kultuuriveski.ee,297,Eesti Reformierakond,"['AIVAR', 'SURVA']",Eesti Reformierakond
+0,04.05.1978,Kõrgharidus,sergei@trianon.ee,298,Eesti Reformierakond,"['SERGEI', 'GORLATŠ']",Eesti Reformierakond
+0,16.12.1951,Kõrgharidus,merike.peri@gmail.com,299,Eesti Reformierakond,"['MERIKE', 'PERI']",Eesti Reformierakond
+0,18.05.1974,Kõrgharidus,andrea.eiche@sonda.ee,300,Eesti Reformierakond,"['ANDREA', 'EICHE']",Eesti Reformierakond
+0,07.06.1973,Kõrgharidus,olesja.ojamae@gmail.com,301,Eesti Reformierakond,"['OLESJA', 'OJAMÄE']",Eesti Reformierakond
+0,09.08.1972,Kõrgharidus,toomas@hito.ee,302,Eesti Reformierakond,"['TOOMAS', 'NÕMMISTE']",Eesti Reformierakond
+0,13.01.1971,Kõrgharidus,priitpalmet@gmail.com,303,Eesti Reformierakond,"['PRIIT', 'PALMET']",Eesti Reformierakond
+0,16.07.1959,Kõrgharidus,jyrgen.ligi@riigikogu.ee,304,Eesti Reformierakond,"['JÜRGEN', 'LIGI']",Eesti Reformierakond
+0,13.06.1979,Kõrgharidus,Email puudub,305,Eesti Reformierakond,"['YOKO', 'ALENDER']",Eesti Reformierakond
+"Vikerkaare 13-4, Viljandi linn 71016",01.10.1974,Kõrgharidus,madis.timpson@gmail.com,306,Eesti Reformierakond,"['MADIS', 'TIMPSON']",Eesti Reformierakond
+0,29.04.1985,Kõrgharidus,rait.pihelgas@jarva.ee,307,Eesti Reformierakond,"['RAIT', 'PIHELGAS']",Eesti Reformierakond
+0,21.04.1958,Kõrgharidus,tonuju@gmail.com,308,Eesti Reformierakond,"['TÕNU', 'JUUL']",Eesti Reformierakond
+0,21.09.1954,Keskharidus (sh keskeriharidus),mati.sadam54@gmail.com,309,Eesti Reformierakond,"['MATI', 'SADAM']",Eesti Reformierakond
+0,16.06.1955,Kõrgharidus,Email puudub,310,Eesti Reformierakond,"['SULEV', 'KANNIMÄE']",Eesti Reformierakond
+0,15.07.1966,Keskharidus (sh keskeriharidus),tarmo.alt1984@gmail.com,311,Eesti Reformierakond,"['TARMO', 'ALT']",Eesti Reformierakond
+"Viljandimaa, Mulgi vald, Karksi-Nuia",11.01.1977,Kõrgharidus,taimotugi@gmail.com,312,Eesti Reformierakond,"['TAIMO', 'TUGI']",Eesti Reformierakond
+0,14.07.1965,Kõrgharidus,urmas.kruuse@mail.ee,313,Eesti Reformierakond,"['URMAS', 'KRUUSE']",Eesti Reformierakond
+0,04.02.1958,Kõrgharidus,randpere@gmail.com,314,Eesti Reformierakond,"['VALDO', 'RANDPERE']",Eesti Reformierakond
+0,23.04.1961,Kõrgharidus,toomas.jarveoja@elva.ee,315,Eesti Reformierakond,"['TOOMAS', 'JÄRVEOJA']",Eesti Reformierakond
+0,04.07.1973,Kõrgharidus,ylvi@atcas.eu,316,Eesti Reformierakond,"['ÜLVI', 'NOOL-KÕRE']",Eesti Reformierakond
+0,30.05.1966,Kõrgharidus,Email puudub,317,Eesti Reformierakond,"['RAIVO', 'MEITUS']",Eesti Reformierakond
+0,06.01.1963,Kõrgharidus,aivar.saarela@mustvee.ee,318,Eesti Reformierakond,"['AIVAR', 'SAARELA']",Eesti Reformierakond
+0,02.03.1973,Kõrgharidus,illari.laan@eava.ee,319,Eesti Reformierakond,"['ILLARI', 'LÄÄN']",Eesti Reformierakond
+0,26.07.1992,Kõrgharidus,meriliranniste@gmail.com,320,Eesti Reformierakond,"['MERILI', 'RANNISTE']",Eesti Reformierakond
+0,07.11.1990,Kõrgharidus,erkki.keldo@gmail.com,321,Eesti Reformierakond,"['ERKKI', 'KELDO']",Eesti Reformierakond
+0,17.03.1971,Kõrgharidus,urmas.klaas@raad.tartu.ee,322,Eesti Reformierakond,"['URMAS', 'KLAAS']",Eesti Reformierakond
+0,13.10.1963,Kõrgharidus,margit.sutrop@ut.ee,323,Eesti Reformierakond,"['MARGIT', 'SUTROP']",Eesti Reformierakond
+0,16.01.1948,Kõrgharidus,ants.laaneots@riigikogu.ee,324,Eesti Reformierakond,"['ANTS', 'LAANEOTS']",Eesti Reformierakond
+0,18.12.1956,Kõrgharidus,urmas.siigur@gmail.com,325,Eesti Reformierakond,"['URMAS', 'SIIGUR']",Eesti Reformierakond
+"Tartu, Raekoja plats 18",24.02.1957,Kõrgharidus,signe@tartmus.ee,326,Eesti Reformierakond,"['SIGNE', 'KIVI']",Eesti Reformierakond
+0,05.01.1953,Kõrgharidus,hele.everaus@kliinikum.ee,327,Eesti Reformierakond,"['HELE', 'EVERAUS']",Eesti Reformierakond
+0,03.08.1978,Kõrgharidus,raimond.tamm@gmail.com,328,Eesti Reformierakond,"['RAIMOND', 'TAMM']",Eesti Reformierakond
+0,30.12.1977,Kõrgharidus,airis@reform.ee,329,Eesti Reformierakond,"['AIRIS', 'MEIER']",Eesti Reformierakond
+0,26.07.1977,Kõrgharidus,reno.laidre@gmail.com,330,Eesti Reformierakond,"['RENO', 'LAIDRE']",Eesti Reformierakond
+0,30.11.1997,Keskharidus (sh keskeriharidus),andruspunt@hotmail.com,331,Eesti Reformierakond,"['ANDRUS', 'PUNT']",Eesti Reformierakond
+0,02.04.1977,Kõrgharidus,hanno@pevkur.ee,332,Eesti Reformierakond,"['HANNO', 'PEVKUR']",Eesti Reformierakond
+0,03.04.1980,Kõrgharidus,liina.kersna@riigikogu.ee,333,Eesti Reformierakond,"['LIINA', 'KERSNA']",Eesti Reformierakond
+0,27.06.1983,Keskharidus (sh keskeriharidus),maido.ruusmann@gmail.com,334,Eesti Reformierakond,"['MAIDO', 'RUUSMANN']",Eesti Reformierakond
+0,08.11.1969,Kõrgharidus,andrusseeme@gmail.com,335,Eesti Reformierakond,"['ANDRUS', 'SEEME']",Eesti Reformierakond
+0,05.12.1986,Kõrgharidus,einikemolder@gmail.com,336,Eesti Reformierakond,"['EINIKE', 'MÖLDER']",Eesti Reformierakond
+0,14.09.1962,Keskharidus (sh keskeriharidus),aivarrosenberg@gmail.com,337,Eesti Reformierakond,"['AIVAR', 'ROSENBERG']",Eesti Reformierakond
+0,14.03.1969,Kõrgharidus,margus.lepik@hot.ee,338,Eesti Reformierakond,"['MARGUS', 'LEPIK']",Eesti Reformierakond
+0,06.12.1950,Kõrgharidus,ylo@mooste.ee,339,Eesti Reformierakond,"['ÜLO', 'NEEDO']",Eesti Reformierakond
+0,10.10.1992,Keskharidus (sh keskeriharidus),antihaugas@gmail.com,340,Eesti Reformierakond,"['ANTI', 'HAUGAS']",Eesti Reformierakond
+0,07.10.1965,Kõrgharidus,peetersibul@gmail.com,341,Eesti Reformierakond,"['PEETER', 'SIBUL']",Eesti Reformierakond
+0,16.02.1963,Kõrgharidus,toomas.kivimagi@riigikogu.ee,342,Eesti Reformierakond,"['TOOMAS', 'KIVIMÄGI']",Eesti Reformierakond
+0,05.10.1972,Kõrgharidus,annely@akkermann.ee,343,Eesti Reformierakond,"['ANNELY', 'AKKERMANN']",Eesti Reformierakond
+0,14.10.1965,Kõrgharidus,jyri.jaanson@riigikogu.ee,344,Eesti Reformierakond,"['JÜRI', 'JAANSON']",Eesti Reformierakond
+0,30.11.1958,Kõrgharidus,Email puudub,345,Eesti Reformierakond,"['TOOMAS', 'RÕHU']",Eesti Reformierakond
+0,08.09.1964,Keskharidus (sh keskeriharidus),meeli@waf.ee,346,Eesti Reformierakond,"['MEELI', 'PÄRNA']",Eesti Reformierakond
+0,03.01.1972,Keskharidus (sh keskeriharidus),andres.mois@eesti.ee,347,Eesti Reformierakond,"['ANDRES', 'MÕIS']",Eesti Reformierakond
+0,06.12.1980,Kõrgharidus,marika.valter@paikuse.ee,348,Eesti Reformierakond,"['MARIKA', 'VALTER']",Eesti Reformierakond
+0,20.02.1994,Kõrgharidus,madis.koit@gmail.com,349,Eesti Reformierakond,"['MADIS', 'KOIT']",Eesti Reformierakond
+0,25.08.1960,Kõrgharidus,jyri@llmerge.ee,350,Eesti Reformierakond,"['JÜRI', 'LEBEDEV']",Eesti Reformierakond
+0,13.06.1985,Keskharidus (sh keskeriharidus),zuzuizmailova@gmail.com,351,Erakond Eestimaa Rohelised,"['ZÜLEYXA', 'IZMAILOVA']",Erakond Eestimaa Rohelised
+0,24.09.1986,Kõrgharidus,mattias@loomus.ee,352,Erakond Eestimaa Rohelised,"['MATTIAS', 'TUROVSKI']",Erakond Eestimaa Rohelised
+0,27.03.1976,Kõrgharidus,fideelia@gmail.com,353,Erakond Eestimaa Rohelised,"['FIDEELIA-SIGNE', 'ROOTS']",Erakond Eestimaa Rohelised
+0,10.12.1964,Kõrgharidus,info@renoveeri.net,354,Erakond Eestimaa Rohelised,"['TARMO', 'ANDRE', 'ELVISTO']",Puudub
+0,05.04.1984,Kõrgharidus,maigi.kaige@gmail.com,355,Erakond Eestimaa Rohelised,"['MAIGI', 'KÄIGE']",Erakond Eestimaa Rohelised
+0,11.01.1985,Kõrgharidus,Email puudub,356,Erakond Eestimaa Rohelised,"['HANNES', 'LIITMÄE']",Erakond Eestimaa Rohelised
+0,22.10.1982,Kõrgharidus,annevetik@gmail.com,357,Erakond Eestimaa Rohelised,"['ANNE', 'VETIK']",Erakond Eestimaa Rohelised
+0,05.07.1949,Kõrgharidus,konradp@hot.ee,358,Erakond Eestimaa Rohelised,"['MARTTI', 'PREEM']",Puudub
+0,15.09.1984,Keskharidus (sh keskeriharidus),kiku07@mail.ru,359,Erakond Eestimaa Rohelised,"['KRISTINA', 'SADOHHINA']",Puudub
+0,11.05.1967,Kõrgharidus,eero.uustalu@gmail.com,360,Erakond Eestimaa Rohelised,"['EERO', 'UUSTALU']",Erakond Eestimaa Rohelised
+0,01.10.1989,Kõrgharidus,mtiganik@gmail.com,361,Erakond Eestimaa Rohelised,"['MIHKEL', 'TIGANIK']",Erakond Eestimaa Rohelised
+0,16.01.1986,Kõrgharidus,kadri@elujanu.ee,362,Erakond Eestimaa Rohelised,"['KADRI', 'SIKK']",Puudub
+0,22.08.1968,Keskharidus (sh keskeriharidus),aleksander.laane@gmail.com,363,Erakond Eestimaa Rohelised,"['ALEKSANDER', 'LAANE']",Erakond Eestimaa Rohelised
+0,23.11.1969,Kõrgharidus,rene.kuulmann@gmail.com,364,Erakond Eestimaa Rohelised,"['RENE', 'KUULMANN']",Puudub
+0,03.01.1962,Kõrgharidus,helina@tilk.ee,365,Erakond Eestimaa Rohelised,"['HELINA', 'TILK']",Erakond Eestimaa Rohelised
+0,17.05.1959,Kõrgharidus,ulvyko@gmail.com,366,Erakond Eestimaa Rohelised,"['ULVI', 'KOOP']",Erakond Eestimaa Rohelised
+0,08.07.1976,Keskharidus (sh keskeriharidus),reet.harmat@gmail.com,367,Erakond Eestimaa Rohelised,"['REET', 'HÄRMAT']",Puudub
+0,30.01.1965,Keskharidus (sh keskeriharidus),heiki@animalrescue.ee,368,Erakond Eestimaa Rohelised,"['HEIKI', 'VALNER']",Puudub
+0,29.01.1962,Keskharidus (sh keskeriharidus),Email puudub,369,Erakond Eestimaa Rohelised,"['ÜLLE', 'RINGMÄE']",Puudub
+0,08.10.1958,Kõrgharidus,aleksander.pototski@gmail.com,370,Erakond Eestimaa Rohelised,"['ALEKSANDER', 'POTOTSKI']",Puudub
+0,15.07.1973,Kõrgharidus,allantalu@yahoo.com,371,Erakond Eestimaa Rohelised,"['ALLAN', 'TALU']",Puudub
+0,28.10.1993,Kõrgharidus,laura.lisete@gmail.com,372,Erakond Eestimaa Rohelised,"['LAURA', 'LISETE', 'ROOSAAR']",Erakond Eestimaa Rohelised
+0,08.06.1985,Kõrgharidus,annaliisa.asveit@gmail.com,373,Erakond Eestimaa Rohelised,"['ANNALIISA', 'ASVEIT']",Erakond Eestimaa Rohelised
+0,14.02.1992,Kõrgharidus,o.lesment@gmail.com,374,Erakond Eestimaa Rohelised,"['OSKAR-ALEKSANDER', 'LESMENT']",Erakond Eestimaa Rohelised
+0,08.09.1987,Põhiharidus,maksim.eriksson@gmail.com,375,Erakond Eestimaa Rohelised,"['MAKSIM', 'ERIKSSON']",Puudub
+0,25.11.1985,Kõrgharidus,vootelevaher@hotmail.com,376,Erakond Eestimaa Rohelised,"['VOOTELE', 'VAHER']",Puudub
+0,14.01.1973,Kõrgharidus,olev.tinn@gmail.com,377,Erakond Eestimaa Rohelised,"['OLEV-ANDRES', 'TINN']",Erakond Eestimaa Rohelised
+0,18.12.1986,Kõrgharidus,kasparkruve@gmail.com,378,Erakond Eestimaa Rohelised,"['KASPAR', 'KURVE']",Erakond Eestimaa Rohelised
+0,11.02.1978,Kõrgharidus,katrin@bioneer.ee,379,Erakond Eestimaa Rohelised,"['KATRIN', 'JÕGISAAR']",Puudub
+0,24.04.1963,Keskharidus (sh keskeriharidus),blackplait@gmail.com,380,Erakond Eestimaa Rohelised,"['TÕNU', 'TRUBETSKY']",Puudub
+0,28.03.1942,Kõrgharidus,urve.madar@gmail.com,381,Erakond Eestimaa Rohelised,"['URVE', 'MADAR']",Erakond Eestimaa Rohelised
+0,08.05.1963,Kõrgharidus,agu.kivimagi@gmail.com,382,Erakond Eestimaa Rohelised,"['AGU', 'KIVIMÄGI']",Erakond Eestimaa Rohelised
+"Mustamäe tee 96-23, Tallinn",29.05.1985,Keskharidus (sh keskeriharidus),kiisler.imgonnadj.andrei@gmail.com,383,Erakond Eestimaa Rohelised,"['ANDREI', 'KIISLER']",Erakond Eestimaa Rohelised
+0,17.05.1973,Keskharidus (sh keskeriharidus),karinpoldoja@gmail.com,384,Erakond Eestimaa Rohelised,"['KARIN', 'PÕLDOJA']",Puudub
+0,23.03.1963,Keskharidus (sh keskeriharidus),crowses9@gmail.com,385,Erakond Eestimaa Rohelised,"['ERROL', 'VARES']",Erakond Eestimaa Rohelised
+0,01.08.1949,Kõrgharidus,anneartus@gmail.com,386,Erakond Eestimaa Rohelised,"['ANNE', 'ARTUS']",Erakond Eestimaa Rohelised
+0,31.10.1976,Kõrgharidus,tiiu.roosma@gmail.com,387,Erakond Eestimaa Rohelised,"['TIIU', 'ROOSMA']",Puudub
+0,05.11.1970,Keskharidus (sh keskeriharidus),vali.jakko@gmail.com,388,Erakond Eestimaa Rohelised,"['JAKKO', 'VÄLI']",Puudub
+0,09.04.1962,Keskharidus (sh keskeriharidus),anu@scandal.ee,389,Erakond Eestimaa Rohelised,"['ANU', 'NATALY', 'SAAGIM-RATIA']",Puudub
+0,06.05.1987,Keskharidus (sh keskeriharidus),joonas.laks@gmail.com,390,Erakond Eestimaa Rohelised,"['JOONAS', 'LAKS']",Erakond Eestimaa Rohelised
+0,27.02.1968,Kõrgharidus,tiiuann@hot.ee,391,Erakond Eestimaa Rohelised,"['TIIU-ANN', 'KALDMA']",Puudub
+0,10.01.1977,Keskharidus (sh keskeriharidus),andrei.gudim@gmail.com,392,Erakond Eestimaa Rohelised,"['ANDREI', 'GUDIM']",Puudub
+0,29.09.1946,Kõrgharidus,anne.vahemae@gmail.com,393,Erakond Eestimaa Rohelised,"['ANNE', 'VAHEMÄE']",Puudub
+0,17.09.1975,Kõrgharidus,gerthausler@gmail.com,394,Erakond Eestimaa Rohelised,"['GERT', 'HÄUSLER']",Erakond Eestimaa Rohelised
+0,30.11.1972,Kõrgharidus,katrin@animalrescue.ee,395,Erakond Eestimaa Rohelised,"['KATRIN', 'LEHTVEER']",Puudub
+0,24.02.1975,Kõrgharidus,pafnuty@gmail.com,396,Erakond Eestimaa Rohelised,"['PAVEL', 'KRÕLATOV']",Puudub
+0,18.01.1967,Kõrgharidus,chrannit@gmail.com,397,Erakond Eestimaa Rohelised,"['CHRISTINA', 'RANNIT']",Erakond Eestimaa Rohelised
+0,10.07.1970,Keskharidus (sh keskeriharidus),erko5@hot.ee,398,Erakond Eestimaa Rohelised,"['ERKO', 'SOOPALU']",Erakond Eestimaa Rohelised
+0,05.08.1985,Keskharidus (sh keskeriharidus),hannes.mets.gwald@gmail.com,399,Erakond Eestimaa Rohelised,"['HANNES', 'METS']",Puudub
+0,07.02.1945,Kõrgharidus,aulislaks@gmail.com,400,Erakond Eestimaa Rohelised,"['MAI', 'MIKK']",Erakond Eestimaa Rohelised
+0,30.08.1970,Kõrgharidus,andres.meesak@eesti.ee,401,Erakond Eestimaa Rohelised,"['ANDRES', 'MEESAK']",Puudub
+0,16.10.1969,Keskharidus (sh keskeriharidus),aaltoma3@gmail.com,402,Erakond Eestimaa Rohelised,"['KALLE', 'OLUMETS']",Puudub
+0,14.06.1963,Kõrgharidus,aul.pedajas@gmail.com,403,Erakond Eestimaa Rohelised,"['AUL', 'PEDAJAS']",Erakond Eestimaa Rohelised
+0,21.09.1990,Kõrgharidus,laurakiiroja@gmail.com,404,Erakond Eestimaa Rohelised,"['LAURA', 'KIIROJA']",Puudub
+0,17.09.1980,Keskharidus (sh keskeriharidus),rasmus.lahtvee@eesti.ee,405,Erakond Eestimaa Rohelised,"['RASMUS', 'LAHTVEE']",Erakond Eestimaa Rohelised
+0,13.02.1958,Kõrgharidus,maret.merisaar@taltech.ee,406,Erakond Eestimaa Rohelised,"['MARET', 'MERISAAR']",Erakond Eestimaa Rohelised
+0,15.07.1973,Keskharidus (sh keskeriharidus),loore.harmat@mail.ee,407,Erakond Eestimaa Rohelised,"['LOORE', 'HÄRMAT']",Puudub
+0,18.11.1988,Kõrgharidus,kristen.kannik@eesti.ee,408,Erakond Eestimaa Rohelised,"['KRISTEN', 'KANNIK']",Erakond Eestimaa Rohelised
+0,04.08.1958,Keskharidus (sh keskeriharidus),merikekurvits@gmail.com,409,Erakond Eestimaa Rohelised,"['MERIKE', 'KURVITS']",Erakond Eestimaa Rohelised
+0,22.01.1986,Keskharidus (sh keskeriharidus),steve_truum@hotmail.com,410,Erakond Eestimaa Rohelised,"['STEVE', 'TRUUMETS']",Erakond Eestimaa Rohelised
+0,08.04.1995,Põhiharidus,krissikakast@gmail.com,411,Erakond Eestimaa Rohelised,"['KRISSIKA', 'KAST']",Puudub
+0,06.05.1960,Kõrgharidus,alexlotman@gmail.com,412,Erakond Eestimaa Rohelised,"['ALEKSEI', 'LOTMAN']",Erakond Eestimaa Rohelised
+0,10.03.1965,Kõrgharidus,andres.jaadla@gmail.com,413,Erakond Eestimaa Rohelised,"['ANDRES', 'JAADLA']",Puudub
+0,01.10.1966,Kõrgharidus,allan.jaakus@gmail.com,414,Erakond Eestimaa Rohelised,"['ALLAN', 'JAAKUS']",Puudub
+0,23.06.1967,Kõrgharidus,jaanus.nurmoja@eesti.ee,415,Erakond Eestimaa Rohelised,"['JAANUS', 'NURMOJA']",Puudub
+0,19.07.1970,Kõrgharidus,riina.odenko@gmail.com,416,Erakond Eestimaa Rohelised,"['RIINA', 'ODNENKO']",Puudub
+0,05.01.1972,Kõrgharidus,aare72@hot.ee,417,Erakond Eestimaa Rohelised,"['AARE', 'VEEDLA']",Puudub
+0,26.06.1962,Keskharidus (sh keskeriharidus),veerakostina@gmail.com,418,Erakond Eestimaa Rohelised,"['VEERA', 'KOSTINA']",Puudub
+0,31.08.1970,Kõrgharidus,reigolehtla@gmail.com,419,Erakond Eestimaa Rohelised,"['REIGO', 'LEHTLA']",Erakond Eestimaa Rohelised
+0,19.06.1989,Kõrgharidus,timur.sagitov@erakond.ee,420,Erakond Eestimaa Rohelised,"['TIMUR', 'SAGITOV']",Erakond Eestimaa Rohelised
+0,15.05.1961,Kõrgharidus,genateja@gmail.com,421,Erakond Eestimaa Rohelised,"['OLGA', 'GUDKOVA']",Puudub
+0,23.06.1986,Kõrgharidus,r.mutonen@gmail.com,422,Erakond Eestimaa Rohelised,"['ROMAN', 'MUTONEN']",Erakond Eestimaa Rohelised
+0,16.04.1982,Kõrgharidus,norkaa@mail.ru,423,Erakond Eestimaa Rohelised,"['ELEONORA', 'LOGINOVA']",Erakond Eestimaa Rohelised
+0,13.09.1984,Keskharidus (sh keskeriharidus),nomer13@gmail.com,424,Erakond Eestimaa Rohelised,"['ALEKSEI', 'NEHOROŠKIN']",Puudub
+0,10.11.1993,Keskharidus (sh keskeriharidus),anettetmk@gmail.com,425,Erakond Eestimaa Rohelised,"['ANETTE-MARLEN', 'OTT']",Puudub
+0,15.10.1971,Keskharidus (sh keskeriharidus),darjav@gmail.com,426,Erakond Eestimaa Rohelised,"['DARJA', 'VORONTSOVA']",Puudub
+0,29.04.1994,Keskharidus (sh keskeriharidus),leonid.mironov12@gmail.com,427,Erakond Eestimaa Rohelised,"['LEONID', 'MIRONOV']",Puudub
+0,11.09.1979,Kõrgharidus,gafgaf@infoaed.ee,428,Erakond Eestimaa Rohelised,"['MÄRT', 'PÕDER']",Puudub
+0,04.07.1976,Keskharidus (sh keskeriharidus),hannes.puu@gmail.com,429,Erakond Eestimaa Rohelised,"['HANNES', 'PUU']",Erakond Eestimaa Rohelised
+0,11.08.1974,Keskharidus (sh keskeriharidus),arvitapver@gmail.com,430,Erakond Eestimaa Rohelised,"['ARVI', 'TAPVER']",Puudub
+0,17.12.1989,Keskharidus (sh keskeriharidus),rohtla.kris@gmail.com,431,Erakond Eestimaa Rohelised,"['KRISTJAN', 'ROHTLA']",Erakond Eestimaa Rohelised
+0,05.12.1979,Kõrgharidus,helikuuse@gmail.com,432,Erakond Eestimaa Rohelised,"['HELI', 'KUUSE']",Puudub
+0,28.09.1992,Keskharidus (sh keskeriharidus),evelinpermanson@hotmail.com,433,Erakond Eestimaa Rohelised,"['EVELI', 'PERMANSON']",Puudub
+0,25.08.1965,Keskharidus (sh keskeriharidus),tiinarammul@hotmail.com,434,Erakond Eestimaa Rohelised,"['TIINA', 'RAMMUL']",Puudub
+0,08.07.1983,Keskharidus (sh keskeriharidus),erko.elmik@mail.ee,435,Erakond Eestimaa Rohelised,"['ERKO', 'ELMIK']",Puudub
+0,24.05.1984,Kõrgharidus,jyri363@gmail.com,436,Erakond Eestimaa Rohelised,"['JÜRI-JOONAS', 'KEREM']",Erakond Eestimaa Rohelised
+0,04.04.1982,Kõrgharidus,elomaria.roots@gmail.com,437,Erakond Eestimaa Rohelised,"['ELO-MARIA', 'ROOTS']",Erakond Eestimaa Rohelised
+0,28.06.1961,Kõrgharidus,kkunnis@gmail.com,438,Erakond Eestimaa Rohelised,"['KAI', 'KÜNNIS-BERES']",Erakond Eestimaa Rohelised
+0,26.11.1949,Keskharidus (sh keskeriharidus),arvo1949@hot.ee,439,Erakond Eestimaa Rohelised,"['ARVO', 'KUIV']",Erakond Eestimaa Rohelised
+0,10.11.1964,Kõrgharidus,ivohannes@gmail.com,440,Erakond Eestimaa Rohelised,"['IVO-HANNES', 'LEHTSALU']",Erakond Eestimaa Rohelised
+0,23.04.1987,Keskharidus (sh keskeriharidus),erki.saksing@gmail.com,441,Erakond Eestimaa Rohelised,"['ERKI', 'SAKSING']",Erakond Eestimaa Rohelised
+0,24.03.1951,Kõrgharidus,kyllikereimaa@gmail.com,442,Erakond Eestimaa Rohelised,"['KÜLLIKE', 'REIMAA']",Erakond Eestimaa Rohelised
+0,09.09.1971,Keskharidus (sh keskeriharidus),riina@animalrescue.ee,443,Erakond Eestimaa Rohelised,"['RIINA', 'PERNAU']",Puudub
+0,15.04.1964,Kõrgharidus,taavo.savik@kreston.ee,444,Erakond Eestimaa Rohelised,"['TAAVO', 'SAVIK']",Erakond Eestimaa Rohelised
+0,26.01.1996,Keskharidus (sh keskeriharidus),ak.aasik47@gmail.com,445,Erakond Eestimaa Rohelised,"['ALO', 'KAASIK']",Puudub
+0,07.01.1961,Kõrgharidus,lakshenry@gmail.com,446,Erakond Eestimaa Rohelised,"['HENRY', 'LAKS']",Puudub
+0,25.07.1966,Kõrgharidus,marko.kaasik@ut.ee,447,Erakond Eestimaa Rohelised,"['MARKO', 'KAASIK']",Erakond Eestimaa Rohelised
+0,03.07.1988,Kõrgharidus,rea@emys.ee,448,Erakond Eestimaa Rohelised,"['REA', 'SEPPING']",Erakond Eestimaa Rohelised
+0,24.11.1972,Keskharidus (sh keskeriharidus),elmer.joandi@eesti.ee,449,Erakond Eestimaa Rohelised,"['ELMER', 'JOANDI']",Puudub
+0,26.06.1954,Kõrgharidus,jyri.ginter@gmail.com,450,Erakond Eestimaa Rohelised,"['JÜRI', 'GINTER']",Erakond Eestimaa Rohelised
+0,06.11.1977,Kõrgharidus,inga.ploomipuu@mail.ee,451,Erakond Eestimaa Rohelised,"['INGA', 'PLOOMIPUU']",Erakond Eestimaa Rohelised
+0,01.10.1951,Kõrgharidus,Email puudub,452,Erakond Eestimaa Rohelised,"['JAAN', 'OLARI']",Puudub
+0,13.07.1975,Keskharidus (sh keskeriharidus),raul.kubarsepp@gmail.com,453,Erakond Eestimaa Rohelised,"['RAUL', 'KÜBARSEPP']",Erakond Eestimaa Rohelised
+0,25.02.1961,Kõrgharidus,ruth.tammeorg@gmail.com,454,Erakond Eestimaa Rohelised,"['RUTH', 'TAMMEORG']",Erakond Eestimaa Rohelised
+0,08.04.1971,Kõrgharidus,helle.kaasik@ut.ee,455,Erakond Eestimaa Rohelised,"['HELLE', 'KAASIK']",Puudub
+0,09.02.1984,Keskharidus (sh keskeriharidus),merilyvakker@gmail.com,456,Erakond Eestimaa Rohelised,"['MERILY', 'VAKKER']",Puudub
+0,17.12.1966,Kõrgharidus,inga.raitar@gmail.com,457,Erakond Eestimaa Rohelised,"['INGA', 'RAITAR']",Puudub
+0,03.02.1950,Kõrgharidus,mellovzoja@gmail.com,458,Erakond Eestimaa Rohelised,"['ZOJA', 'MELLOV']",Erakond Eestimaa Rohelised
+0,26.03.1963,Keskharidus (sh keskeriharidus),arvimatvei@gmail.com,459,Erakond Eestimaa Rohelised,"['ARVI', 'MATVEI']",Puudub
+0,20.12.1986,Kõrgharidus,stina@rammul.ee,460,Erakond Eestimaa Rohelised,"['STINA', 'RAMMUL']",Puudub
+0,17.12.1986,Põhiharidus,rita.randviir@gmail.com,461,Erakond Eestimaa Rohelised,"['MARGARITA', 'RANDVIIR']",Puudub
+"Kaevu  7, Tallinn 11622",19.03.1959,Kõrgharidus,harri@tilk.ee,462,Erakond Eestimaa Rohelised,"['HARRI', 'TILK']",Erakond Eestimaa Rohelised
+0,14.04.1983,Keskharidus (sh keskeriharidus),moonika_malmre@hotmail.com,463,Erakond Eestimaa Rohelised,"['MOONIKA', 'MALMRE']",Puudub
+0,12.07.1963,Keskharidus (sh keskeriharidus),piret.kaige@gmail.com,464,Erakond Eestimaa Rohelised,"['PIRET', 'KÄIGE']",Erakond Eestimaa Rohelised
+0,15.11.1940,Keskharidus (sh keskeriharidus),eve.taev@gmail.com,465,Erakond Eestimaa Rohelised,"['EVE', 'ROOTS']",Erakond Eestimaa Rohelised
+0,16.10.1982,Keskharidus (sh keskeriharidus),meidi.tiimus@mail.ee,466,Erakond Eestimaa Rohelised,"['MEIDI', 'TIIMUS']",Erakond Eestimaa Rohelised
+0,09.05.1975,Keskharidus (sh keskeriharidus),kristerkivi@gmail.com,467,Erakond Eestimaa Rohelised,"['KRISTER', 'KIVI']",Puudub
+0,14.02.1974,Keskharidus (sh keskeriharidus),margit.adolf@gmail.com,468,Erakond Eestimaa Rohelised,"['MARGIT', 'ADORF']",Puudub
+0,03.09.1985,Keskharidus (sh keskeriharidus),pinkjackal666@gmail.com,469,Erakond Eestimaa Rohelised,"['MIKK', 'PÄRNITS']",Puudub
+0,11.03.1980,Kõrgharidus,tiina.kilkson@mail.ee,470,Erakond Eestimaa Rohelised,"['TIINA', 'KILKSON']",Erakond Eestimaa Rohelised
+0,08.03.1988,Keskharidus (sh keskeriharidus),anu.paluoja@gmail.com,471,Erakond Eestimaa Rohelised,"['ANU', 'PALUOJA']",Puudub
+0,11.01.1975,Keskharidus (sh keskeriharidus),sven@future.ee,472,Erakond Eestimaa Rohelised,"['SVEN', 'ARULAID']",Puudub
+0,04.06.1990,Keskharidus (sh keskeriharidus),johannes.sarapuu@gmail.com,473,Erakond Eestimaa Rohelised,"['JOHANNES', 'SARAPUU']",Puudub
+0,30.04.1967,Kõrgharidus,kristalehari@mac.com,474,Erakond Eestimaa Rohelised,"['KRISTA', 'LEHARI']",Puudub
+0,12.04.1965,Kõrgharidus,tiia.konnussaar@gmail.com,475,Erakond Eestimaa Rohelised,"['TIIA', 'KÕNNUSSAAR']",Puudub
+0,08.11.1973,Kõrgharidus,sven.mikser@mfa.ee,476,Sotsiaaldemokraatlik Erakond,"['SVEN', 'MIKSER']",Sotsiaaldemokraatlik Erakond
+0,12.01.1983,Kõrgharidus,riina.sikkut@gmail.com,477,Sotsiaaldemokraatlik Erakond,"['RIINA', 'SIKKUT']",Sotsiaaldemokraatlik Erakond
+0,12.12.1976,Keskharidus (sh keskeriharidus),jaakjuske@gmail.com,478,Sotsiaaldemokraatlik Erakond,"['JAAK', 'JUSKE']",Sotsiaaldemokraatlik Erakond
+0,26.09.1961,Kõrgharidus,marianne.mikko@riigikogu.ee,479,Sotsiaaldemokraatlik Erakond,"['MARIANNE', 'MIKKO']",Sotsiaaldemokraatlik Erakond
+0,11.03.1977,Kõrgharidus,erika.scholler@sotsid.ee,480,Sotsiaaldemokraatlik Erakond,"['ERIKA', 'SCHOLLER']",Sotsiaaldemokraatlik Erakond
+0,21.01.1985,Kõrgharidus,siim@tuisk.ee,481,Sotsiaaldemokraatlik Erakond,"['SIIM', 'TUISK']",Sotsiaaldemokraatlik Erakond
+0,15.03.1987,Keskharidus (sh keskeriharidus),maris.sild@eesti.ee,482,Sotsiaaldemokraatlik Erakond,"['MARIS', 'SILD']",Sotsiaaldemokraatlik Erakond
+0,08.02.1990,Kõrgharidus,joosep.vimm@gmail.com,483,Sotsiaaldemokraatlik Erakond,"['JOOSEP', 'VIMM']",Sotsiaaldemokraatlik Erakond
+0,11.07.1972,Kõrgharidus,gkasemaa@hotmail.com,484,Sotsiaaldemokraatlik Erakond,"['GERTRUD', 'KASEMAA']",Sotsiaaldemokraatlik Erakond
+0,30.05.1994,Keskharidus (sh keskeriharidus),jevgeni.vaisbein@sotsid.ee,485,Sotsiaaldemokraatlik Erakond,"['JEVGENI', 'VAISBEIN']",Sotsiaaldemokraatlik Erakond
+0,10.09.1974,Põhiharidus,mustamoisa@post.com,486,Sotsiaaldemokraatlik Erakond,"['ROY', 'STRIDER']",Puudub
+0,14.05.1958,Kõrgharidus,andrusvaarik@gmail.com,487,Sotsiaaldemokraatlik Erakond,"['ANDRUS', 'VAARIK']",Sotsiaaldemokraatlik Erakond
+0,15.03.1986,Kõrgharidus,jevgeni.ossinovski@eesti.ee,488,Sotsiaaldemokraatlik Erakond,"['JEVGENI', 'OSSINOVSKI']",Sotsiaaldemokraatlik Erakond
+0,22.05.1972,Kõrgharidus,monika.haukanomm@gmail.com,489,Sotsiaaldemokraatlik Erakond,"['MONIKA', 'HAUKANÕMM']",Puudub
+0,19.04.1963,Kõrgharidus,bpilvre@gmail.com,490,Sotsiaaldemokraatlik Erakond,"['BARBI-JENNY', 'PILVRE-STORGARD']",Sotsiaaldemokraatlik Erakond
+0,21.09.1991,Kõrgharidus,anastassia.kovalenko@tallinn.ee,491,Sotsiaaldemokraatlik Erakond,"['ANASTASSIA', 'KOVALENKO']",Sotsiaaldemokraatlik Erakond
+"Koidu tn 84-2, Tallinn",10.07.1963,Kõrgharidus,andrei.hvostov2011@gmail.com,492,Sotsiaaldemokraatlik Erakond,"['ANDREI', 'HVOSTOV']",Sotsiaaldemokraatlik Erakond
+0,26.12.1987,Kõrgharidus,triin.toomesaar@gmail.com,493,Sotsiaaldemokraatlik Erakond,"['TRIIN', 'TOOMESAAR']",Sotsiaaldemokraatlik Erakond
+0,11.10.1984,Kõrgharidus,madle.lippus@sotsid.ee,494,Sotsiaaldemokraatlik Erakond,"['MADLE', 'LIPPUS']",Puudub
+0,04.06.1971,Keskharidus (sh keskeriharidus),karlmartinsinijarv@gmail.com,495,Sotsiaaldemokraatlik Erakond,"['KARL-MARTIN', 'SINIJÄRV']",Sotsiaaldemokraatlik Erakond
+0,09.08.1962,Kõrgharidus,kristakkampus@gmail.com,496,Sotsiaaldemokraatlik Erakond,"['KRISTA', 'KAMPUS']",Sotsiaaldemokraatlik Erakond
+0,20.05.1984,Kõrgharidus,kristel.rannaaare@sotsid.ee,497,Sotsiaaldemokraatlik Erakond,"['KRISTEL', 'RANNAÄÄRE']",Sotsiaaldemokraatlik Erakond
+0,18.12.1975,Kõrgharidus,kirill.klaus@sotsid.ee,498,Sotsiaaldemokraatlik Erakond,"['KIRILL', 'KLAUS']",Sotsiaaldemokraatlik Erakond
+0,24.03.1986,Kõrgharidus,mihhail.beljajev@gmail.com,499,Sotsiaaldemokraatlik Erakond,"['MIHHAIL', 'BELJAJEV']",Sotsiaaldemokraatlik Erakond
+0,11.05.1984,Kõrgharidus,allan.kaljakin@gmail.com,500,Sotsiaaldemokraatlik Erakond,"['ALLAN', 'KALJAKIN']",Sotsiaaldemokraatlik Erakond
+0,27.08.1945,Kõrgharidus,Maimu.berg@finst.ee,501,Sotsiaaldemokraatlik Erakond,"['MAIMU', 'BERG']",Sotsiaaldemokraatlik Erakond
+0,08.10.1946,Kõrgharidus,jallik@hot.ee,502,Sotsiaaldemokraatlik Erakond,"['JAAK', 'ALLIK']",Sotsiaaldemokraatlik Erakond
+0,10.03.1981,Kõrgharidus,Rainer.Vakra@gmail.com,503,Sotsiaaldemokraatlik Erakond,"['RAINER', 'VAKRA']",Sotsiaaldemokraatlik Erakond
+0,06.07.1950,Kõrgharidus,helve@saidafarm.ee,504,Sotsiaaldemokraatlik Erakond,"['HELVE', 'SÄRGAVA']",Sotsiaaldemokraatlik Erakond
+0,15.02.1959,Kõrgharidus,mart.meri@estinst.ee,505,Sotsiaaldemokraatlik Erakond,"['MART', 'MERI']",Sotsiaaldemokraatlik Erakond
+0,09.12.1950,Keskharidus (sh keskeriharidus),urbkylli@gmail.com,506,Sotsiaaldemokraatlik Erakond,"['KÜLLI', 'URB']",Sotsiaaldemokraatlik Erakond
+0,01.11.1947,Kõrgharidus,olev.remsu@gmail.com,507,Sotsiaaldemokraatlik Erakond,"['OLEV', 'REMSU']",Puudub
+0,03.09.1982,Kõrgharidus,anto.liivat@gmail.com,508,Sotsiaaldemokraatlik Erakond,"['ANTO', 'LIIVAT']",Sotsiaaldemokraatlik Erakond
+0,02.12.1980,Kõrgharidus,Olga.Sotnik@eesti.ee,509,Sotsiaaldemokraatlik Erakond,"['OLGA', 'SÕTNIK']",Puudub
+0,10.12.1939,Kõrgharidus,kiinioja@gmail.com,510,Sotsiaaldemokraatlik Erakond,"['JAAK', 'KANGILASKI']",Sotsiaaldemokraatlik Erakond
+0,22.12.1980,Kõrgharidus,merli.reidolf@gmail.com,511,Sotsiaaldemokraatlik Erakond,"['MERLI', 'REIDOLF']",Sotsiaaldemokraatlik Erakond
+0,12.02.1978,Kõrgharidus,silver.meikar@gmail.com,512,Sotsiaaldemokraatlik Erakond,"['SILVER', 'MEIKAR']",Sotsiaaldemokraatlik Erakond
+0,06.09.1962,Kõrgharidus,marina@kaljurand.ee,513,Sotsiaaldemokraatlik Erakond,"['MARINA', 'KALJURAND']",Sotsiaaldemokraatlik Erakond
+0,05.07.1978,Kõrgharidus,rene.tammist@mkm.ee,514,Sotsiaaldemokraatlik Erakond,"['RENE', 'TAMMIST']",Sotsiaaldemokraatlik Erakond
+facebook.com/kadrikousaar,08.09.1980,Kõrgharidus,kadri.kousaar@gmail.com,515,Sotsiaaldemokraatlik Erakond,"['KADRI', 'KÕUSAAR']",Sotsiaaldemokraatlik Erakond
+0,13.08.1976,Kõrgharidus,tanel.talve@riigikogu.ee,516,Sotsiaaldemokraatlik Erakond,"['TANEL', 'TALVE']",Sotsiaaldemokraatlik Erakond
+0,24.04.1974,Kõrgharidus,petersoo@yahoo.com,517,Sotsiaaldemokraatlik Erakond,"['PILLE', 'PETERSOO']",Sotsiaaldemokraatlik Erakond
+0,11.11.1997,Keskharidus (sh keskeriharidus),j.s.kuusemets@gmail.com,518,Sotsiaaldemokraatlik Erakond,"['JÜRI-SAIMON', 'KUUSEMETS']",Puudub
+0,26.07.1952,Kõrgharidus,merike.metstak@gmail.com,519,Sotsiaaldemokraatlik Erakond,"['MERIKE', 'METSTAK']",Sotsiaaldemokraatlik Erakond
+0,05.11.1954,Kõrgharidus,direktor@rkk.edu.ee,520,Sotsiaaldemokraatlik Erakond,"['TÕNIS', 'BLANK']",Sotsiaaldemokraatlik Erakond
+0,14.10.1984,Kõrgharidus,Email puudub,521,Sotsiaaldemokraatlik Erakond,"['ILJA', 'BORODKIN']",Sotsiaaldemokraatlik Erakond
+0,02.12.1984,Kõrgharidus,ottvaldma@hotmail.com,522,Sotsiaaldemokraatlik Erakond,"['OTT', 'VALDMA']",Sotsiaaldemokraatlik Erakond
+0,16.03.1962,Kõrgharidus,Email puudub,523,Sotsiaaldemokraatlik Erakond,"['AIN', 'PINNONEN']",Sotsiaaldemokraatlik Erakond
+0,10.07.1980,Keskharidus (sh keskeriharidus),Email puudub,524,Sotsiaaldemokraatlik Erakond,"['MARK', 'TENIN']",Puudub
+0,10.10.1991,Kõrgharidus,madisroodla@gmail.com,525,Sotsiaaldemokraatlik Erakond,"['MADIS', 'ROODLA']",Sotsiaaldemokraatlik Erakond
+0,26.08.1967,Kõrgharidus,ain.bockler@eesti.ee,526,Sotsiaaldemokraatlik Erakond,"['AIN', 'BÖCKLER']",Sotsiaaldemokraatlik Erakond
+0,11.09.1958,Kõrgharidus,matiounloo@gmail.com,527,Sotsiaaldemokraatlik Erakond,"['MATI', 'ÕUNLOO']",Sotsiaaldemokraatlik Erakond
+0,04.07.1958,Kõrgharidus,tonu.oja@draamateater.ee,528,Sotsiaaldemokraatlik Erakond,"['TÕNU', 'OJA']",Puudub
+"Tuulmetsa tee 9, Muraste, Harku",08.11.1957,Kõrgharidus,Email puudub,529,Sotsiaaldemokraatlik Erakond,"['HARDI', 'VOLMER']",Sotsiaaldemokraatlik Erakond
+0,22.04.1981,Kõrgharidus,madis_kallas@yahoo.com,530,Sotsiaaldemokraatlik Erakond,"['MADIS', 'KALLAS']",Puudub
+0,19.03.1991,Kõrgharidus,reili.rand@gmail.com,531,Sotsiaaldemokraatlik Erakond,"['REILI', 'RAND']",Sotsiaaldemokraatlik Erakond
+0,02.09.1968,Kõrgharidus,neeme.suur@gmail.com,532,Sotsiaaldemokraatlik Erakond,"['NEEME', 'SUUR']",Sotsiaaldemokraatlik Erakond
+0,12.03.1974,Kõrgharidus,kairit.lindmae@gmail.com,533,Sotsiaaldemokraatlik Erakond,"['KAIRIT', 'LINDMÄE']",Sotsiaaldemokraatlik Erakond
+0,30.01.1974,Kõrgharidus,kaido.siplegas@eesti.ee,534,Sotsiaaldemokraatlik Erakond,"['KAIDO', 'SIPELGAS']",Sotsiaaldemokraatlik Erakond
+0,24.10.1947,Kõrgharidus,steesalu@gmail.com,535,Sotsiaaldemokraatlik Erakond,"['SILVI', 'TEESALU']",Puudub
+0,20.10.1986,Kõrgharidus,Tasujapresidendiks@gmail.com,536,Sotsiaaldemokraatlik Erakond,"['HERGO', 'TASUJA']",Sotsiaaldemokraatlik Erakond
+0,21.04.1978,Keskharidus (sh keskeriharidus),heikihanso@gmail.com,537,Sotsiaaldemokraatlik Erakond,"['HEIKI', 'HANSO']",Sotsiaaldemokraatlik Erakond
+0,20.02.1973,Kõrgharidus,indrek.saar@kul.ee,538,Sotsiaaldemokraatlik Erakond,"['INDREK', 'SAAR']",Sotsiaaldemokraatlik Erakond
+0,05.07.1975,Kõrgharidus,Ene1975@gmail.com,539,Sotsiaaldemokraatlik Erakond,"['ENE', 'AUGASMÄGI']",Sotsiaaldemokraatlik Erakond
+"Venevere küla, Vinni vald, Lääne-Viru Maakond",29.10.1969,Kõrgharidus,eerik.lumiste@gmail.com,540,Sotsiaaldemokraatlik Erakond,"['EERIK', 'LUMISTE']",Sotsiaaldemokraatlik Erakond
+0,02.04.1994,Kõrgharidus,kelly.konetski@gmail.com,541,Sotsiaaldemokraatlik Erakond,"['KELLY', 'KONETSKI-RAMUL']",Sotsiaaldemokraatlik Erakond
+0,22.09.1969,Kõrgharidus,Email puudub,542,Sotsiaaldemokraatlik Erakond,"['MARGUS', 'PUNANE']",Puudub
+0,16.02.1969,Kõrgharidus,kairit.pihlak@gmail.com,543,Sotsiaaldemokraatlik Erakond,"['KAIRIT', 'PIHLAK']",Sotsiaaldemokraatlik Erakond
+0,16.12.1966,Kõrgharidus,garri@ut.ee,544,Sotsiaaldemokraatlik Erakond,"['GARRI', 'RAAGMAA']",Sotsiaaldemokraatlik Erakond
+0,26.10.1967,Kõrgharidus,katri.raik@gmail.com,545,Sotsiaaldemokraatlik Erakond,"['KATRI', 'RAIK']",Sotsiaaldemokraatlik Erakond
+0,27.05.1976,Kõrgharidus,eduard.odinets@eesti.ee,546,Sotsiaaldemokraatlik Erakond,"['EDUARD', 'ODINETS']",Puudub
+0,19.04.1987,Kõrgharidus,maksim.iljin@gmail.com,547,Sotsiaaldemokraatlik Erakond,"['MAKSIM', 'ILJIN']",Puudub
+0,06.11.1984,Kõrgharidus,antonpratkunas@gmail.com,548,Sotsiaaldemokraatlik Erakond,"['ANTON', 'PRATKUNAS']",Puudub
+0,29.03.1958,Kõrgharidus,olesk.tatjana@gmail.com,549,Sotsiaaldemokraatlik Erakond,"['TATJANA', 'OLESK']",Puudub
+0,10.03.1979,Kõrgharidus,sergey.solovjov@gmail.com,550,Sotsiaaldemokraatlik Erakond,"['SERGEI', 'SOLOVJOV']",Sotsiaaldemokraatlik Erakond
+0,22.05.1978,Kõrgharidus,ants.kutti.001@mail.ee,551,Sotsiaaldemokraatlik Erakond,"['ANTS', 'KUTTI']",Puudub
+0,22.01.1998,Keskharidus (sh keskeriharidus),pavel.prokopenko@mail.ee,552,Sotsiaaldemokraatlik Erakond,"['PAVEL', 'PROKOPENKO']",Sotsiaaldemokraatlik Erakond
+0,28.01.1956,Kõrgharidus,etti.kagarov@gmail.com,553,Sotsiaaldemokraatlik Erakond,"['ETTI', 'KAGAROV']",Sotsiaaldemokraatlik Erakond
+"Endla 49, Viljandi 71007, Viljandimaa",28.07.1961,Kõrgharidus,helmen.kytt@gmail.com,554,Sotsiaaldemokraatlik Erakond,"['HELMEN', 'KÜTT']",Sotsiaaldemokraatlik Erakond
+"Pargi 5, Paide linn, 72718 Järvamaa",08.04.1978,Kõrgharidus,siret.pihelgas@paide.ee,555,Sotsiaaldemokraatlik Erakond,"['SIRET', 'PIHELGAS']",Sotsiaaldemokraatlik Erakond
+0,10.06.1971,Kõrgharidus,piret.aus@gmail.com,556,Sotsiaaldemokraatlik Erakond,"['PIRET', 'AUS']",Puudub
+"Põllu 4-24, Väätsa, Türi vald",31.01.1983,Kõrgharidus,L22NEMETS@GMAIL.COM,557,Sotsiaaldemokraatlik Erakond,"['LAURI', 'LÄÄNEMETS']",Sotsiaaldemokraatlik Erakond
+0,08.09.1991,Kõrgharidus,juhan.salumae@gmail.com,558,Sotsiaaldemokraatlik Erakond,"['JUHAN-MART', 'SALUMÄE']",Sotsiaaldemokraatlik Erakond
+0,29.05.1965,Kõrgharidus,kylvar@hotmail.com,559,Sotsiaaldemokraatlik Erakond,"['KÜLVAR', 'MAND']",Puudub
+0,28.08.1959,Kõrgharidus,tambet.sova@gmail.com,560,Sotsiaaldemokraatlik Erakond,"['TAMBET', 'SOVA']",Sotsiaaldemokraatlik Erakond
+0,13.12.1995,Keskharidus (sh keskeriharidus),kaarel.orumagi@gmail.com,561,Sotsiaaldemokraatlik Erakond,"['KAAREL', 'ORUMÄGI']",Puudub
+0,09.03.1962,Kõrgharidus,tonio.tamra@gmail.com,562,Sotsiaaldemokraatlik Erakond,"['TONIO', 'TAMRA']",Sotsiaaldemokraatlik Erakond
+0,05.09.1953,Kõrgharidus,eiki.nestor@riigikogu.ee,563,Sotsiaaldemokraatlik Erakond,"['EIKI', 'NESTOR']",Sotsiaaldemokraatlik Erakond
+0,10.09.1958,Kõrgharidus,jyri.morozov@gmail.com,564,Sotsiaaldemokraatlik Erakond,"['JÜRI', 'MOROZOV']",Sotsiaaldemokraatlik Erakond
+0,09.02.1982,Kõrgharidus,marika.saar@sotsid.ee,565,Sotsiaaldemokraatlik Erakond,"['MARIKA', 'SAAR']",Sotsiaaldemokraatlik Erakond
+0,09.07.1984,Keskharidus (sh keskeriharidus),priit.lomp@gmail.com,566,Sotsiaaldemokraatlik Erakond,"['PRIIT', 'LOMP']",Sotsiaaldemokraatlik Erakond
+0,02.03.1975,Kõrgharidus,Email puudub,567,Sotsiaaldemokraatlik Erakond,"['MARGUS', 'MÖLDRI']",Sotsiaaldemokraatlik Erakond
+"Kalda tee 20-35, Tartu",30.10.1954,Keskharidus (sh keskeriharidus),jaan.sorra@gmail.com,568,Sotsiaaldemokraatlik Erakond,"['JAAN', 'SÕRRA']",Sotsiaaldemokraatlik Erakond
+0,11.09.1947,Kõrgharidus,Email puudub,569,Sotsiaaldemokraatlik Erakond,"['MATI', 'KEPP']",Sotsiaaldemokraatlik Erakond
+0,18.02.1968,Kõrgharidus,maano.koemets@gmail.com,570,Sotsiaaldemokraatlik Erakond,"['MAANO', 'KOEMETS']",Puudub
+0,13.09.1975,Kõrgharidus,jarno.laur@gmail.com,571,Sotsiaaldemokraatlik Erakond,"['JARNO', 'LAUR']",Sotsiaaldemokraatlik Erakond
+0,20.10.1958,Kõrgharidus,heljo.pikhof@riigikogu.ee,572,Sotsiaaldemokraatlik Erakond,"['HELJO', 'PIKHOF']",Sotsiaaldemokraatlik Erakond
+0,23.07.1964,Kõrgharidus,toomas.jyrgenstein@riigikogu.ee,573,Sotsiaaldemokraatlik Erakond,"['TOOMAS', 'JÜRGENSTEIN']",Sotsiaaldemokraatlik Erakond
+"Lepiku 3-1A, Tartu",05.12.1978,Kõrgharidus,geakoverjalg@gmail.com,574,Sotsiaaldemokraatlik Erakond,"['GEA', 'KANGILASKI']",Sotsiaaldemokraatlik Erakond
+0,20.06.1970,Kõrgharidus,meelis.luht@eesti.ee,575,Sotsiaaldemokraatlik Erakond,"['MEELIS', 'LUHT']",Puudub
+0,31.03.1980,Kõrgharidus,lemmit@kaplinski.com,576,Sotsiaaldemokraatlik Erakond,"['LEMMIT', 'KAPLINSKI']",Sotsiaaldemokraatlik Erakond
+0,27.02.1988,Kõrgharidus,ott.maidre@gmail.com,577,Sotsiaaldemokraatlik Erakond,"['OTT', 'MAIDRE']",Sotsiaaldemokraatlik Erakond
+0,18.02.1961,Kõrgharidus,tamme.asko@gmail.com,578,Sotsiaaldemokraatlik Erakond,"['ASKO', 'TAMME']",Sotsiaaldemokraatlik Erakond
+0,11.07.1962,Kõrgharidus,ants@johanson.ee,579,Sotsiaaldemokraatlik Erakond,"['ANTS', 'JOHANSON']",Sotsiaaldemokraatlik Erakond
+0,12.11.1965,Keskharidus (sh keskeriharidus),tonuints@hotmail.com,580,Sotsiaaldemokraatlik Erakond,"['TÕNU', 'INTS']",Sotsiaaldemokraatlik Erakond
+0,07.04.1940,Kõrgharidus,marju.lauristin@ut.ee,581,Sotsiaaldemokraatlik Erakond,"['MARJU', 'LAURISTIN']",Sotsiaaldemokraatlik Erakond
+0,12.03.1965,Kõrgharidus,ivari.padar@gmail.com,582,Sotsiaaldemokraatlik Erakond,"['IVARI', 'PADAR']",Sotsiaaldemokraatlik Erakond
+0,08.12.1954,Kõrgharidus,sirjetobreluts@gmail.com,583,Sotsiaaldemokraatlik Erakond,"['SIRJE', 'TOBRELUTS']",Sotsiaaldemokraatlik Erakond
+0,24.06.1956,Kõrgharidus,rein.randver@gmail.com,584,Sotsiaaldemokraatlik Erakond,"['REIN', 'RANDVER']",Sotsiaaldemokraatlik Erakond
+0,16.11.1974,Keskharidus (sh keskeriharidus),Email puudub,585,Sotsiaaldemokraatlik Erakond,"['KALVI', 'KÕVA']",Sotsiaaldemokraatlik Erakond
+0,13.01.1959,Kõrgharidus,luigasinara@gmail.com,586,Sotsiaaldemokraatlik Erakond,"['INARA', 'LUIGAS']",Sotsiaaldemokraatlik Erakond
+0,16.04.1966,Kõrgharidus,rein@seto.ee,587,Sotsiaaldemokraatlik Erakond,"['REIN', 'JÄRVELILL']",Sotsiaaldemokraatlik Erakond
+0,20.12.1977,Kõrgharidus,maire.murumaa@gmail.com,588,Sotsiaaldemokraatlik Erakond,"['MAIRE', 'MURUMAA']",Puudub
+0,20.05.1965,Kõrgharidus,tarmo.tamm25@gmail.com,589,Sotsiaaldemokraatlik Erakond,"['TARMO', 'TAMM']",Sotsiaaldemokraatlik Erakond
+0,15.05.1972,Kõrgharidus,Email puudub,590,Sotsiaaldemokraatlik Erakond,"['KAUPO', 'KUTSAR']",Sotsiaaldemokraatlik Erakond
+0,26.11.1977,Kõrgharidus,allas.anti@gmail.com,591,Sotsiaaldemokraatlik Erakond,"['ANTI', 'ALLAS']",Sotsiaaldemokraatlik Erakond
+0,03.02.1964,Kõrgharidus,indrek.tarand@europarl.europa.eu,592,Sotsiaaldemokraatlik Erakond,"['INDREK', 'TARAND']",Puudub
+"Lähkma küla, Saarde vald, Pärnumaa",20.11.1966,Kõrgharidus,kadri_aija@hotmail.com,593,Sotsiaaldemokraatlik Erakond,"['KADRI-AIJA', 'VIIK']",Sotsiaaldemokraatlik Erakond
+0,26.02.1978,Kõrgharidus,kalevkaljuste@gmail.com,594,Sotsiaaldemokraatlik Erakond,"['KALEV', 'KALJUSTE']",Sotsiaaldemokraatlik Erakond
+0,16.09.1954,Kõrgharidus,merimaamercedes@gmail.com,595,Sotsiaaldemokraatlik Erakond,"['MERCEDES', 'MERIMAA']",Sotsiaaldemokraatlik Erakond
+"Varbla mnt 34, Tõstamaa alev, Pärnu",25.03.1969,Kõrgharidus,madis@tostamaa.ee,596,Sotsiaaldemokraatlik Erakond,"['MADIS', 'VESKIMÄGI']",Sotsiaaldemokraatlik Erakond
+0,28.03.1979,Kõrgharidus,reelika.ryytli@gmail.com,597,Sotsiaaldemokraatlik Erakond,"['REELIKA', 'RÜÜTLI']",Sotsiaaldemokraatlik Erakond
+0,23.11.1966,Kõrgharidus,Email puudub,598,Sotsiaaldemokraatlik Erakond,"['TATJANA', 'JAANSON']",Sotsiaaldemokraatlik Erakond
+0,06.07.1987,Kõrgharidus,anet.tomaspolskaja@riigikogu.ee,599,Sotsiaaldemokraatlik Erakond,"['ANET', 'TOMAŠPOLSKAJA']",Puudub
+0,25.12.1953,Kõrgharidus,jaan.krinal@gmail.com,600,Sotsiaaldemokraatlik Erakond,"['JAAN', 'KRINAL']",Sotsiaaldemokraatlik Erakond
+0,25.04.1975,Kõrgharidus,mihkel.kangur@tlu.ee,601,Elurikkuse Erakond,"['MIHKEL', 'KANGUR']",Elurikkuse Erakond
+0,18.11.1978,Kõrgharidus,allan.kokkota@mail.ee,602,Elurikkuse Erakond,"['ALLAN', 'KOKKOTA']",Elurikkuse Erakond
+0,17.08.1971,Keskharidus (sh keskeriharidus),allanprooso@gmail.com,603,Elurikkuse Erakond,"['ALLAN', 'PROOSO']",Elurikkuse Erakond
+0,20.08.1976,Keskharidus (sh keskeriharidus),sysivalge@gmail.com,604,Elurikkuse Erakond,"['KERTU', 'NAMSING']",Elurikkuse Erakond
+0,28.08.1969,Kõrgharidus,riina.soone@gmail.com,605,Elurikkuse Erakond,"['RIINA', 'SOONE']",Elurikkuse Erakond
+0,11.01.1978,Kõrgharidus,riinu.lepa@gmail.com,606,Elurikkuse Erakond,"['RIINU', 'LEPA']",Elurikkuse Erakond
+0,05.02.1977,Keskharidus (sh keskeriharidus),siiri@siromo.ee,607,Elurikkuse Erakond,"['SIIRI', 'TIIVITS-PUTTONEN']",Elurikkuse Erakond
+0,18.12.1967,Kõrgharidus,ulo.mangel@gmail.com,608,Elurikkuse Erakond,"['ÜLO', 'MÄNGEL']",Puudub
+0,15.04.1972,Kõrgharidus,toomas.trapido@gmail.com,609,Elurikkuse Erakond,"['TOOMAS', 'TRAPIDO']",Elurikkuse Erakond
+0,09.10.1967,Kõrgharidus,eve@heleilm.ee,610,Elurikkuse Erakond,"['EVE', 'RANDVERE']",Elurikkuse Erakond
+0,17.08.1975,Kõrgharidus,Helen.oravkotta@gmail.com,611,Elurikkuse Erakond,"['HELEN', 'ORAV-KOTTA']",Elurikkuse Erakond
+0,21.06.1969,Kõrgharidus,harjur13@hot.ee,612,Elurikkuse Erakond,"['JAANUS-JUHAN', 'ILLEND']",Elurikkuse Erakond
+0,24.04.1965,Keskharidus (sh keskeriharidus),hullkurr@gmail.com,613,Elurikkuse Erakond,"['JÜRI', 'KÕUK', 'ROOST']",Elurikkuse Erakond
+0,13.06.1992,Kõrgharidus,matumark@gmail.com,614,Elurikkuse Erakond,"['MADIS', 'MARK']",Elurikkuse Erakond
+0,13.04.1974,Kõrgharidus,prtrn@tlu.ee,615,Elurikkuse Erakond,"['PIRET', 'RÄNI']",Elurikkuse Erakond
+0,05.08.1949,Kõrgharidus,reetpk@gmail.com,616,Elurikkuse Erakond,"['REET', 'POOM']",Elurikkuse Erakond
+0,19.10.1979,Kõrgharidus,teet@roheline.ee,617,Elurikkuse Erakond,"['TEET', 'RANDMA']",Elurikkuse Erakond
+0,10.07.1975,Keskharidus (sh keskeriharidus),Email puudub,618,Elurikkuse Erakond,"['LAURI', 'TÕNSPOEG']",Elurikkuse Erakond
+0,14.06.1972,Keskharidus (sh keskeriharidus),andres.vesper@gmail.com,619,Elurikkuse Erakond,"['ANDRES', 'VESPER']",Elurikkuse Erakond
+0,18.09.1963,Kõrgharidus,jyri.peterson@gmail.com,620,Elurikkuse Erakond,"['JÜRI', 'PETERSON']",Elurikkuse Erakond
+0,09.11.1963,Kõrgharidus,ottkostner@gmail.com,621,Elurikkuse Erakond,"['OTT', 'KÖSTNER']",Elurikkuse Erakond
+0,13.06.1964,Kõrgharidus,artur@talvik.ee,622,Elurikkuse Erakond,"['ARTUR', 'TALVIK']",Elurikkuse Erakond
+0,18.07.1949,Kõrgharidus,eha.metsallik@gmail.com,623,Elurikkuse Erakond,"['EHA', 'METSALLIK']",Elurikkuse Erakond
+0,04.07.1971,Kõrgharidus,heli.piisang@gmail.com,624,Elurikkuse Erakond,"['HELI', 'PIISANG']",Elurikkuse Erakond
+0,13.11.1962,Kõrgharidus,jaanus.saadve@gmail.com,625,Elurikkuse Erakond,"['JAANUS', 'SAADVE']",Elurikkuse Erakond
+0,11.06.1973,Kõrgharidus,kajake100@gmail.com,626,Elurikkuse Erakond,"['KAJA', 'KARU-ESPENBERG']",Elurikkuse Erakond
+0,18.11.1960,Kõrgharidus,kalle@virkus.com,627,Elurikkuse Erakond,"['KALLE', 'VIRKUS']",Elurikkuse Erakond
+0,24.09.1979,Kõrgharidus,liistruubon@gmail.com,628,Elurikkuse Erakond,"['LIIS', 'TRUUBON']",Elurikkuse Erakond
+0,30.04.1961,Kõrgharidus,madis.iganomm@gmail.com,629,Elurikkuse Erakond,"['MADIS', 'IGANÕMM']",Elurikkuse Erakond
+0,12.06.1963,Keskharidus (sh keskeriharidus),marika.jahilo@gmail.com,630,Elurikkuse Erakond,"['MARIKA', 'JAHILO']",Elurikkuse Erakond
+0,12.12.1977,Kõrgharidus,paavo.eensalu@gmail.com,631,Elurikkuse Erakond,"['PAAVO', 'EENSALU']",Elurikkuse Erakond
+0,16.04.1964,Keskharidus (sh keskeriharidus),riho.kirmjoe@gmail.com,632,Elurikkuse Erakond,"['RIHO', 'KIRMJÕE']",Elurikkuse Erakond
+0,26.03.1964,Kõrgharidus,aldur007@gmail.com,633,Elurikkuse Erakond,"['URMAS', 'EELMÄE']",Elurikkuse Erakond
+0,11.06.1968,Keskharidus (sh keskeriharidus),val.rajasaar@studioviridis.ee,634,Elurikkuse Erakond,"['VAL', 'RAJASAAR']",Elurikkuse Erakond
+0,22.07.1962,Keskharidus (sh keskeriharidus),kaupovipp@gmail.com,635,Elurikkuse Erakond,"['KAUPO', 'VIPP']",Elurikkuse Erakond
+0,08.12.1959,Keskharidus (sh keskeriharidus),info@naturesbestbounty.com,636,Elurikkuse Erakond,"['ENN', 'KALJO']",Elurikkuse Erakond
+0,29.06.1962,Kõrgharidus,pahapill.enri2@gmail.com,637,Elurikkuse Erakond,"['ENRI', 'PAHAPILL']",Elurikkuse Erakond
+0,21.02.1964,Keskharidus (sh keskeriharidus),haavasalu6@gmail.com,638,Elurikkuse Erakond,"['MÄRT', 'RANDOJA']",Elurikkuse Erakond
+0,10.10.1969,Keskharidus (sh keskeriharidus),siljareemet@gmail.com,639,Elurikkuse Erakond,"['SILJA', 'REEMET']",Elurikkuse Erakond
+0,22.05.1976,Keskharidus (sh keskeriharidus),noid.sirkka@gmail.com,640,Elurikkuse Erakond,"['SIRKKA', 'PINTMANN']",Puudub
+0,03.08.1970,Kõrgharidus,pisimutukas@gmail.com,641,Elurikkuse Erakond,"['LAURI', 'KLEIN']",Elurikkuse Erakond
+0,05.06.1965,Kõrgharidus,cornelia.kotto@gmail.com,642,Elurikkuse Erakond,"['CORNELIA', 'KOTTO']",Elurikkuse Erakond
+0,02.03.1971,Keskharidus (sh keskeriharidus),jyri.shestakov@gmail.com,643,Elurikkuse Erakond,"['JÜRI-ILLIMAR', 'REINBERG-ŠESTAKOV']",Elurikkuse Erakond
+0,25.12.1974,Kõrgharidus,toikka.kaja@gmail.com,644,Elurikkuse Erakond,"['KAJA', 'TOIKKA']",Elurikkuse Erakond
+0,09.07.1955,Kõrgharidus,ago.samson@yahoo.com,645,Elurikkuse Erakond,"['AGO', 'SAMOSON']",Elurikkuse Erakond
+J.Köleri 26/2-15 Tallinn 10150,07.07.1964,Kõrgharidus,Riina.eigi@gmail.com,646,Elurikkuse Erakond,"['RIINA', 'EIGI']",Elurikkuse Erakond
+0,13.09.1972,Keskharidus (sh keskeriharidus),janicasepp@yahoo.com,647,Elurikkuse Erakond,"['JANICA', 'SEPP']",Elurikkuse Erakond
+0,29.05.1970,Kõrgharidus,Email puudub,648,Elurikkuse Erakond,"['PEEP', 'TOBRELUTS']",Elurikkuse Erakond
+0,25.12.1972,Kõrgharidus,priit.kalev.parts@gmail.com,649,Elurikkuse Erakond,"['PRIIT-KALEV', 'PARTS']",Elurikkuse Erakond
+0,10.01.1959,Kõrgharidus,ylle.kuldkepp@hotmail.com,650,Elurikkuse Erakond,"['ÜLLE', 'KULDKEPP']",Elurikkuse Erakond
+0,15.01.1959,Kõrgharidus,peeter.lepisk@gmail.com,651,Elurikkuse Erakond,"['PEETER', 'LEPISK']",Elurikkuse Erakond
+0,06.12.1966,Kõrgharidus,anneli.palo1@gmail.com,652,Elurikkuse Erakond,"['ANNELI', 'PALO']",Elurikkuse Erakond
+0,18.03.1966,Kõrgharidus,kylli.org@gmail.com,653,Elurikkuse Erakond,"['KÜLLI', 'ORG']",Puudub
+0,17.01.1970,Keskharidus (sh keskeriharidus),tauno.laasik@gmail.com,654,Elurikkuse Erakond,"['TAUNO', 'LAASIK']",Elurikkuse Erakond
+0,13.12.1937,Kõrgharidus,toomas.frey@mail.ee,655,Elurikkuse Erakond,"['TOOMAS', 'FREY']",Elurikkuse Erakond
+0,30.03.1969,Keskharidus (sh keskeriharidus),ahto@hiis.ee,656,Elurikkuse Erakond,"['AHTO', 'KAASIK']",Elurikkuse Erakond
+0,21.03.1965,Kõrgharidus,mart.jussi@gmail.com,657,Elurikkuse Erakond,"['MART', 'JÜSSI']",Elurikkuse Erakond
+0,10.12.1971,Kõrgharidus,rainer.kuuba@gmail.com,658,Elurikkuse Erakond,"['RAINER', 'KUUBA']",Elurikkuse Erakond
+0,18.07.1975,Kõrgharidus,airi.hallik@gmail.com,659,Elurikkuse Erakond,"['AIRI', 'HALLIK-KONNULA']",Elurikkuse Erakond
+0,10.08.1996,Kõrgharidus,alexander.linnamae@gmail.com,660,Elurikkuse Erakond,"['ALEXANDER', 'LINNAMÄE']",Elurikkuse Erakond
+0,30.08.1962,Kõrgharidus,eda.veeroja@gmail.com,661,Elurikkuse Erakond,"['EDA', 'VEEROJA']",Elurikkuse Erakond
+0,05.01.1976,Kõrgharidus,lilian@karula.com,662,Elurikkuse Erakond,"['LILIAN', 'FREIBERG']",Elurikkuse Erakond
+0,19.03.1974,Kõrgharidus,oliver.loode@uralic.org,663,Elurikkuse Erakond,"['OLIVER', 'LOODE']",Elurikkuse Erakond
+0,07.07.1934,Kõrgharidus,reinasto34@gmail.com,664,Elurikkuse Erakond,"['REIN', 'EINASTO']",Elurikkuse Erakond
+0,17.05.1969,Kõrgharidus,arabian@hot.ee,665,Elurikkuse Erakond,"['REIN', 'LEPP']",Elurikkuse Erakond
+0,23.09.1962,Kõrgharidus,Email puudub,666,Elurikkuse Erakond,"['ÜLLE', 'KAUKSI']",Elurikkuse Erakond
+0,19.12.1970,Kõrgharidus,mati.kose@gmail.com,667,Elurikkuse Erakond,"['MATI', 'KOSE']",Elurikkuse Erakond
+"Laeva 6-2, Pärnu",24.03.1967,Kõrgharidus,aivar.ruukel@gmail.com,668,Elurikkuse Erakond,"['AIVAR', 'RUUKEL']",Elurikkuse Erakond
+Tartu,22.07.1995,Keskharidus (sh keskeriharidus),grete.pertel@gmail.com,669,Elurikkuse Erakond,"['GRETE', 'PERTEL']",Elurikkuse Erakond
+0,01.08.1971,Keskharidus (sh keskeriharidus),kerstireppo@gmail.com,670,Elurikkuse Erakond,"['KERSTI', 'REPPO']",Puudub
+0,01.01.1973,Kõrgharidus,tauno@eestiforell.eu,671,Elurikkuse Erakond,"['TAUNO', 'JÜRGENSTEIN']",Elurikkuse Erakond
+0,05.05.1957,Keskharidus (sh keskeriharidus),Email puudub,672,Elurikkuse Erakond,"['TEHO', 'PAULUS']",Elurikkuse Erakond
+0,07.10.1971,Kõrgharidus,thea.perm@gmail.com,673,Elurikkuse Erakond,"['THEA', 'PERM']",Elurikkuse Erakond
+0,04.07.1961,Kõrgharidus,urmase1@gmail.com,674,Eesti Konservatiivne Rahvaerakond,"['URMAS', 'ESPENBERG']",Eesti Konservatiivne Rahvaerakond
+"Lahepea 7-56, Tallinn",09.07.1958,Keskharidus (sh keskeriharidus),urmasreitelmann@gmail.com,675,Eesti Konservatiivne Rahvaerakond,"['URMAS', 'REITELMANN']",Eesti Konservatiivne Rahvaerakond
+"Sireli 3, Kiili, 75401",05.12.1971,Kõrgharidus,argo.luude@gmail.com,676,Eesti Konservatiivne Rahvaerakond,"['ARGO', 'LUUDE']",Eesti Konservatiivne Rahvaerakond
+0,04.05.1962,Keskharidus (sh keskeriharidus),olaf@intervox.ee,677,Eesti Konservatiivne Rahvaerakond,"['KARL', 'OLAF', 'RÄÄK']",Eesti Konservatiivne Rahvaerakond
+0,21.12.1951,Kõrgharidus,toivo.tasa@hotmail.com,678,Eesti Konservatiivne Rahvaerakond,"['TOIVO', 'TASA']",Eesti Konservatiivne Rahvaerakond
+"Gonsiori 12-21, Tallinn 10117",05.04.1962,Kõrgharidus,atsmiller@gmail.com,679,Eesti Konservatiivne Rahvaerakond,"['ANTS', 'MILLER']",Eesti Konservatiivne Rahvaerakond
+0,30.04.1988,Kõrgharidus,onnelioigusnou@gmail.com,680,Eesti Konservatiivne Rahvaerakond,"['ÕNNELI', 'MATT']",Eesti Konservatiivne Rahvaerakond
+Madara 12-7,06.08.1956,Keskharidus (sh keskeriharidus),rix.rausma@gmail.com,681,Eesti Konservatiivne Rahvaerakond,"['RIHO', 'RAUSMA']",Eesti Konservatiivne Rahvaerakond
+0,23.11.1976,Kõrgharidus,edaruutel@hot.ee,682,Eesti Konservatiivne Rahvaerakond,"['EDA', 'RÜÜTEL']",Eesti Konservatiivne Rahvaerakond
+0,27.09.1965,Keskharidus (sh keskeriharidus),kylli.remsu@hotmail.com,683,Eesti Konservatiivne Rahvaerakond,"['KÜLLI', 'REMSU']",Eesti Konservatiivne Rahvaerakond
+0,25.02.1962,Keskharidus (sh keskeriharidus),urmas.siemer@gmail.com,684,Eesti Konservatiivne Rahvaerakond,"['URMAS', 'SIEMER']",Eesti Konservatiivne Rahvaerakond
+0,28.06.1983,Kõrgharidus,georg.kirsberg@gmail.com,685,Eesti Konservatiivne Rahvaerakond,"['GEORG', 'KIRSBERG']",Eesti Konservatiivne Rahvaerakond
+0,14.11.1967,Kõrgharidus,Email puudub,686,Eesti Konservatiivne Rahvaerakond,"['LEO', 'KUNNAS']",Puudub
+0,21.10.1951,Kõrgharidus,endel.oja@outlook.com,687,Eesti Konservatiivne Rahvaerakond,"['ENDEL', 'OJA']",Eesti Konservatiivne Rahvaerakond
+0,01.05.1955,Kõrgharidus,mait.talu@neti.ee,688,Eesti Konservatiivne Rahvaerakond,"['MAIT', 'TALU']",Eesti Konservatiivne Rahvaerakond
+0,12.07.1958,Keskharidus (sh keskeriharidus),riho.nd@mail.ee,689,Eesti Konservatiivne Rahvaerakond,"['RIHO', 'NÜÜD']",Eesti Konservatiivne Rahvaerakond
+"J. Vilmsi 48-70, Tallinn 10126",29.05.1968,Kõrgharidus,urmas.simon@tibar.ee,690,Eesti Konservatiivne Rahvaerakond,"['URMAS', 'SIMON']",Eesti Konservatiivne Rahvaerakond
+"Linnamäe tee 37-62, 13912 Tallinn",03.07.1951,Kõrgharidus,raul.opik@hotmail.com,691,Eesti Konservatiivne Rahvaerakond,"['RAUL', 'ÖPIK']",Eesti Konservatiivne Rahvaerakond
+0,11.09.1956,Kõrgharidus,ksiiak@hot.ee,692,Eesti Konservatiivne Rahvaerakond,"['KARINE', 'SIIAK']",Eesti Konservatiivne Rahvaerakond
+0,30.04.1967,Kõrgharidus,hassouuetoa@gmail.com,693,Eesti Konservatiivne Rahvaerakond,"['HASSO', 'UUETOA']",Eesti Konservatiivne Rahvaerakond
+0,27.06.1964,Kõrgharidus,veikovalgepea@gmail.com,694,Eesti Konservatiivne Rahvaerakond,"['VEIKO', 'HARTWIG', 'VALGEPEA']",Eesti Konservatiivne Rahvaerakond
+0,23.11.1956,Keskharidus (sh keskeriharidus),viljotamm60@gmailcom,695,Eesti Konservatiivne Rahvaerakond,"['VILJO', 'TAMM']",Eesti Konservatiivne Rahvaerakond
+"Narva mnt 14-14, Tallinn 10120",29.11.1957,Kõrgharidus,mare@rkelu.ee,696,Eesti Konservatiivne Rahvaerakond,"['MARE', 'LIIGER']",Eesti Konservatiivne Rahvaerakond
+0,16.01.1954,Keskharidus (sh keskeriharidus),kobinj@hot.ee,697,Eesti Konservatiivne Rahvaerakond,"['JUHAN', 'KOBIN']",Eesti Konservatiivne Rahvaerakond
+0,17.10.1964,Keskharidus (sh keskeriharidus),piretkollo@gmail.com,698,Eesti Konservatiivne Rahvaerakond,"['PIRET', 'KOLLO']",Eesti Konservatiivne Rahvaerakond
+0,27.09.1951,Kõrgharidus,katrin.linde@eesti.ee,699,Eesti Konservatiivne Rahvaerakond,"['KATRIN', 'LINDE']",Eesti Konservatiivne Rahvaerakond
+0,13.02.1975,Kõrgharidus,kairet.grassmann@gmail.com,700,Eesti Konservatiivne Rahvaerakond,"['KAIRET', 'REMMAK-GRASSMANN']",Eesti Konservatiivne Rahvaerakond
+0,24.04.1976,Kõrgharidus,martinhelme@hotmail.com,701,Eesti Konservatiivne Rahvaerakond,"['MARTIN', 'HELME']",Eesti Konservatiivne Rahvaerakond
+0,13.04.1982,Kõrgharidus,kadrivilba@gmail.com,702,Eesti Konservatiivne Rahvaerakond,"['KADRI', 'VILBA']",Eesti Konservatiivne Rahvaerakond
+0,08.08.1985,Keskharidus (sh keskeriharidus),wesse.allik@hotmail.com,703,Eesti Konservatiivne Rahvaerakond,"['WESSE', 'ALLIK']",Eesti Konservatiivne Rahvaerakond
+0,01.02.1963,Keskharidus (sh keskeriharidus),kallasmart@hot.ee,704,Eesti Konservatiivne Rahvaerakond,"['MART', 'KALLAS']",Eesti Konservatiivne Rahvaerakond
+www.facebook.com/eve.parnaste,19.02.1951,Kõrgharidus,eve.parnaste@gmail.com,705,Eesti Konservatiivne Rahvaerakond,"['EVE', 'PÄRNASTE']",Eesti Konservatiivne Rahvaerakond
+0,03.07.1965,Kõrgharidus,raivo.pohjakivi@gmail.com,706,Eesti Konservatiivne Rahvaerakond,"['RAIVO', 'PÕHJAKIVI']",Eesti Konservatiivne Rahvaerakond
+0,28.08.1968,Kõrgharidus,tonis.tahe@gmail.com,707,Eesti Konservatiivne Rahvaerakond,"['TÕNIS', 'TÄHE']",Eesti Konservatiivne Rahvaerakond
+"Kaarna 27-3, 10620, Tallinn",25.05.1972,Kõrgharidus,pere.andre1@gmail.com,708,Eesti Konservatiivne Rahvaerakond,"['ANDRE', 'PERE']",Eesti Konservatiivne Rahvaerakond
+0,11.03.1951,Keskharidus (sh keskeriharidus),kassiisa@gmail.com,709,Eesti Konservatiivne Rahvaerakond,"['JÜRI', 'BÖHM']",Eesti Konservatiivne Rahvaerakond
+0,07.09.1960,Keskharidus (sh keskeriharidus),ainpedajas@hotmail.com,710,Eesti Konservatiivne Rahvaerakond,"['AIN', 'PEDAJAS']",Eesti Konservatiivne Rahvaerakond
+0,16.02.1960,Kõrgharidus,hennpolluaas@gmail.com,711,Eesti Konservatiivne Rahvaerakond,"['HENN', 'PÕLLUAAS']",Eesti Konservatiivne Rahvaerakond
+0,14.05.1985,Keskharidus (sh keskeriharidus),siim@tre.ee,712,Eesti Konservatiivne Rahvaerakond,"['SIIM', 'POHLAK']",Eesti Konservatiivne Rahvaerakond
+0,04.03.1980,Kõrgharidus,rene@rmeinvest.ee,713,Eesti Konservatiivne Rahvaerakond,"['RENE', 'KOKK']",Eesti Konservatiivne Rahvaerakond
+0,05.09.1964,Kõrgharidus,Email puudub,714,Eesti Konservatiivne Rahvaerakond,"['PAUL', 'PUUSTUSMAA']",Eesti Konservatiivne Rahvaerakond
+0,23.11.1952,Kõrgharidus,kai.rimmel@gmail.com,715,Eesti Konservatiivne Rahvaerakond,"['KAI', 'RIMMEL']",Eesti Konservatiivne Rahvaerakond
+0,08.10.1982,Kõrgharidus,marek.leinemann@gmail.com,716,Eesti Konservatiivne Rahvaerakond,"['MAREK', 'LEINEMANN']",Eesti Konservatiivne Rahvaerakond
+0,21.02.1956,Kõrgharidus,mart.jarvik@gmail.com,717,Eesti Konservatiivne Rahvaerakond,"['MART', 'JÄRVIK']",Eesti Konservatiivne Rahvaerakond
+0,26.02.1978,Kõrgharidus,tonuurva@gmail.com,718,Eesti Konservatiivne Rahvaerakond,"['TÕNU', 'URVA']",Eesti Konservatiivne Rahvaerakond
+0,09.02.1973,Keskharidus (sh keskeriharidus),jaanus.harms@gmail.com,719,Eesti Konservatiivne Rahvaerakond,"['JAANUS', 'HÄRMS']",Eesti Konservatiivne Rahvaerakond
+"Paldiski mnt 26A, Keila",22.09.1968,Kõrgharidus,rolandtonisson@hotmail.com,720,Eesti Konservatiivne Rahvaerakond,"['ROLAND', 'TÕNISSON']",Eesti Konservatiivne Rahvaerakond
+0,09.11.1952,Kõrgharidus,Email puudub,721,Eesti Konservatiivne Rahvaerakond,"['ALAR', 'VALGE']",Eesti Konservatiivne Rahvaerakond
+0,19.06.1961,Kõrgharidus,meelisrosenfeld@hotmail.com,722,Eesti Konservatiivne Rahvaerakond,"['MEELIS', 'ROSENFELD']",Eesti Konservatiivne Rahvaerakond
+0,24.08.1951,Kõrgharidus,peeter.krall@hot.ee,723,Eesti Konservatiivne Rahvaerakond,"['PEETER', 'KRALL']",Eesti Konservatiivne Rahvaerakond
+0,27.06.1981,Keskharidus (sh keskeriharidus),ranno@mail.com,724,Eesti Konservatiivne Rahvaerakond,"['RANNO', 'POOL']",Eesti Konservatiivne Rahvaerakond
+0,29.12.1955,Keskharidus (sh keskeriharidus),kaurt@hotmail.com,725,Eesti Konservatiivne Rahvaerakond,"['TÕNU', 'KAUR']",Eesti Konservatiivne Rahvaerakond
+0,16.11.1971,Keskharidus (sh keskeriharidus),estbioheat@gmail.com,726,Eesti Konservatiivne Rahvaerakond,"['RUDOLF', 'JEESER']",Eesti Konservatiivne Rahvaerakond
+0,20.08.1987,Keskharidus (sh keskeriharidus),mihkel.saretok@gmail.com,727,Eesti Konservatiivne Rahvaerakond,"['MIHKEL', 'SARETOK']",Eesti Konservatiivne Rahvaerakond
+"Tanuma 15, Tallinn",08.07.1966,Kõrgharidus,moonikahelme@gmail.com,728,Eesti Konservatiivne Rahvaerakond,"['HELLE-MOONIKA', 'HELME']",Eesti Konservatiivne Rahvaerakond
+0,19.08.1958,Keskharidus (sh keskeriharidus),jaen.tear@mail.ee,729,Eesti Konservatiivne Rahvaerakond,"['JAEN', 'TEÄR']",Eesti Konservatiivne Rahvaerakond
+0,06.03.1972,Keskharidus (sh keskeriharidus),hardi11@hot.ee,730,Eesti Konservatiivne Rahvaerakond,"['HARDI', 'REHKALT']",Eesti Konservatiivne Rahvaerakond
+0,17.12.1978,Kõrgharidus,agnes.pulk@gmail.com,731,Eesti Konservatiivne Rahvaerakond,"['AGNES', 'PULK']",Eesti Konservatiivne Rahvaerakond
+0,19.02.1978,Kõrgharidus,illepalusalu@gmail.com,732,Eesti Konservatiivne Rahvaerakond,"['ILLE', 'PALUSALU']",Eesti Konservatiivne Rahvaerakond
+0,20.12.1963,Keskharidus (sh keskeriharidus),toomas.vallimae@mail.ee,733,Eesti Konservatiivne Rahvaerakond,"['TOOMAS', 'VALLIMÄE']",Eesti Konservatiivne Rahvaerakond
+0,23.10.1992,Põhiharidus,judnavmartin@gmail.com,734,Eesti Konservatiivne Rahvaerakond,"['MARTIN', 'JUDANOV']",Eesti Konservatiivne Rahvaerakond
+0,19.09.1983,Keskharidus (sh keskeriharidus),daniel.mereaar@gmail.com,735,Eesti Konservatiivne Rahvaerakond,"['DANIEL', 'MEREÄÄR']",Eesti Konservatiivne Rahvaerakond
+0,22.02.1971,Kõrgharidus,anti.poolamets@eesti.ee,736,Eesti Konservatiivne Rahvaerakond,"['ANTI', 'POOLAMETS']",Eesti Konservatiivne Rahvaerakond
+0,04.07.1970,Kõrgharidus,marti.kuusik@eesti.ee,737,Eesti Konservatiivne Rahvaerakond,"['MARTI', 'KUUSIK']",Puudub
+0,13.12.1967,Keskharidus (sh keskeriharidus),aarne.mae@gmail.com,738,Eesti Konservatiivne Rahvaerakond,"['AARNE', 'MÄE']",Puudub
+"Koidu 87-30, Kunda, Viru-Nigula vald",04.10.1964,Kõrgharidus,uno.trumm@mail.ee,739,Eesti Konservatiivne Rahvaerakond,"['UNO', 'TRUMM']",Puudub
+0,11.03.1982,Kõrgharidus,ttarkmees@gmail.com,740,Eesti Konservatiivne Rahvaerakond,"['TANEL', 'TARKMEES']",Eesti Konservatiivne Rahvaerakond
+0,27.10.1970,Kõrgharidus,aigarp@hot.ee,741,Eesti Konservatiivne Rahvaerakond,"['AIGAR', 'PÕDER']",Eesti Konservatiivne Rahvaerakond
+0,21.02.1963,Keskharidus (sh keskeriharidus),leobergstrom63@gmail.com,742,Eesti Konservatiivne Rahvaerakond,"['LEO', 'BERGSTRÖM']",Eesti Konservatiivne Rahvaerakond
+0,09.04.1955,Kõrgharidus,kerstikracht@gmail.com,743,Eesti Konservatiivne Rahvaerakond,"['KERSTI', 'KRACHT']",Eesti Konservatiivne Rahvaerakond
+0,26.08.1952,Kõrgharidus,riho.breivel@hotmail.com,744,Eesti Konservatiivne Rahvaerakond,"['RIHO', 'BREIVEL']",Eesti Konservatiivne Rahvaerakond
+0,28.07.1973,Kõrgharidus,arvo@ivtl.ee,745,Eesti Konservatiivne Rahvaerakond,"['ARVO', 'ALLER']",Eesti Konservatiivne Rahvaerakond
+"Jaama 28-3, Jõhvi, Ida-Viru",22.02.1958,Keskharidus (sh keskeriharidus),kalevprits22@gmail.com,746,Eesti Konservatiivne Rahvaerakond,"['KALEV', 'PRITS']",Eesti Konservatiivne Rahvaerakond
+0,21.02.1974,Kõrgharidus,evelin@artdessert.ee,747,Eesti Konservatiivne Rahvaerakond,"['EVELIN', 'POOLAMETS']",Eesti Konservatiivne Rahvaerakond
+0,14.04.1986,Kõrgharidus,andres@paidelan.ee,748,Eesti Konservatiivne Rahvaerakond,"['ANDRES', 'PIIBELEHT']",Eesti Konservatiivne Rahvaerakond
+0,02.02.1970,Keskharidus (sh keskeriharidus),tiitra@hotmail.com,749,Eesti Konservatiivne Rahvaerakond,"['TIIT', 'RAUD']",Eesti Konservatiivne Rahvaerakond
+0,30.08.1977,Keskharidus (sh keskeriharidus),ringo.riives@gmail.com,750,Eesti Konservatiivne Rahvaerakond,"['RINGO', 'RIIVES']",Eesti Konservatiivne Rahvaerakond
+0,01.08.1991,Kõrgharidus,lillemets.mariliis@gmail.com,751,Eesti Konservatiivne Rahvaerakond,"['MARI-LIIS', 'LILLEMETS']",Eesti Konservatiivne Rahvaerakond
+0,22.04.1991,Keskharidus (sh keskeriharidus),jaak.madison@riigikogu.ee,752,Eesti Konservatiivne Rahvaerakond,"['JAAK', 'MADISON']",Eesti Konservatiivne Rahvaerakond
+0,24.02.1960,Keskharidus (sh keskeriharidus),kallemix@hotmail.com,753,Eesti Konservatiivne Rahvaerakond,"['KALLE', 'GRÜNTHAL']",Eesti Konservatiivne Rahvaerakond
+0,25.05.1968,Keskharidus (sh keskeriharidus),reinsuurkask@hotmail.com,754,Eesti Konservatiivne Rahvaerakond,"['REIN', 'SUURKASK']",Eesti Konservatiivne Rahvaerakond
+0,04.11.1986,Keskharidus (sh keskeriharidus),medi.meikar@gmail.com,755,Eesti Konservatiivne Rahvaerakond,"['MEDI', 'MEIKAR']",Eesti Konservatiivne Rahvaerakond
+"Uus-Loisu, Tuhalaane küla, Mulgi vald, Viljandimaa",27.06.1959,Keskharidus (sh keskeriharidus),ennsarv50@gmail.com,756,Eesti Konservatiivne Rahvaerakond,"['ENN', 'SARV']",Eesti Konservatiivne Rahvaerakond
+"Koidu, Pibari küla, Türi vald, Järvamaa",21.01.1976,Kõrgharidus,heli.koit@gmail.com,757,Eesti Konservatiivne Rahvaerakond,"['HELI', 'KOIT']",Eesti Konservatiivne Rahvaerakond
+"Tööstuse 16-20, Paide",25.12.1974,Keskharidus (sh keskeriharidus),tarmo74@hot.ee,758,Eesti Konservatiivne Rahvaerakond,"['TARMO', 'HINTS']",Eesti Konservatiivne Rahvaerakond
+"Mutijärve talu, Meeksi küla, Viljandi vald, Viljandimaa 69742",21.09.1950,Kõrgharidus,andotulvik@gmail.com,759,Eesti Konservatiivne Rahvaerakond,"['ANDO', 'TULVIK']",Eesti Konservatiivne Rahvaerakond
+0,08.12.1976,Keskharidus (sh keskeriharidus),bigbaddude@aol.com,760,Eesti Konservatiivne Rahvaerakond,"['PRIIT', 'JÜRJENS']",Eesti Konservatiivne Rahvaerakond
+0,11.06.1953,Kõrgharidus,peeter.ernits@riigikogu.ee,761,Eesti Konservatiivne Rahvaerakond,"['PEETER', 'ERNITS']",Eesti Konservatiivne Rahvaerakond
+0,29.05.1951,Kõrgharidus,raivo.poldaru@gmail.com,762,Eesti Konservatiivne Rahvaerakond,"['RAIVO', 'PÕLDARU']",Eesti Konservatiivne Rahvaerakond
+"Nõmme küla, Mustvee vald, JÕgevamaa 49506",08.10.1954,Kõrgharidus,yllero@hotmail.com,763,Eesti Konservatiivne Rahvaerakond,"['ÜLLE', 'ROSIN']",Eesti Konservatiivne Rahvaerakond
+0,05.03.1968,Kõrgharidus,kert.kingo@gmail.com,764,Eesti Konservatiivne Rahvaerakond,"['KERT', 'KINGO']",Eesti Konservatiivne Rahvaerakond
+0,25.05.1945,Kõrgharidus,malleparn1@gmail.com,765,Eesti Konservatiivne Rahvaerakond,"['MALLE', 'PÄRN']",Eesti Konservatiivne Rahvaerakond
+0,13.06.1965,Kõrgharidus,aivo.lill@gmail.com,766,Eesti Konservatiivne Rahvaerakond,"['AIVO', 'LILL']",Eesti Konservatiivne Rahvaerakond
+"Nõlvaku 4b, Elva linn, Elva vald, Tartu maakond",15.03.1959,Kõrgharidus,aivaroun@hot.ee,767,Eesti Konservatiivne Rahvaerakond,"['AIVAR', 'ÕUN']",Eesti Konservatiivne Rahvaerakond
+0,21.07.1976,Keskharidus (sh keskeriharidus),ksummer007@hotmail.com,768,Eesti Konservatiivne Rahvaerakond,"['KRISTIAN', 'SUVE']",Eesti Konservatiivne Rahvaerakond
+0,29.11.1968,Keskharidus (sh keskeriharidus),info@kadunud.ee,769,Eesti Konservatiivne Rahvaerakond,"['AARE', 'RÜÜTEL']",Puudub
+"Tartu, Pepleri 3-20",01.03.1955,Kõrgharidus,jaakvalge@me.com,770,Eesti Konservatiivne Rahvaerakond,"['JAAK', 'VALGE']",Eesti Konservatiivne Rahvaerakond
+0,21.09.1993,Keskharidus (sh keskeriharidus),ruuben.kaalep@gmail.com,771,Eesti Konservatiivne Rahvaerakond,"['RUUBEN', 'KAALEP']",Eesti Konservatiivne Rahvaerakond
+"K.A. Hermanni 16-1, Tartu 51005",26.04.1966,Kõrgharidus,indreksarg@gmail.com,772,Eesti Konservatiivne Rahvaerakond,"['INDREK', 'SÄRG']",Eesti Konservatiivne Rahvaerakond
+0,15.12.1956,Kõrgharidus,indrekhirv@yahoo.com,773,Eesti Konservatiivne Rahvaerakond,"['INDREK', 'HIRV']",Eesti Konservatiivne Rahvaerakond
+0,28.09.1962,Keskharidus (sh keskeriharidus),mareh.kalda@mail.ee,774,Eesti Konservatiivne Rahvaerakond,"['MAREH', 'KALDA']",Eesti Konservatiivne Rahvaerakond
+0,06.12.1960,Keskharidus (sh keskeriharidus),indrekkalda@gmail.com,775,Eesti Konservatiivne Rahvaerakond,"['INDREK', 'KALDA']",Eesti Konservatiivne Rahvaerakond
+0,10.08.1969,Keskharidus (sh keskeriharidus),TAMMAARE@GMAIL.COM,776,Eesti Konservatiivne Rahvaerakond,"['AARE', 'TAMM']",Eesti Konservatiivne Rahvaerakond
+0,16.04.1966,Keskharidus (sh keskeriharidus),ehariain@hot.ee,777,Eesti Konservatiivne Rahvaerakond,"['AIN', 'EHARI']",Eesti Konservatiivne Rahvaerakond
+0,21.08.1963,Keskharidus (sh keskeriharidus),Aadelhein@gmail.com,778,Eesti Konservatiivne Rahvaerakond,"['MERIKE', 'LUMI']",Eesti Konservatiivne Rahvaerakond
+"Võru 15-2, Tartu, 50111",27.03.1960,Keskharidus (sh keskeriharidus),vilep@vilep.com,779,Eesti Konservatiivne Rahvaerakond,"['HEIKI', 'VILEP']",Eesti Konservatiivne Rahvaerakond
+"Uue-Heitliku talu, Laanemetsa küla, Valga vald, Valga maakond",08.06.1957,Kõrgharidus,uno.kaskpeit@gmail.com,780,Eesti Konservatiivne Rahvaerakond,"['UNO', 'KASKPEIT']",Eesti Konservatiivne Rahvaerakond
+"Kivi 4-29, Nõo alevik, Nõo vald, Tartumaa 61601",31.03.1953,Kõrgharidus,merryaart@gmail.com,781,Eesti Konservatiivne Rahvaerakond,"['MERRY', 'AART']",Eesti Konservatiivne Rahvaerakond
+64403 Kassilaane küla Räpina vald Põlvamaa,19.08.1954,Keskharidus (sh keskeriharidus),tiit.kala1@gmail.com,782,Eesti Konservatiivne Rahvaerakond,"['TIIT', 'KALA']",Eesti Konservatiivne Rahvaerakond
+0,26.04.1947,Kõrgharidus,arno.sild12@gmail.com,783,Eesti Konservatiivne Rahvaerakond,"['ARNO', 'SILD']",Eesti Konservatiivne Rahvaerakond
+0,02.11.1970,Keskharidus (sh keskeriharidus),indrek.kao@gaas.ee,784,Eesti Konservatiivne Rahvaerakond,"['INDREK', 'KÄO']",Puudub
+0,15.01.1971,Kõrgharidus,gaius.gil@gmail.com,785,Eesti Konservatiivne Rahvaerakond,"['GAIUS', 'GIL']",Eesti Konservatiivne Rahvaerakond
+"Riidaja küla, Tõrva vald, Valgamaa",07.03.1950,Kõrgharidus,info@torupillitalu.ee,786,Eesti Konservatiivne Rahvaerakond,"['ANTS', 'TAUL']",Puudub
+"Pähnamäe talu, Mäe-Palo küla, Rõuge vald, Võrumaa",24.01.1987,Keskharidus (sh keskeriharidus),kalmar.luisk@gmail.com,787,Eesti Konservatiivne Rahvaerakond,"['KALMAR', 'LUISK']",Eesti Konservatiivne Rahvaerakond
+"Pärna talu, Vivva küla, Võru vald, Võru maakond",15.10.1964,Keskharidus (sh keskeriharidus),meelis.aianurm@gmail.com,788,Eesti Konservatiivne Rahvaerakond,"['MEELIS', 'AIANURM']",Eesti Konservatiivne Rahvaerakond
+0,27.02.1974,Kõrgharidus,jyri.kaver@gmail.com,789,Eesti Konservatiivne Rahvaerakond,"['JÜRI', 'KAVER']",Eesti Konservatiivne Rahvaerakond
+Tallinn Tanuma 15,31.10.1949,Kõrgharidus,mart.helme@mail.ee,790,Eesti Konservatiivne Rahvaerakond,"['MART', 'HELME']",Eesti Konservatiivne Rahvaerakond
+0,06.05.1962,Kõrgharidus,alarlaneman1@gmail.com,791,Eesti Konservatiivne Rahvaerakond,"['ALAR', 'LANEMAN']",Puudub
+0,21.04.1963,Kõrgharidus,heldur.paulson@outlook.com,792,Eesti Konservatiivne Rahvaerakond,"['HELDUR', 'PAULSON']",Eesti Konservatiivne Rahvaerakond
+0,18.12.1961,Keskharidus (sh keskeriharidus),kullerkupphelle@gmail.com,793,Eesti Konservatiivne Rahvaerakond,"['HELLE', 'KULLERKUPP']",Eesti Konservatiivne Rahvaerakond
+Kitse 37-5 Pärnu,18.04.1968,Keskharidus (sh keskeriharidus),PLAZAKL@HOT.EE,794,Eesti Konservatiivne Rahvaerakond,"['EDMOND', 'PENU']",Eesti Konservatiivne Rahvaerakond
+0,05.12.1978,Kõrgharidus,robert.kiviselg@gmail.com,795,Eesti Konservatiivne Rahvaerakond,"['ROBERT', 'KIVISELG']",Eesti Konservatiivne Rahvaerakond
+0,02.06.1970,Keskharidus (sh keskeriharidus),Email puudub,796,Eesti Konservatiivne Rahvaerakond,"['MEELIS', 'MALK']",Eesti Konservatiivne Rahvaerakond
+"Selja mnt 20, Tori, Pärnumaa 86801",07.10.1972,Kõrgharidus,kaidi.suviste@gmail.com,797,Eesti Konservatiivne Rahvaerakond,"['KAIDI', 'SUVISTE']",Eesti Konservatiivne Rahvaerakond
+"Pärnu linn, Suur-Jõekalda 14-3, 80036",01.01.1977,Kõrgharidus,siimo.lopsik@gmail.com,798,Eesti Konservatiivne Rahvaerakond,"['SIIMO', 'LOPSIK']",Eesti Konservatiivne Rahvaerakond
+"Pardi 12, Tallinn 11311",11.12.1984,Kõrgharidus,liina.normet@eesti200.ee,799,Erakond Eesti 200,"['LIINA', 'NORMET']",Erakond Eesti 200
+0,21.03.1971,Keskharidus (sh keskeriharidus),marek@zavod.ee,800,Erakond Eesti 200,"['MAREK', 'REINAAS']",Puudub
+"Paadi 4, Tallinn",01.05.1969,Kõrgharidus,tiia.sihver@eesti200.ee,801,Erakond Eesti 200,"['TIIA', 'SIHVER']",Puudub
+0,23.11.1976,Kõrgharidus,pirko.konsa@gmail.com,802,Erakond Eesti 200,"['PIRKO', 'KONSA']",Erakond Eesti 200
+0,15.01.1974,Kõrgharidus,karin@fiscaladmin.com,803,Erakond Eesti 200,"['KARIN', 'KAUP-LAPÕNIN']",Erakond Eesti 200
+"Paadi 4, Tallinn 10151",07.12.1957,Kõrgharidus,marianna.kaat@gmail.com,804,Erakond Eesti 200,"['MARIANNA', 'KAAT']",Erakond Eesti 200
+0,05.10.1989,Kõrgharidus,henrysinivee@hotmail.com,805,Erakond Eesti 200,"['HENRY', 'SINIVEE']",Erakond Eesti 200
+"Uus-Kalamaja 13-3, Tallinn",07.02.1976,Kõrgharidus,roosemargot@gmail.com,806,Erakond Eesti 200,"['MARGOT', 'ROOSE']",Erakond Eesti 200
+0,06.07.1975,Kõrgharidus,ivar.soone@iese.net,807,Erakond Eesti 200,"['IVAR', 'SOONE']",Erakond Eesti 200
+0,02.09.1954,Kõrgharidus,vivanov@hot.ee,808,Erakond Eesti 200,"['VALERI', 'IVANOV']",Erakond Eesti 200
+0,09.11.1959,Kõrgharidus,Email puudub,809,Erakond Eesti 200,"['MAARIKA', 'NEILINN']",Erakond Eesti 200
+0,15.06.1958,Kõrgharidus,ahti.kallaste@adeli.ee,810,Erakond Eesti 200,"['AHTI', 'KALLASTE']",Erakond Eesti 200
+0,29.01.1976,Kõrgharidus,kristina@eesti200.ee,811,Erakond Eesti 200,"['KRISTINA', 'KALLAS']",Erakond Eesti 200
+0,02.09.1965,Kõrgharidus,kalev.stoicescu@icds.ee,812,Erakond Eesti 200,"['GRIGORE-KALEV', 'STOICESCU']",Puudub
+0,10.08.1967,Kõrgharidus,mart@martsander.com,813,Erakond Eesti 200,"['MART', 'SANDER']",Puudub
+0,19.03.1979,Kõrgharidus,Email puudub,814,Erakond Eesti 200,"['MEELIS', 'NIINEPUU']",Erakond Eesti 200
+0,29.08.1971,Keskharidus (sh keskeriharidus),toomas@nmsystems.ee,815,Erakond Eesti 200,"['TOOMAS', 'UIBO']",Erakond Eesti 200
+0,15.12.1996,Keskharidus (sh keskeriharidus),alexey.jn@gmail.com,816,Erakond Eesti 200,"['ALEKSEI', 'JAŠIN']",Erakond Eesti 200
+0,06.05.1984,Kõrgharidus,julia.rustamova@gmail.com,817,Erakond Eesti 200,"['JULIA', 'RUSTAMOVA']",Erakond Eesti 200
+0,15.06.1971,Kõrgharidus,aarelaponin@gmail.com,818,Erakond Eesti 200,"['AARE', 'LAPÕNIN']",Erakond Eesti 200
+0,17.04.1968,Kõrgharidus,ave.talu@gmail.com,819,Erakond Eesti 200,"['AVE', 'TALU']",Erakond Eesti 200
+0,15.11.1974,Kõrgharidus,piret.kyrbis@gmail.com,820,Erakond Eesti 200,"['PIRET', 'KÜRBIS']",Erakond Eesti 200
+0,17.02.1955,Kõrgharidus,anne.kahru@kbfi.ee,821,Erakond Eesti 200,"['ANNE', 'KAHRU']",Erakond Eesti 200
+0,13.06.1983,Kõrgharidus,pavel@starkov.ee,822,Erakond Eesti 200,"['PAVEL', 'STARKOV']",Erakond Eesti 200
+0,30.08.1963,Keskharidus (sh keskeriharidus),yllekale@hotmail.com,823,Erakond Eesti 200,"['ÜLLE', 'KASK']",Puudub
+0,24.04.1990,Kõrgharidus,amaioreu@gmail.com,824,Erakond Eesti 200,"['ALEKSANDR', 'MAIOROV']",Erakond Eesti 200
+0,02.02.1973,Kõrgharidus,Email puudub,825,Erakond Eesti 200,"['ERIK', 'VEST']",Puudub
+0,04.09.1973,Kõrgharidus,lauri.hussar@gmail.com,826,Erakond Eesti 200,"['LAURI', 'HUSSAR']",Erakond Eesti 200
+0,15.06.1976,Kõrgharidus,ylo.pikkov@eesti200.ee,827,Erakond Eesti 200,"['ÜLO', 'PIKKOV']",Erakond Eesti 200
+0,03.06.1952,Kõrgharidus,tiit.elenurm@eesti200.ee,828,Erakond Eesti 200,"['TIIT', 'ELENURM']",Erakond Eesti 200
+"Tehnika 139, Tallinn 1039",05.06.1960,Kõrgharidus,siirile@gmail.com,829,Erakond Eesti 200,"['SIIRI', 'LEHTMETS']",Erakond Eesti 200
+0,14.03.1958,Kõrgharidus,tiit.papp@gmail.com,830,Erakond Eesti 200,"['TIIT', 'PAPP']",Puudub
+www.ingerman.ee,13.10.1989,Kõrgharidus,andres@ingerman.ee,831,Erakond Eesti 200,"['ANDRES', 'INGERMAN']",Puudub
+0,19.06.1990,Kõrgharidus,marek.karm@gmail.com,832,Erakond Eesti 200,"['MAREK', 'KARM']",Erakond Eesti 200
+"Vana-Lõuna 33-3, Tallinn",12.01.1993,Kõrgharidus,karoliina.ranne@gmail.com,833,Erakond Eesti 200,"['KAROLIINA', 'OONA', 'RANNE']",Puudub
+0,02.04.1987,Kõrgharidus,h.pyttsepp@gmail.com,834,Erakond Eesti 200,"['HANNO', 'PÜTTSEPP']",Erakond Eesti 200
+0,12.02.1971,Kõrgharidus,eduard@hot.ee,835,Erakond Eesti 200,"['EDUARD', 'FINAGIN']",Erakond Eesti 200
+0,24.11.1978,Kõrgharidus,priit.alamae@gmail.com,836,Erakond Eesti 200,"['PRIIT', 'ALAMÄE']",Erakond Eesti 200
+"C.R.Jakobsoni 26-10, Viljandi",28.07.1969,Kõrgharidus,ando.kiviberg@folk.ee,837,Erakond Eesti 200,"['ANDO', 'KIVIBERG']",Puudub
+0,29.09.1968,Kõrgharidus,salumonika@gmail.com,838,Erakond Eesti 200,"['MONIKA', 'SALU']",Erakond Eesti 200
+0,07.09.1970,Kõrgharidus,taavi.toom@hotmail.com,839,Erakond Eesti 200,"['TAAVI', 'TOOM']",Erakond Eesti 200
+0,27.03.1976,Keskharidus (sh keskeriharidus),terje.bachmann@gmail.com,840,Erakond Eesti 200,"['TERJE', 'BACHMANN']",Erakond Eesti 200
+0,23.04.1987,Kõrgharidus,jyri.lehtmets@gmail.com,841,Erakond Eesti 200,"['JÜRI', 'LEHTMETS']",Erakond Eesti 200
+"Vaikne 7, Keila 76607",22.03.1955,Kõrgharidus,leino.magi@gmail.com,842,Erakond Eesti 200,"['LEINO', 'MÄGI']",Erakond Eesti 200
+0,27.09.1980,Kõrgharidus,joel@jesse.ee,843,Erakond Eesti 200,"['JOEL', 'JESSE']",Erakond Eesti 200
+0,06.01.1978,Keskharidus (sh keskeriharidus),hilje.savolainen@icloud.com,844,Erakond Eesti 200,"['HILJE', 'SAVOLAINEN']",Erakond Eesti 200
+0,12.07.1961,Kõrgharidus,nummertmarko@gmail.com,845,Erakond Eesti 200,"['MARKO', 'NUMMERT']",Erakond Eesti 200
+0,14.07.1995,Kõrgharidus,jarvsandra@gmail.com,846,Erakond Eesti 200,"['SANDRA', 'JÄRV']",Puudub
+0,25.12.1979,Keskharidus (sh keskeriharidus),toomas.tepomes@gmail.com,847,Erakond Eesti 200,"['TOOMAS', 'TEPOMES']",Erakond Eesti 200
+0,03.06.1974,Kõrgharidus,gretnadja@gmail.com,848,Erakond Eesti 200,"['NADEŽDA', 'GRETŠNEVKINA']",Erakond Eesti 200
+"Jõgisoo mõis, Saue vald, Harjumaa 76411",13.05.1953,Kõrgharidus,hillar.joon@novarc.ee,849,Erakond Eesti 200,"['HILLAR', 'JOON']",Erakond Eesti 200
+0,25.12.1967,Kõrgharidus,arko.okk@gmail.com,850,Erakond Eesti 200,"['ARKO', 'OKK']",Erakond Eesti 200
+0,05.05.1970,Keskharidus (sh keskeriharidus),raivo@tireman.ee,851,Erakond Eesti 200,"['RAIVO', 'MERERAND']",Puudub
+0,01.06.1976,Kõrgharidus,jaakraie@gmail.com,852,Erakond Eesti 200,"['JAAK', 'RAIE']",Puudub
+0,03.04.1978,Kõrgharidus,koitkelder@gmail.com,853,Erakond Eesti 200,"['KOIT', 'KELDER']",Erakond Eesti 200
+0,23.02.1968,Kõrgharidus,toomas@kasemaa@gmail.com,854,Erakond Eesti 200,"['TOOMAS', 'KASEMAA']",Erakond Eesti 200
+0,15.06.1980,Keskharidus (sh keskeriharidus),info@vanaraud.eu,855,Erakond Eesti 200,"['JAANIKA', 'ROOSMAN']",Erakond Eesti 200
+0,07.04.1975,Kõrgharidus,lars.ridala@gmail.com,856,Erakond Eesti 200,"['LARS', 'UUS']",Erakond Eesti 200
+0,18.05.1965,Keskharidus (sh keskeriharidus),anuuibo@hotmail.com,857,Erakond Eesti 200,"['ANU', 'UIBO']",Puudub
+0,15.04.1978,Kõrgharidus,vahimetsmartin@gmail.com,858,Erakond Eesti 200,"['MARTIN', 'VAHIMETS']",Puudub
+0,11.06.1976,Kõrgharidus,andri@artun.ee,859,Erakond Eesti 200,"['ANDRI', 'SIMO']",Erakond Eesti 200
+0,29.10.1978,Kõrgharidus,keith@siilats.com,860,Erakond Eesti 200,"['KEITH', 'SIILATS']",Erakond Eesti 200
+"Karukeldri, Metsanurga küla, Haljala vald, Lääne-Virumaa 45426",12.02.1959,Kõrgharidus,annes.naan@mail.ee,861,Erakond Eesti 200,"['ANNES', 'NAAN']",Erakond Eesti 200
+0,15.07.1958,Kõrgharidus,elmu.koppelmann@gmail.com,862,Erakond Eesti 200,"['ELMU', 'KOPPELMANN']",Puudub
+0,02.02.1980,Kõrgharidus,marko300@hot.ee,863,Erakond Eesti 200,"['MARKO', 'TEIVA']",Puudub
+0,01.02.1963,Kõrgharidus,Email puudub,864,Erakond Eesti 200,"['MADIS', 'VIISE']",Puudub
+0,08.03.1965,Keskharidus (sh keskeriharidus),Email puudub,865,Erakond Eesti 200,"['AHTO', 'NEIDEK']",Erakond Eesti 200
+"Paadi 4, Tallinn",07.11.1989,Keskharidus (sh keskeriharidus),Email puudub,866,Erakond Eesti 200,"['TRIIN', 'SIHVER']",Puudub
+0,27.07.1966,Kõrgharidus,tarmotamm27@gmail.com,867,Erakond Eesti 200,"['TARMO', 'TAMM']",Erakond Eesti 200
+0,20.11.1964,Kõrgharidus,ahti.puur@eesti200.ee,868,Erakond Eesti 200,"['AHTI', 'PUUR']",Puudub
+0,21.02.1982,Kõrgharidus,jana@objekt.is,869,Erakond Eesti 200,"['JANA', 'PAVLENKOVA']",Puudub
+0,22.06.1993,Kõrgharidus,nikita@eesti200.ee,870,Erakond Eesti 200,"['NIKITA', 'LUMIJÕE']",Erakond Eesti 200
+0,25.05.1971,Kõrgharidus,skrebnevas@gmail.com,871,Erakond Eesti 200,"['SVETLANA', 'SKREBNEVA']",Puudub
+0,19.05.1995,Keskharidus (sh keskeriharidus),stanislav@oe.ee,872,Erakond Eesti 200,"['STANISLAV', 'TITUŠKO']",Erakond Eesti 200
+0,25.02.1981,Kõrgharidus,darja.berestova@gmail.com,873,Erakond Eesti 200,"['DARJA', 'BERESTOVA']",Erakond Eesti 200
+0,13.02.1969,Kõrgharidus,mihhail.derbnev@mail.ee,874,Erakond Eesti 200,"['MIHHAIL', 'DERBNEV']",Erakond Eesti 200
+0,29.11.1992,Keskharidus (sh keskeriharidus),viktor.golubjatnikov@gmail.com,875,Erakond Eesti 200,"['VIKTOR', 'GOLUBJATNIKOV']",Puudub
+0,10.07.1991,Kõrgharidus,jkaosaar@gmail.com,876,Erakond Eesti 200,"['JÜRI', 'KÄOSAAR']",Erakond Eesti 200
+0,19.10.1976,Kõrgharidus,trochynskyi@gmai.com,877,Erakond Eesti 200,"['RUSLAN', 'TROCHYNSKYI']",Erakond Eesti 200
+0,17.12.1964,Kõrgharidus,angelika.naris@gmail.com,878,Erakond Eesti 200,"['ANGELIKA', 'NARIS']",Puudub
+0,07.02.1986,Kõrgharidus,kalle.kallas@eesti200.ee,879,Erakond Eesti 200,"['KALLE', 'KALLAS']",Erakond Eesti 200
+0,11.12.1973,Kõrgharidus,marjumager@gmail.com,880,Erakond Eesti 200,"['MARJU', 'MÄGER']",Puudub
+0,11.11.1966,Keskharidus (sh keskeriharidus),raul@haamer.net,881,Erakond Eesti 200,"['RAUL', 'ALLIKSAAR']",Erakond Eesti 200
+0,29.05.1960,Keskharidus (sh keskeriharidus),tiia.piirimees@gmail.com,882,Erakond Eesti 200,"['TIIA', 'PIIRIMEES']",Erakond Eesti 200
+0,31.12.1982,Kõrgharidus,jurgentatjana@gmail.com,883,Erakond Eesti 200,"['TATJANA', 'JÜRGEN']",Puudub
+0,02.07.1980,Kõrgharidus,Email puudub,884,Erakond Eesti 200,"['LAURI', 'VAIKSAAR']",Erakond Eesti 200
+0,26.05.1985,Keskharidus (sh keskeriharidus),kristerkallas@hot.ee,885,Erakond Eesti 200,"['KRISTER', 'KALLAS']",Puudub
+0,15.04.1978,Kõrgharidus,sass@mail.ru,886,Erakond Eesti 200,"['ALEKSANDR', 'ŠIROKOV']",Erakond Eesti 200
+0,05.11.1962,Kõrgharidus,ulle.parl@gmail.com,887,Erakond Eesti 200,"['ÜLLE', 'PÄRL']",Erakond Eesti 200
+0,01.08.1988,Keskharidus (sh keskeriharidus),ploom.kadi@gmail.com,888,Erakond Eesti 200,"['KADI', 'PLOOM']",Puudub
+0,10.04.1962,Keskharidus (sh keskeriharidus),spordihall@hot.ee,889,Erakond Eesti 200,"['MARGUS', 'PÄRSIK']",Puudub
+0,19.04.1960,Kõrgharidus,kukkmaarika@gmail.com,890,Erakond Eesti 200,"['MAARIKA', 'KUKK']",Puudub
+0,27.10.1957,Kõrgharidus,kaarepoder@hotmail.com,891,Erakond Eesti 200,"['KAARE', 'PÕDER']",Erakond Eesti 200
+0,28.07.1985,Kõrgharidus,evelin@eesti200.ee,892,Erakond Eesti 200,"['EVELIN', 'PÄRL']",Erakond Eesti 200
+0,07.10.1942,Kõrgharidus,vaino710@gmail.com,893,Erakond Eesti 200,"['VÄINO', 'UIBO']",Puudub
+0,20.07.1991,Kõrgharidus,ronald.laarmaa@gmail.com,894,Erakond Eesti 200,"['RONALD', 'LAARMAA']",Erakond Eesti 200
+0,13.04.1977,Keskharidus (sh keskeriharidus),margus.tsahkna@gmail.com,895,Erakond Eesti 200,"['MARGUS', 'TSAHKNA']",Erakond Eesti 200
+0,15.05.1976,Kõrgharidus,kristiina.tonnisson@ut.ee,896,Erakond Eesti 200,"['KRISTIINA', 'TÕNNISSON']",Erakond Eesti 200
+0,10.01.1978,Kõrgharidus,tanel@imid.ee,897,Erakond Eesti 200,"['TANEL', 'TEIN']",Puudub
+"Koidutähe 4, 51011 Tartu",04.02.1971,Kõrgharidus,Email puudub,898,Erakond Eesti 200,"['PILLE', 'TSOPP-PAGAN']",Erakond Eesti 200
+0,21.03.1976,Kõrgharidus,jottsa@gmail.com,899,Erakond Eesti 200,"['JÜRI-OTT', 'SALM']",Puudub
+0,20.03.1976,Kõrgharidus,khkikkatalo@eesti200.ee,900,Erakond Eesti 200,"['KADRI', 'HALLER-KIKKATALO']",Erakond Eesti 200
+0,13.04.1993,Keskharidus (sh keskeriharidus),ismail.mirzojev@gmail.com,901,Erakond Eesti 200,"['ISMAIL', 'MIRZOJEV']",Erakond Eesti 200
+0,22.12.1955,Kõrgharidus,karinjoks@gmail.com,902,Erakond Eesti 200,"['KARIN', 'JÕKS']",Puudub
+0,08.03.1976,Kõrgharidus,jaak.laineste@eesti.ee,903,Erakond Eesti 200,"['JAAK', 'LAINESTE']",Erakond Eesti 200
+0,26.01.1996,Keskharidus (sh keskeriharidus),kirillavdejev@gmail.com,904,Erakond Eesti 200,"['KIRILL', 'AVDEJEV']",Erakond Eesti 200
+0,01.08.1981,Kõrgharidus,igor.taro@eesti.ee,905,Erakond Eesti 200,"['IGOR', 'TARO']",Erakond Eesti 200
+0,28.11.1975,Põhihariduseta,einar@alko1000.ee,906,Erakond Eesti 200,"['EINAR', 'VISNAPUU']",Erakond Eesti 200
+0,26.05.1961,Kõrgharidus,are.selg@emu.ee,907,Erakond Eesti 200,"['ARE', 'SELGE']",Puudub
+0,01.03.1973,Kõrgharidus,krista@rahvamuusika.ee,908,Erakond Eesti 200,"['KRISTA', 'SILDOJA']",Puudub
+0,26.05.1985,Keskharidus (sh keskeriharidus),merlis.pajustik@gmail.com,909,Erakond Eesti 200,"['MERLIS', 'PAJUSTIK']",Puudub
+0,20.03.1966,Kõrgharidus,margitlail@hot.ee,910,Erakond Eesti 200,"['MARGIT', 'LAIL']",Puudub
+0,09.12.1988,Kõrgharidus,mikkmaesaar002@gmail.com,911,Erakond Eesti 200,"['MIKK', 'MÄESAAR']",Erakond Eesti 200
+0,29.06.1960,Kõrgharidus,jgevakat@gmail.com,912,Erakond Eesti 200,"['KATRIN', 'JÕGEVA']",Puudub
+0,17.05.1977,Kõrgharidus,herko@huntloc.com,913,Erakond Eesti 200,"['HERKO', 'SUNTS']",Erakond Eesti 200
+0,20.07.1974,Kõrgharidus,epp.petrone@petroneprint.ee,914,Erakond Eesti 200,"['EPP', 'PETRONE']",Puudub
+0,18.06.1972,Kõrgharidus,kadri.tali@nordicsymphony.com,915,Erakond Eesti 200,"['KADRI', 'TALI']",Puudub
+0,25.01.1991,Keskharidus (sh keskeriharidus),jannokuldkepp@gmail.com,916,Erakond Eesti 200,"['JANNO', 'KULDKEPP']",Erakond Eesti 200
+0,31.07.1948,Kõrgharidus,sirje.niitra@gmail.com,917,Erakond Eesti 200,"['SIRJE', 'NIITRA']",Puudub
+0,28.09.1957,Kõrgharidus,tarmo225@hotmail.com,918,Erakond Eesti 200,"['TARMO', 'VALGEPEA']",Erakond Eesti 200
+0,10.01.1998,Keskharidus (sh keskeriharidus),sigrit.roosileht@gmail.com,919,Erakond Eesti 200,"['SIGRIT', 'ROOSILEHT']",Puudub
+0,31.01.1959,Kõrgharidus,tiimus.mati@gmail.com,920,Erakond Eesti 200,"['MATI', 'TIIMUS']",Puudub
+"Paadi 4, Tallinn",22.11.1981,Keskharidus (sh keskeriharidus),Email puudub,921,Erakond Eesti 200,"['JEVGENI', 'GORLEVSKI']",Puudub
+"Paadi 4, Tallinn",13.12.1975,Kõrgharidus,Email puudub,922,Erakond Eesti 200,"['MONIKA', 'SIRULI']",Puudub
+0,14.12.1952,Kõrgharidus,toomas.pajula@gmail.com,923,Erakond Eesti 200,"['TOOMAS', 'PAJULA']",Erakond Eesti 200
+0,27.01.1982,Keskharidus (sh keskeriharidus),raimond@keskerakond.ee,924,Eesti Keskerakond,"['RAIMOND', 'KALJULAID']",Eesti Keskerakond
+0,09.04.1953,Kõrgharidus,viktor.vassiljev@riigikogu.ee,925,Eesti Keskerakond,"['VIKTOR', 'VASSILJEV']",Eesti Keskerakond
+0,05.11.1980,Keskharidus (sh keskeriharidus),andrei@korobeinik.ee,926,Eesti Keskerakond,"['ANDREI', 'KOROBEINIK']",Puudub
+0,11.05.1978,Kõrgharidus,vadim.belobrovtsev@tallinnlv.ee,927,Eesti Keskerakond,"['VADIM', 'BELOBROVTSEV']",Eesti Keskerakond
+0,23.01.1954,Kõrgharidus,nataliamalleus@gmail.com,928,Eesti Keskerakond,"['NATALIA', 'MALLEUS']",Eesti Keskerakond
+0,06.12.1948,Kõrgharidus,kalev.kallo@tallinn.ee,929,Eesti Keskerakond,"['KALEV', 'KALLO']",Eesti Keskerakond
+0,27.03.1982,Kõrgharidus,Email puudub,930,Eesti Keskerakond,"['ANDREI', 'NOVIKOV']",Eesti Keskerakond
+0,08.11.1962,Kõrgharidus,eha.vork@tallinnlv.ee,931,Eesti Keskerakond,"['EHA', 'VÕRK']",Eesti Keskerakond
+0,18.06.1986,Kõrgharidus,jaanus.riibe@gmail.com,932,Eesti Keskerakond,"['JAANUS', 'RIIBE']",Eesti Keskerakond
+"Vati tn 6-1,  10112 Tallinn",25.08.1943,Kõrgharidus,ennetom@solo.ee,933,Eesti Keskerakond,"['JÜRI', 'ENNET']",Eesti Keskerakond
+0,21.12.1977,Kõrgharidus,bltz@hot.ee,934,Eesti Keskerakond,"['JOSEF', 'KATS']",Puudub
+0,09.09.1977,Kõrgharidus,marekj@hot.ee,935,Eesti Keskerakond,"['MAREK', 'JÜRGENSON']",Eesti Keskerakond
+0,24.11.1977,Kõrgharidus,mihhail.kolvart@tallinnlv.ee,936,Eesti Keskerakond,"['MIHHAIL', 'KÕLVART']",Eesti Keskerakond
+0,13.01.1975,Kõrgharidus,minister@hm.ee,937,Eesti Keskerakond,"['MAILIS', 'REPS']",Eesti Keskerakond
+0,03.08.1980,Kõrgharidus,mihhail@keskerakond.ee,938,Eesti Keskerakond,"['MIHHAIL', 'KORB']",Eesti Keskerakond
+"Saare mk, Muhu v. Pädaste k.",13.03.1969,Kõrgharidus,Email puudub,939,Eesti Keskerakond,"['IMRE', 'SOOÄÄR']",Puudub
+0,16.06.1978,Kõrgharidus,erki.savisaar@riigikogu.ee,940,Eesti Keskerakond,"['ERKI', 'SAVISAAR']",Eesti Keskerakond
+"Tallinn, Vabaduse väljak 7",07.01.1956,Kõrgharidus,kalle.klandorf@tallinnlv.ee,941,Eesti Keskerakond,"['KALLE', 'KLANDORF']",Eesti Keskerakond
+0,11.10.1979,Kõrgharidus,maria.jufereva-skuratovski@tallinnlv.ee,942,Eesti Keskerakond,"['MARIA', 'JUFEREVA-SKURATOVSKI']",Eesti Keskerakond
+0,09.10.1989,Keskharidus (sh keskeriharidus),tonis.molder@gmail.com,943,Eesti Keskerakond,"['TÕNIS', 'MÖLDER']",Eesti Keskerakond
+0,23.01.1989,Kõrgharidus,tanelkiik@gmail.com,944,Eesti Keskerakond,"['TANEL', 'KIIK']",Eesti Keskerakond
+0,11.03.1992,Kõrgharidus,svet.vladimir@gmail.com,945,Eesti Keskerakond,"['VLADIMIR', 'SVET']",Eesti Keskerakond
+0,25.10.1942,Kõrgharidus,jyri@bestart.ee,946,Eesti Keskerakond,"['JÜRI', 'KUUSKEMAA']",Puudub
+0,12.07.1980,Kõrgharidus,Iremfencing@gmail.com,947,Eesti Keskerakond,"['IRINA', 'EMBRICH']",Eesti Keskerakond
+0,24.10.1938,Kõrgharidus,peeter.mardna@gmail.com,948,Eesti Keskerakond,"['PEETER', 'MARDNA']",Eesti Keskerakond
+0,02.04.1985,Kõrgharidus,ptsjolkin@hot.ee,949,Eesti Keskerakond,"['SERGEI', 'PTŠJOLKIN']",Eesti Keskerakond
+0,24.03.1961,Kõrgharidus,mart.sults@riigikogu.ee,950,Eesti Keskerakond,"['MÄRT', 'SULTS']",Eesti Keskerakond
+0,10.01.1966,Kõrgharidus,Taavi.Aas@tallinnlv.ee,951,Eesti Keskerakond,"['TAAVI', 'AAS']",Eesti Keskerakond
+0,18.07.1955,Kõrgharidus,andraveidemann@gmail.com,952,Eesti Keskerakond,"['ANDRA', 'VEIDEMANN']",Eesti Keskerakond
+0,28.03.1973,Kõrgharidus,igor.kravtsenko@riigikogu.ee,953,Eesti Keskerakond,"['IGOR', 'KRAVTŠENKO']",Eesti Keskerakond
+0,15.06.1979,Kõrgharidus,tiit.terik@eesti.ee,954,Eesti Keskerakond,"['TIIT', 'TERIK']",Eesti Keskerakond
+0,05.02.1979,Kõrgharidus,oudekki.loone@riigikogu .ee,955,Eesti Keskerakond,"['KERSTIN-OUDEKKI', 'LOONE']",Eesti Keskerakond
+0,22.04.1981,Kõrgharidus,laurilaats@laurilaats.ee,956,Eesti Keskerakond,"['LAURI', 'LAATS']",Eesti Keskerakond
+0,17.02.1950,Kõrgharidus,helle.kalda@tallinn.ee,957,Eesti Keskerakond,"['HELLE', 'KALDA']",Eesti Keskerakond
+"Mere pst 5, 10111 Tallinn",25.05.1960,Kõrgharidus,Email puudub,958,Eesti Keskerakond,"['EDUARD', 'TOMAN']",Eesti Keskerakond
+0,04.10.1991,Kõrgharidus,grete.sillis@gmail.com,959,Eesti Keskerakond,"['GRETE', 'ŠILLIS']",Eesti Keskerakond
+0,09.10.1940,Kõrgharidus,Merike.martinson.1@gmail.com,960,Eesti Keskerakond,"['MERIKE', 'MARTINSON']",Eesti Keskerakond
+0,02.07.1978,Kõrgharidus,jyri.ratas@riigikantselei.ee,961,Eesti Keskerakond,"['JÜRI', 'RATAS']",Eesti Keskerakond
+0,05.11.1984,Keskharidus (sh keskeriharidus),hoovelson@gmail.com,962,Eesti Keskerakond,"['KAIDO', 'HÖÖVELSON']",Eesti Keskerakond
+0,01.01.1960,Kõrgharidus,toomas.vitsut@riigikogu.ee,963,Eesti Keskerakond,"['TOOMAS', 'VITSUT']",Eesti Keskerakond
+0,13.08.1978,Kõrgharidus,kristiina.heinmets.aigro@gmail.com,964,Eesti Keskerakond,"['KRISTIINA', 'HEINMETS-AIGRO']",Eesti Keskerakond
+0,13.03.1961,Kõrgharidus,riisalu@gmail.com,965,Eesti Keskerakond,"['AIVAR', 'RIISALU']",Eesti Keskerakond
+0,25.09.1945,Kõrgharidus,vladimir.velman@riigikogu.ee,966,Eesti Keskerakond,"['VLADIMIR', 'VELMAN']",Eesti Keskerakond
+0,15.01.1970,Keskharidus (sh keskeriharidus),kersti.mannik@gmail.com,967,Eesti Keskerakond,"['KERSTI', 'MÄNNIK']",Eesti Keskerakond
+0,26.09.1955,Keskharidus (sh keskeriharidus),vladimir.arhipov@mail.ee,968,Eesti Keskerakond,"['VLADIMIR', 'ARHIPOV']",Eesti Keskerakond
+0,18.11.1956,Kõrgharidus,jyri.voigemast@elvl.ee,969,Eesti Keskerakond,"['JÜRI', 'VÕIGEMAST']",Eesti Keskerakond
+0,19.03.1977,Keskharidus (sh keskeriharidus),evray@evray.ee,970,Eesti Keskerakond,"['OLEG', 'TŠUBAROV']",Eesti Keskerakond
+0,15.04.1965,Keskharidus (sh keskeriharidus),jaanus.kalev@anija.ee,971,Eesti Keskerakond,"['JAANUS', 'KALEV']",Eesti Keskerakond
+0,20.05.1976,Kõrgharidus,hansliibek@gmail.com,972,Eesti Keskerakond,"['HANS', 'LIIBEK']",Eesti Keskerakond
+0,05.08.1981,Keskharidus (sh keskeriharidus),iljaban@hotmail.com,973,Eesti Keskerakond,"['ILJA', 'BAN']",Eesti Keskerakond
+0,25.02.1974,Kõrgharidus,aivar@hagaconsulting.eu,974,Eesti Keskerakond,"['AIVAR', 'ROOP']",Eesti Keskerakond
+0,14.06.1958,Kõrgharidus,uuepeedu@hot.ee,975,Eesti Keskerakond,"['INDREK', 'UUEMAA']",Eesti Keskerakond
+0,09.04.1972,Kõrgharidus,Email puudub,976,Eesti Keskerakond,"['ERKI', 'TAMMLEHT']",Eesti Keskerakond
+0,12.02.1943,Kõrgharidus,viiverosenberg@gmail.com,977,Eesti Keskerakond,"['VIIVE', 'ROSENBERG']",Puudub
+"Tallinn, Lossi plats 1a",07.06.1946,Kõrgharidus,enn.eesmaa@riigkogu.ee,978,Eesti Keskerakond,"['ENN', 'EESMAA']",Eesti Keskerakond
+0,01.02.1977,Kõrgharidus,jaanus.karilaid@riigikogu.ee,979,Eesti Keskerakond,"['JAANUS', 'KARILAID']",Eesti Keskerakond
+0,16.11.1957,Kõrgharidus,kaabeltau@hotmail.com,980,Eesti Keskerakond,"['MIHKEL', 'UNDREST']",Eesti Keskerakond
+0,15.08.1982,Kõrgharidus,ANTTI.LEIGRI@GMAIL.COM,981,Eesti Keskerakond,"['ANTTI', 'LEIGRI']",Eesti Keskerakond
+0,10.04.1967,Kõrgharidus,rearaus@gmail.com,982,Eesti Keskerakond,"['REA', 'RAUS']",Puudub
+0,29.05.1965,Keskharidus (sh keskeriharidus),Email puudub,983,Eesti Keskerakond,"['AIVAR', 'ARU']",Eesti Keskerakond
+0,15.11.1962,Kõrgharidus,maire.kaarid@gmail.com,984,Eesti Keskerakond,"['MAIRE', 'KÄÄRID']",Eesti Keskerakond
+0,05.03.1964,Keskharidus (sh keskeriharidus),yllarneemrand@gmail.com,985,Eesti Keskerakond,"['ÜLLAR', 'NEEMRAND']",Eesti Keskerakond
+0,27.07.1986,Kõrgharidus,siret.kotka-repinski@riigikogu.ee,986,Eesti Keskerakond,"['SIRET', 'KOTKA-REPINSKI']",Eesti Keskerakond
+0,03.09.1984,Kõrgharidus,maksim@present.ee,987,Eesti Keskerakond,"['MAKSIM', 'BUTŠENKOV']",Eesti Keskerakond
+0,23.06.1977,Kõrgharidus,Email puudub,988,Eesti Keskerakond,"['TRIIN', 'VAREK']",Eesti Keskerakond
+0,19.06.1991,Keskharidus (sh keskeriharidus),jaan.mannik91@gmail.com,989,Eesti Keskerakond,"['JAAN', 'MÄNNIK']",Eesti Keskerakond
+0,13.07.1978,Kõrgharidus,jelenafjodorova78@gmail.com,990,Eesti Keskerakond,"['JELENA', 'FJODOROVA']",Eesti Keskerakond
+0,18.06.1953,Kõrgharidus,hans@v-maarja.ee,991,Eesti Keskerakond,"['HANS', 'KRUUSAMÄGI']",Eesti Keskerakond
+0,24.01.1950,Kõrgharidus,toomas.vainaste@riigikogu.ee,992,Eesti Keskerakond,"['TOOMAS', 'VÄINASTE']",Eesti Keskerakond
+0,15.10.1966,Keskharidus (sh keskeriharidus),yanalitvinovatoom@gmail.com,993,Eesti Keskerakond,"['YANA', 'TOOM']",Eesti Keskerakond
+0,15.09.1961,Kõrgharidus,mihhail.stalnuhhin@riigikogu.ee,994,Eesti Keskerakond,"['MIHHAIL', 'STALNUHHIN']",Eesti Keskerakond
+0,03.07.1954,Kõrgharidus,valeri.korb@riigikogu.ee,995,Eesti Keskerakond,"['VALERI', 'KORB']",Eesti Keskerakond
+0,17.08.1962,Kõrgharidus,tarmo.tammiste@narva.ee,996,Eesti Keskerakond,"['TARMO', 'TAMMISTE']",Eesti Keskerakond
+0,17.06.1982,Kõrgharidus,dmitri.dmitrijev@riigikogu.ee,997,Eesti Keskerakond,"['DMITRI', 'DMITRIJEV']",Eesti Keskerakond
+0,11.05.1952,Kõrgharidus,eevi.paasmae@gmail.com,998,Eesti Keskerakond,"['EEVI', 'PAASMÄE']",Eesti Keskerakond
+0,02.09.1977,Kõrgharidus,maksim@maksim.ee,999,Eesti Keskerakond,"['MAKSIM', 'VOLKOV']",Eesti Keskerakond
+0,12.12.1962,Kõrgharidus,eve.east@toila.ee,1000,Eesti Keskerakond,"['EVE', 'EAST']",Eesti Keskerakond
+0,06.08.1986,Kõrgharidus,repinski.martin@gmail.com,1001,Eesti Keskerakond,"['MARTIN', 'REPINSKI']",Eesti Keskerakond
+0,09.04.1960,Kõrgharidus,aabjaak@gmail.com,1002,Eesti Keskerakond,"['JAAK', 'AAB']",Eesti Keskerakond
+"Järvamaa, Paide linn",05.05.1954,Kõrgharidus,kersti.sarapuu@mail.ee,1003,Eesti Keskerakond,"['KERSTI', 'SARAPUU']",Eesti Keskerakond
+0,23.02.1957,Kõrgharidus,peeter@mulgivald.ee,1004,Eesti Keskerakond,"['PEETER', 'RAHNEL']",Eesti Keskerakond
+0,25.10.1989,Kõrgharidus,getterklaas@mail.ee,1005,Eesti Keskerakond,"['GETTER', 'KLAAS']",Eesti Keskerakond
+0,12.03.1955,Kõrgharidus,karl@arendusteenus.ee,1006,Eesti Keskerakond,"['KARL', 'ÕMBLUS']",Eesti Keskerakond
+0,05.05.1965,Keskharidus (sh keskeriharidus),matsinaraivo@hot.ee,1007,Eesti Keskerakond,"['RAIVO', 'MATSINA']",Eesti Keskerakond
+0,05.04.1943,Kõrgharidus,heidy43@gmail.com,1008,Eesti Keskerakond,"['HEIDY', 'TAMME']",Eesti Keskerakond
+0,21.01.1951,Kõrgharidus,aado.oherd@gmail.com,1009,Eesti Keskerakond,"['AADO', 'OHERD']",Eesti Keskerakond
+0,30.06.1954,Kõrgharidus,helmut.hallemaa@gmail.com,1010,Eesti Keskerakond,"['HELMUT', 'HALLEMAA']",Eesti Keskerakond
+0,05.09.1973,Kõrgharidus,janek.maggi@fin.ee,1011,Eesti Keskerakond,"['JANEK', 'MÄGGI']",Eesti Keskerakond
+0,12.05.1951,Kõrgharidus,marika.tuus@riigikogu.ee,1012,Eesti Keskerakond,"['MARIKA', 'TUUS-LAUL']",Eesti Keskerakond
+0,13.09.1958,Kõrgharidus,jaanounapuu@yahoo.com,1013,Eesti Keskerakond,"['JAAN', 'ÕUNAPUU']",Eesti Keskerakond
+0,21.05.1954,Kõrgharidus,aare@jogeva.ee,1014,Eesti Keskerakond,"['AARE', 'OLGO']",Eesti Keskerakond
+0,24.06.1964,Kõrgharidus,peep.podder@jogevahaigla.ee,1015,Eesti Keskerakond,"['PEEP', 'PÕDDER']",Eesti Keskerakond
+0,09.01.1959,Kõrgharidus,peeter@ehaigla.ee,1016,Eesti Keskerakond,"['PEETER', 'LAASIK']",Eesti Keskerakond
+0,09.12.1969,Kõrgharidus,max_kaur@hotmail.com,1017,Eesti Keskerakond,"['MAX', 'KAUR']",Eesti Keskerakond
+0,13.07.1960,Kõrgharidus,andres.vaan@tallinnlt.ee,1018,Eesti Keskerakond,"['ANDRES', 'VÄÄN']",Eesti Keskerakond
+0,29.03.1968,Keskharidus (sh keskeriharidus),tomson.tarmo@gmail.com,1019,Eesti Keskerakond,"['TARMO', 'TOMSON']",Eesti Keskerakond
+0,25.03.1951,Kõrgharidus,aadu.must@riigikogu.ee,1020,Eesti Keskerakond,"['AADU', 'MUST']",Eesti Keskerakond
+0,07.09.1957,Kõrgharidus,toots.jaan@gmail.com,1021,Eesti Keskerakond,"['JAAN', 'TOOTS']",Puudub
+0,13.12.1979,Kõrgharidus,monica.rand@mail.ee,1022,Eesti Keskerakond,"['MONICA', 'RAND']",Eesti Keskerakond
+0,26.04.1948,Kõrgharidus,vladimir.sokman@gmail.com,1023,Eesti Keskerakond,"['VLADIMIR', 'ŠOKMAN']",Eesti Keskerakond
+0,05.07.1964,Kõrgharidus,marina@keskerakond.ee,1024,Eesti Keskerakond,"['MARINA', 'RIISALU']",Eesti Keskerakond
+0,09.02.1961,Kõrgharidus,viktor.trasberg@ut.ee,1025,Eesti Keskerakond,"['VIKTOR', 'TRASBERG']",Eesti Keskerakond
+0,25.09.1973,Kõrgharidus,jelena.frunze@keskerakond.ee,1026,Eesti Keskerakond,"['JELENA', 'FRUNZE']",Eesti Keskerakond
+0,07.01.1944,Kõrgharidus,nikolai.podramagi@gmail.com,1027,Eesti Keskerakond,"['NIKOLAI', 'PÕDRAMÄGI']",Eesti Keskerakond
+0,22.07.1972,Kõrgharidus,panova72@gmail.com,1028,Eesti Keskerakond,"['IRINA', 'PANOVA']",Eesti Keskerakond
+0,01.05.1955,Kõrgharidus,madislepajoe@gmail.com,1029,Eesti Keskerakond,"['MADIS', 'LEPAJÕE']",Eesti Keskerakond
+0,03.12.1953,Kõrgharidus,tarmo.tamm@agri.ee,1030,Eesti Keskerakond,"['TARMO', 'TAMM']",Eesti Keskerakond
+0,02.05.1976,Kõrgharidus,anneli.ott@riigikogu.ee,1031,Eesti Keskerakond,"['ANNELI', 'OTT']",Eesti Keskerakond
+0,17.09.1946,Kõrgharidus,heimar.lenk@gmail.com,1032,Eesti Keskerakond,"['HEIMAR', 'LENK']",Eesti Keskerakond
+0,19.11.1992,Kõrgharidus,ester.karuse@gmail.com,1033,Eesti Keskerakond,"['ESTER', 'KARUSE']",Eesti Keskerakond
+0,18.03.1983,Kõrgharidus,andre.tants@gmail.com,1034,Eesti Keskerakond,"['ANDRE', 'LAINE']",Eesti Keskerakond
+0,23.08.1972,Kõrgharidus,usin.janika@gmail.com,1035,Eesti Keskerakond,"['JANIKA', 'USIN']",Eesti Keskerakond
+0,19.09.1963,Kõrgharidus,jaanus.raidal@otepaa.ee,1036,Eesti Keskerakond,"['JAANUS', 'RAIDAL']",Eesti Keskerakond
+0,04.09.1964,Kõrgharidus,ylle@valgakultuurikeskus.ee,1037,Eesti Keskerakond,"['ÜLLE', 'JUHT']",Eesti Keskerakond
+0,18.05.1965,Keskharidus (sh keskeriharidus),saarjyri@hot.ee,1038,Eesti Keskerakond,"['JÜRI', 'SAAR']",Eesti Keskerakond
+0,11.05.1957,Kõrgharidus,ylo.tulik@gmail.com,1039,Eesti Keskerakond,"['ÜLO', 'TULIK']",Eesti Keskerakond
+0,22.01.1977,Kõrgharidus,kadri.simson@mkm.ee,1040,Eesti Keskerakond,"['KADRI', 'SIMSON']",Eesti Keskerakond
+0,27.12.1983,Kõrgharidus,mikk.pikkmets@gmail.com,1041,Eesti Keskerakond,"['MIKK', 'PIKKMETS']",Puudub
+0,09.06.1974,Kõrgharidus,markosorin@hot.ee,1042,Eesti Keskerakond,"['MARKO', 'ŠORIN']",Eesti Keskerakond
+0,28.04.1972,Kõrgharidus,krista.nomm@gmail.com,1043,Eesti Keskerakond,"['KRISTA', 'NÕMM']",Puudub
+0,23.07.1980,Kõrgharidus,ardo.aasa@gmail.com,1044,Eesti Keskerakond,"['ARDO', 'AASA']",Eesti Keskerakond
+0,25.09.1949,Kõrgharidus,ants.lopsik@gmail.com,1045,Eesti Keskerakond,"['ANTS', 'LOPSIK']",Eesti Keskerakond
+0,29.04.1980,Kõrgharidus,andres.annast@gmail.com,1046,Eesti Keskerakond,"['ANDRES', 'ANNAST']",Eesti Keskerakond
+0,01.10.1962,Keskharidus (sh keskeriharidus),keeled@hot.ee,1047,Eesti Keskerakond,"['AVO', 'KEEL']",Eesti Keskerakond
+"80011 Pärnu, Lõuna 18",15.03.1949,Kõrgharidus,hillar.talvik@gmail.com,1048,Eesti Keskerakond,"['HILLAR', 'TALVIK']",Eesti Keskerakond
+0,12.06.1964,Kõrgharidus,oleg.tesla@neti.ee,1049,Eestimaa Ühendatud Vasakpartei,"['OLEG', 'TESLA']",Eestimaa Ühendatud Vasakpartei
+0,27.05.1985,Kõrgharidus,andreiorponen@gmail.com,1050,Eestimaa Ühendatud Vasakpartei,"['ANDREI', 'ORPONEN']",Eestimaa Ühendatud Vasakpartei
+0,13.03.1954,Kõrgharidus,igor.rosenfeld@mail.ee,1051,Eestimaa Ühendatud Vasakpartei,"['IGOR', 'ROSENFELD']",Eestimaa Ühendatud Vasakpartei
+0,22.12.1987,Kõrgharidus,sommer.julia@vasakpartei.ee,1052,Eestimaa Ühendatud Vasakpartei,"['JULIA', 'SOMMER']",Eestimaa Ühendatud Vasakpartei
+0,22.03.1985,Keskharidus (sh keskeriharidus),diana777dar@gmail.com,1053,Eestimaa Ühendatud Vasakpartei,"['DIANA', 'KOOR']",Eestimaa Ühendatud Vasakpartei
+0,28.09.1980,Kõrgharidus,andrei.anissimov@hotmail.com,1054,Eestimaa Ühendatud Vasakpartei,"['ANDREI', 'ANISSIMOV']",Eestimaa Ühendatud Vasakpartei
+0,12.04.1949,Keskharidus (sh keskeriharidus),malygin124@rambler.ru,1055,Eestimaa Ühendatud Vasakpartei,"['VIKTOR', 'MALÕGIN']",Eestimaa Ühendatud Vasakpartei
+0,28.12.1980,Kõrgharidus,nymberg@hot.ee,1056,Eestimaa Ühendatud Vasakpartei,"['DIANA', 'NÕMBERG-KLAUS']",Eestimaa Ühendatud Vasakpartei
+0,03.08.1970,Kõrgharidus,t.radionov@gmail.com,1057,Eestimaa Ühendatud Vasakpartei,"['TIINA', 'RADIONOV']",Eestimaa Ühendatud Vasakpartei
+0,22.07.1941,Kõrgharidus,mammafemiida@mail.ee,1058,Eestimaa Ühendatud Vasakpartei,"['VIIVI-HELBE', 'PELJUHHOVSKA']",Eestimaa Ühendatud Vasakpartei
+0,24.06.1963,Kõrgharidus,Email puudub,1059,Eestimaa Ühendatud Vasakpartei,"['VJATŠESLAV', 'MAKARONSKI']",Eestimaa Ühendatud Vasakpartei
+0,09.04.1967,Keskharidus (sh keskeriharidus),tarmo.kruusimae@riigikogu.ee,1060,Isamaa Erakond,"['TARMO', 'KRUUSIMÄE']",Isamaa Erakond
+0,07.11.1970,Kõrgharidus,mart.luik@isamaa.ee,1061,Isamaa Erakond,"['MART', 'LUIK']",Isamaa Erakond
+0,26.10.1978,Kõrgharidus,helen.haal@concordia.ee,1062,Isamaa Erakond,"['HELEN', 'HÄÄL']",Isamaa Erakond
+0,25.05.1971,Kõrgharidus,priidu@notarmail.ee,1063,Isamaa Erakond,"['PRIIDU', 'PÄRNA']",Isamaa Erakond
+0,10.01.1954,Kõrgharidus,avo@estodiac.eu,1064,Isamaa Erakond,"['AVO', 'ÜPRUS']",Isamaa Erakond
+0,02.08.1993,Kõrgharidus,karlsander.kase@isamaa.ee,1065,Isamaa Erakond,"['KARL', 'SANDER', 'KASE']",Isamaa Erakond
+0,21.06.1955,Kõrgharidus,tiit@kirurgiakliinik.ee,1066,Isamaa Erakond,"['TIIT', 'MEREN']",Isamaa Erakond
+0,20.04.1962,Kõrgharidus,pille.opera@gmail.com,1067,Isamaa Erakond,"['PILLE', 'LILL']",Isamaa Erakond
+0,23.04.1961,Kõrgharidus,imre@rammul.ee,1068,Isamaa Erakond,"['IMRE', 'RAMMUL']",Isamaa Erakond
+0,09.03.1958,Kõrgharidus,pvosu@online.ee,1069,Isamaa Erakond,"['PEETER', 'VÕSU']",Isamaa Erakond
+0,19.01.1962,Kõrgharidus,vootele.hansen@eelk.ee,1070,Isamaa Erakond,"['VOOTELE', 'HANSEN']",Puudub
+0,29.07.1961,Kõrgharidus,jako.kull@mail.ee,1071,Isamaa Erakond,"['JAKO', 'KULL']",Puudub
+0,14.07.1969,Kõrgharidus,sven.sester@riigikogu.ee,1072,Isamaa Erakond,"['SVEN', 'SESTER']",Isamaa Erakond
+0,20.07.1981,Kõrgharidus,viktoria.ladonskaja@riigikogu.ee,1073,Isamaa Erakond,"['VIKTORIA', 'LADÕNSKAJA-KUBITS']",Isamaa Erakond
+"Liivaoja 2-21, tallinn 10155",23.06.1972,Kõrgharidus,riina.solman@riigikogu.ee,1074,Isamaa Erakond,"['RIINA', 'SOLMAN']",Isamaa Erakond
+"Kloostrimetsa tee 44/A, Tallinn",22.10.1966,Kõrgharidus,madis.pats@lplaw.ee,1075,Isamaa Erakond,"['MADIS', 'PÄTS']",Puudub
+0,17.07.1953,Kõrgharidus,kalevvapper1@gmail.com,1076,Isamaa Erakond,"['KALEV', 'VAPPER']",Isamaa Erakond
+"Merivälja tee 18, Tallinn 11911",17.04.1941,Keskharidus (sh keskeriharidus),lagle@osss.ee,1077,Isamaa Erakond,"['LAGLE', 'PAREK']",Isamaa Erakond
+0,25.02.1948,Kõrgharidus,juri.trei@online.ee,1078,Isamaa Erakond,"['JÜRI', 'TREI']",Isamaa Erakond
+0,28.08.1957,Kõrgharidus,toivojyrgenson@toomtsentrum.ee,1079,Isamaa Erakond,"['TOIVO', 'JÜRGENSON']",Isamaa Erakond
+0,27.09.1958,Kõrgharidus,tmatsulevits@hotmail.com,1080,Isamaa Erakond,"['TIIT', 'MATSULEVITŠ']",Isamaa Erakond
+Terase 7-1,22.06.1959,Keskharidus (sh keskeriharidus),ahelik.jaak@gmail.com,1081,Isamaa Erakond,"['JAAK', 'AHELIK']",Isamaa Erakond
+0,17.10.1989,Kõrgharidus,illimarlepik@gmail.com,1082,Isamaa Erakond,"['ILLIMAR', 'LEPPIK', 'VON', 'WIRÉN']",Isamaa Erakond
+0,14.08.1965,Kõrgharidus,lea.nilson@gmail.com,1083,Isamaa Erakond,"['LEA', 'NILSON']",Isamaa Erakond
+0,18.05.1960,Kõrgharidus,valdek.seeder@gmail.com,1084,Isamaa Erakond,"['HELDUR-VALDEK', 'SEEDER']",Isamaa Erakond
+0,07.07.1952,Kõrgharidus,Tiit.Naber@gmail.com,1085,Isamaa Erakond,"['TIIT', 'NABER']",Isamaa Erakond
+0,08.06.1946,Kõrgharidus,ingo@lavakas.ee,1086,Isamaa Erakond,"['INGO', 'NORMET']",Isamaa Erakond
+0,22.06.1975,Kõrgharidus,urmas.reinsalu@just.ee,1087,Isamaa Erakond,"['URMAS', 'REINSALU']",Isamaa Erakond
+0,21.03.1962,Kõrgharidus,mart.nutt@riigikogu.ee,1088,Isamaa Erakond,"['MART', 'NUTT']",Isamaa Erakond
+0,05.01.1952,Kõrgharidus,elle.kull@gmail.com,1089,Isamaa Erakond,"['ELLE', 'KULL']",Isamaa Erakond
+0,23.11.1973,Põhiharidus,film@taska.ee,1090,Isamaa Erakond,"['KRISTIAN', 'TASKA']",Isamaa Erakond
+0,04.05.1947,Kõrgharidus,trivimi.velliste@gmail.com,1091,Isamaa Erakond,"['TRIVIMI', 'VELLISTE']",Isamaa Erakond
+0,04.05.1947,Kõrgharidus,andresopik@gmail.com,1092,Isamaa Erakond,"['ANDRES', 'ÖPIK']",Isamaa Erakond
+0,23.10.1969,Kõrgharidus,urmas.mardi@mail.ee,1093,Isamaa Erakond,"['URMAS', 'MARDI']",Isamaa Erakond
+0,14.10.1946,Kõrgharidus,pension@online.ee,1094,Isamaa Erakond,"['ANDRES', 'ERGMA']",Isamaa Erakond
+0,31.01.1954,Kõrgharidus,anne.eenpalu@gmail.com,1095,Isamaa Erakond,"['ANNE', 'EENPALU']",Isamaa Erakond
+0,24.10.1978,Kõrgharidus,indrek.luberg@isamaa.ee,1096,Isamaa Erakond,"['INDREK', 'LUBERG']",Isamaa Erakond
+0,17.08.1966,Kõrgharidus,jyri.luik@kaitseministeerium.ee,1097,Isamaa Erakond,"['JÜRI', 'LUIK']",Isamaa Erakond
+0,26.04.1967,Kõrgharidus,tom@ltt.ee,1098,Isamaa Erakond,"['TOOMAS', 'TÕNISTE']",Isamaa Erakond
+0,10.01.1958,Keskharidus (sh keskeriharidus),Kalle.muuli@envir.ee,1099,Isamaa Erakond,"['KALLE', 'MUULI']",Isamaa Erakond
+0,17.02.1966,Kõrgharidus,heiki.hepner@eesti.ee,1100,Isamaa Erakond,"['HEIKI', 'HEPNER']",Isamaa Erakond
+0,26.06.1946,Kõrgharidus,kelam@neti.ee,1101,Isamaa Erakond,"['MARI-ANN', 'KELAM']",Isamaa Erakond
+0,24.09.1970,Kõrgharidus,Andres.laisk@sauevald.ee,1102,Isamaa Erakond,"['ANDRES', 'LAISK']",Isamaa Erakond
+0,17.02.1955,Kõrgharidus,arvi.karotam@emls.ee,1103,Isamaa Erakond,"['ARVI', 'KAROTAM']",Isamaa Erakond
+0,16.02.1977,Kõrgharidus,kaupo.ratsepp@gmail.com,1104,Isamaa Erakond,"['KAUPO', 'RÄTSEPP']",Isamaa Erakond
+0,27.01.1987,Kõrgharidus,gerli.lehe@gmail.com,1105,Isamaa Erakond,"['GERLI', 'LEHE']",Isamaa Erakond
+0,07.04.1976,Kõrgharidus,kaarmanna@gmail.com,1106,Isamaa Erakond,"['ANDRES', 'KAARMANN']",Isamaa Erakond
+0,04.08.1968,Kõrgharidus,priit@rae.ee,1107,Isamaa Erakond,"['PRIIT', 'PÕLDMÄE']",Isamaa Erakond
+0,30.05.1959,Kõrgharidus,Villu.karu@marjamaa.ee,1108,Isamaa Erakond,"['VILLU', 'KARU']",Isamaa Erakond
+0,28.09.1947,Kõrgharidus,ann.raamet@gmail.com,1109,Isamaa Erakond,"['ANN', 'RÄÄMET']",Isamaa Erakond
+0,15.01.1959,Kõrgharidus,Mart.rannut@gmail.com,1110,Isamaa Erakond,"['MART', 'RANNUT']",Isamaa Erakond
+0,26.04.1955,Keskharidus (sh keskeriharidus),leemet.vaikmaa@laaneharju.ee,1111,Isamaa Erakond,"['LEEMET', 'VAIKMAA']",Isamaa Erakond
+0,19.10.1980,Keskharidus (sh keskeriharidus),madis.kybar@isamaa.ee,1112,Isamaa Erakond,"['MADIS', 'KÜBAR']",Isamaa Erakond
+0,15.09.1973,Kõrgharidus,tanel.ots@sakuvald.ee,1113,Isamaa Erakond,"['TANEL', 'OTS']",Puudub
+0,04.07.1962,Kõrgharidus,raivo.aeg@riigikogu.ee,1114,Isamaa Erakond,"['RAIVO', 'AEG']",Isamaa Erakond
+0,17.05.1964,Kõrgharidus,mart.maastik@gmail.com,1115,Isamaa Erakond,"['MART', 'MAASTIK']",Puudub
+0,31.12.1975,Kõrgharidus,georglinkovsenior@gmail.com,1116,Isamaa Erakond,"['GEORG', 'LINKOV']",Isamaa Erakond
+0,21.05.1968,Kõrgharidus,kaidokaasik68@gmail.com,1117,Isamaa Erakond,"['KAIDO', 'KAASIK']",Isamaa Erakond
+0,20.04.1956,Kõrgharidus,toomassch@gmail.com,1118,Isamaa Erakond,"['TOOMAS', 'SCHMIDT']",Isamaa Erakond
+0,25.07.1968,Kõrgharidus,anti.toplaan@eelk.ee,1119,Isamaa Erakond,"['ANTI', 'TOPLAAN']",Puudub
+0,19.11.1969,Kõrgharidus,tiitharjak@hot.ee,1120,Isamaa Erakond,"['TIIT', 'HARJAK']",Isamaa Erakond
+0,16.11.1968,Keskharidus (sh keskeriharidus),munktonu@gmail.com,1121,Isamaa Erakond,"['TÕNU', 'MUNK']",Isamaa Erakond
+0,24.09.1964,Kõrgharidus,marko.pomerants@riigikogu.ee,1122,Isamaa Erakond,"['MARKO', 'POMERANTS']",Isamaa Erakond
+0,23.11.1969,Kõrgharidus,yllarsaaremae@gmail.com,1123,Isamaa Erakond,"['ÜLLAR', 'SAAREMÄE']",Isamaa Erakond
+0,27.09.1954,Kõrgharidus,tamarav@hot.ee,1124,Isamaa Erakond,"['TAMARA', 'VAHTRA-AASMETS']",Puudub
+0,12.07.1963,Kõrgharidus,mihkel.juhkami@mail.ee,1125,Isamaa Erakond,"['MIHKEL', 'JUHKAMI']",Isamaa Erakond
+0,01.09.1968,Kõrgharidus,alarkir@hot.ee,1126,Isamaa Erakond,"['ALARI', 'KIRT']",Isamaa Erakond
+0,16.05.1982,Kõrgharidus,tonispruler@hotmail.com,1127,Isamaa Erakond,"['TÕNIS', 'PRULER']",Isamaa Erakond
+0,09.10.1959,Kõrgharidus,einar@lajos.ee,1128,Isamaa Erakond,"['EINAR', 'VALLBAUM']",Isamaa Erakond
+0,06.11.1965,Kõrgharidus,siim@kiisler.ee,1129,Isamaa Erakond,"['SIIM', 'VALMAR', 'KIISLER']",Isamaa Erakond
+0,30.06.1973,Kõrgharidus,tiitsalvan@gmail.com,1130,Isamaa Erakond,"['TIIT', 'SALVAN']",Isamaa Erakond
+0,28.10.1982,Kõrgharidus,marja-liisa.veiser@isamaa.ee,1131,Isamaa Erakond,"['MARJA-LIISA', 'VEISER']",Isamaa Erakond
+0,10.06.1963,Kõrgharidus,a.noormagi@gmail.com,1132,Isamaa Erakond,"['ANDRES', 'NOORMÄGI']",Isamaa Erakond
+0,01.01.1959,Keskharidus (sh keskeriharidus),artur.pold@mail.ee,1133,Isamaa Erakond,"['ARTUR', 'PÕLD']",Isamaa Erakond
+0,06.01.1956,Kõrgharidus,valentina.gurova@gmail.com,1134,Isamaa Erakond,"['VALENTINA', 'GUROVA']",Isamaa Erakond
+0,28.07.1963,Keskharidus (sh keskeriharidus),aivo.tamm@johvi.ee,1135,Isamaa Erakond,"['AIVO', 'TAMM']",Isamaa Erakond
+0,04.09.1982,Keskharidus (sh keskeriharidus),arnostrauch@hot.ee,1136,Isamaa Erakond,"['ARNO', 'STRAUCH']",Isamaa Erakond
+0,12.03.1973,Kõrgharidus,janek.raik@gmail.com,1137,Isamaa Erakond,"['JANEK', 'RAIK']",Isamaa Erakond
+0,07.09.1964,Kõrgharidus,Email puudub,1138,Isamaa Erakond,"['HELIR-VALDOR', 'SEEDER']",Isamaa Erakond
+0,28.04.1964,Kõrgharidus,Email puudub,1139,Isamaa Erakond,"['KAIA', 'IVA']",Isamaa Erakond
+0,11.04.1985,Kõrgharidus,Priit.vark@gmail.com,1140,Isamaa Erakond,"['PRIIT', 'VÄRK']",Isamaa Erakond
+0,10.11.1961,Kõrgharidus,alar.karu@viljandivald.ee,1141,Isamaa Erakond,"['ALAR', 'KARU']",Isamaa Erakond
+0,12.10.1955,Kõrgharidus,iyri.ellram@jarva.ee,1142,Isamaa Erakond,"['JÜRI', 'ELLRAM']",Isamaa Erakond
+0,30.12.1968,Kõrgharidus,janika12kivistik@gmail.com,1143,Isamaa Erakond,"['JANIKA', 'GEDVIL']",Isamaa Erakond
+0,01.06.1994,Keskharidus (sh keskeriharidus),kaarjas@gmail.com,1144,Isamaa Erakond,"['KASPAR', 'KAARJAS']",Puudub
+0,20.12.1989,Kõrgharidus,valter@cheers.ee,1145,Isamaa Erakond,"['VALTER', 'VAHA']",Isamaa Erakond
+0,01.11.1976,Keskharidus (sh keskeriharidus),hermann.kalmus@gmail.com,1146,Isamaa Erakond,"['HERMANN', 'KALMUS']",Isamaa Erakond
+"Kaave tee 2-1, Siimusti alevik, Jõgeva vald, 48444, Jõgevamaa",15.04.1960,Kõrgharidus,aivar.kokk@riigikogu.ee,1147,Isamaa Erakond,"['AIVAR', 'KOKK']",Isamaa Erakond
+0,28.03.1972,Kõrgharidus,Eva.kams@eesti.ee,1148,Isamaa Erakond,"['EVA', 'KAMS']",Isamaa Erakond
+"Pere-Reinu talu, Paduvere küla, Jõgeva vald, 48421 Jõgevamaa",21.10.1958,Keskharidus (sh keskeriharidus),tiit.laane@gmail.com,1149,Isamaa Erakond,"['TIIT', 'LÄÄNE']",Puudub
+0,15.07.1965,Kõrgharidus,raivoetamm@gmail.com,1150,Isamaa Erakond,"['RAIVO', 'TAMM']",Puudub
+"Männi tn 11-14, Kambja alevik, Kambja vald, 62034, Tartumaa",19.04.1954,Kõrgharidus,ivar.tedrema@kambja.ee,1151,Isamaa Erakond,"['IVAR', 'TEDREMA']",Puudub
+"Voika 23, Nõo, Tartumaa, 61601",29.06.1964,Kõrgharidus,rain@nvv.ee,1152,Isamaa Erakond,"['RAIN', 'SANGERNEBO']",Isamaa Erakond
+"Mario talu, Lombi küla, Tartu vald, 60156, Tartumaa",05.03.1965,Kõrgharidus,jaanapuur@hotmail.com,1153,Isamaa Erakond,"['JAANA', 'PUUR']",Isamaa Erakond
+"Vambola 13, 61505, Elva, Tartumaa",08.12.1966,Kõrgharidus,aare@luunja.ee,1154,Isamaa Erakond,"['AARE', 'ANDERSON']",Isamaa Erakond
+"Pikk 22, Põltsamaa linn, Põltsamaa vald, 48103",23.07.1955,Keskharidus (sh keskeriharidus),heldurnatural@gmail.com,1155,Isamaa Erakond,"['HELDUR', 'LÄÄNE']",Isamaa Erakond
+0,05.06.1962,Kõrgharidus,tonislukas13@gmail.com,1156,Isamaa Erakond,"['TÕNIS', 'LUKAS']",Puudub
+0,22.03.1960,Kõrgharidus,Lauri.vahtre@hot.ee,1157,Isamaa Erakond,"['LAURI', 'VAHTRE']",Isamaa Erakond
+0,02.09.1952,Kõrgharidus,mihhail.lotman@gmail.com,1158,Isamaa Erakond,"['MIHHAIL', 'LOTMAN']",Isamaa Erakond
+0,18.02.1983,Kõrgharidus,eluhamets@gmail.com,1159,Isamaa Erakond,"['EVA-LIISA', 'LUHAMETS']",Isamaa Erakond
+0,20.07.1969,Kõrgharidus,anneli.kannus@eesti.ee,1160,Isamaa Erakond,"['ANNELI', 'KANNUS']",Isamaa Erakond
+0,09.09.1970,Keskharidus (sh keskeriharidus),priit.humal@avalikultrailbalticust.ee,1161,Isamaa Erakond,"['PRIIT', 'HUMAL']",Isamaa Erakond
+0,27.09.1957,Keskharidus (sh keskeriharidus),jaan.vaiksaar@gmail.com,1162,Isamaa Erakond,"['JAAN', 'VAIKSAAR']",Isamaa Erakond
+0,14.03.1987,Kõrgharidus,friedrich.kaasik@eesti.ee,1163,Isamaa Erakond,"['FRIEDRICH', 'KAASIK']",Isamaa Erakond
+0,05.02.1981,Kõrgharidus,tarvo.siilaberg@gmail.com,1164,Isamaa Erakond,"['TARVO', 'SIILABERG']",Isamaa Erakond
+0,03.08.1982,Keskharidus (sh keskeriharidus),kaspar.kokk@transcom.ee,1165,Isamaa Erakond,"['KASPAR', 'KOKK']",Isamaa Erakond
+0,31.12.1977,Kõrgharidus,priit.sibul@isamaa.ee,1166,Isamaa Erakond,"['PRIIT', 'SIBUL']",Isamaa Erakond
+"Kõlgusõaro talu, Küllatüvä küla, Setomaa, Võrumaa",19.10.1965,Kõrgharidus,info@isamaa.ee,1167,Isamaa Erakond,"['MERLE', 'JÄÄGER']",Puudub
+0,12.08.1964,Keskharidus (sh keskeriharidus),mottusmeelis@gmail.com,1168,Isamaa Erakond,"['MEELIS', 'MÕTTUS']",Isamaa Erakond
+"Ristipalo küla, Räpina vald, Põlvamaa",29.04.1980,Kõrgharidus,ulla.preeden@gmail.com,1169,Isamaa Erakond,"['ULLA', 'PREEDEN']",Isamaa Erakond
+0,12.08.1968,Kõrgharidus,kurmetster@gmail.com,1170,Isamaa Erakond,"['KURMET', 'MÜÜRSEPP']",Isamaa Erakond
+0,13.09.1969,Kõrgharidus,arne.tilk@gmail.com,1171,Isamaa Erakond,"['ARNE', 'TILK']",Isamaa Erakond
+0,14.06.1962,Kõrgharidus,Kalle.vister@mail.ee,1172,Isamaa Erakond,"['KALLE', 'VISTER']",Isamaa Erakond
+0,24.07.1968,Kõrgharidus,tom1@hot.ee,1173,Isamaa Erakond,"['TOOMAS', 'PIIRMANN']",Isamaa Erakond
+0,05.06.1960,Keskharidus (sh keskeriharidus),ain.pajo@pajoprint.ee,1174,Isamaa Erakond,"['AIN', 'PAJO']",Isamaa Erakond
+0,30.04.1980,Kõrgharidus,monika.rogenbaum@eesti.ee,1175,Isamaa Erakond,"['MONIKA', 'ROGENBAUM']",Isamaa Erakond
+0,25.11.1978,Kõrgharidus,andres.metsoja@riigikogu.ee,1176,Isamaa Erakond,"['ANDRES', 'METSOJA']",Isamaa Erakond
+0,16.02.1945,Kõrgharidus,ela.tomson@hotmail.com,1177,Isamaa Erakond,"['ELA', 'TOMSON']",Isamaa Erakond
+0,19.01.1981,Kõrgharidus,Lauri.luur@gmail.com,1178,Isamaa Erakond,"['LAURI', 'LUUR']",Isamaa Erakond
+0,30.01.1970,Kõrgharidus,siim.suursild@gmail.com,1179,Isamaa Erakond,"['SIIM', 'SUURSILD']",Isamaa Erakond
+0,26.07.1959,Kõrgharidus,mlskukk@gmail.com,1180,Isamaa Erakond,"['MEELIS', 'KUKK']",Isamaa Erakond
+"Pärnade pst 11, Paikuse alev",30.01.1958,Kõrgharidus,kuno.erkmann@parnu.ee,1181,Isamaa Erakond,"['KUNO', 'ERKMANN']",Isamaa Erakond
+0,04.12.1970,Keskharidus (sh keskeriharidus),pjaanus@hot.ee,1182,Isamaa Erakond,"['JAANUS', 'PÕLDMAA']",Isamaa Erakond
+0,25.04.1964,Kõrgharidus,urmas.aava@haademeeste.ee,1183,Isamaa Erakond,"['URMAS', 'AAVA']",Isamaa Erakond
+0,17.10.1959,Keskharidus (sh keskeriharidus),aarearva@gmail.com,1184,Isamaa Erakond,"['AARE', 'ARVA']",Isamaa Erakond
+0,01.07.1958,Kõrgharidus,hummer1958@mail.ru,1185,Üksikkandidaadid,"['SERGEI', 'SVJATUŠENKO']",Puudub
+0,08.01.1948,Kõrgharidus,jyrimal@gmail.com,1186,Üksikkandidaadid,"['JÜRI', 'MALSUB']",Puudub
+0,19.05.1978,Põhiharidus,nahkor.riigikogu@gmail.com,1187,Üksikkandidaadid,"['RISTO', 'NAHKOR']",Puudub
+0,20.05.1937,Keskharidus (sh keskeriharidus),Email puudub,1188,Üksikkandidaadid,"['VELLO', 'KOOKMAA']",Puudub
+"Kõue-Mardi talu, Liiküla küla, Saaremaa vald",23.11.1958,Kõrgharidus,harry@windrose.ee,1189,Üksikkandidaadid,"['HARRY', 'RAUDVERE']",Puudub
+"Õismäe tee 59-31, 13514, Haabersti linnaosa, Harju maakond, Tallinn",25.09.1978,Kõrgharidus,hannes.veskimae@gmail.com,1190,Üksikkandidaadid,"['HANNES', 'VESKIMÄE']",Puudub
+0,30.03.1976,Kõrgharidus,margussaar@hot.ee,1191,Üksikkandidaadid,"['MARGUS', 'SAAR']",Puudub
+0,12.09.1981,Keskharidus (sh keskeriharidus),hando@telegram.ee,1192,Üksikkandidaadid,"['HANDO', 'TÕNUMAA']",Puudub
+0,26.01.1967,Kõrgharidus,naisjuristid@gmail.com,1193,Üksikkandidaadid,"['MAARIKA', 'PÄHKLEMÄE']",Puudub
+0,22.09.1968,Keskharidus (sh keskeriharidus),yllar@kruustik.ee,1194,Üksikkandidaadid,"['ÜLLAR', 'KRUUSTIK']",Puudub
+0,03.08.1976,Kõrgharidus,tanel.haidkind@gmail.com,1195,Üksikkandidaadid,"['TANEL', 'HÄIDKIND']",Puudub
+"Rävala 7-96, Tallinn 10143",14.05.1960,Kõrgharidus,egehirv01@gmail.com,1196,Üksikkandidaadid,"['EGE', 'HIRV']",Sotsiaaldemokraatlik Erakond
+0,16.09.1932,Kõrgharidus,kaljumatik@yahoo.com,1197,Üksikkandidaadid,"['KALJU', 'MÄTIK']",Eesti Vabaduspartei - Põllumeeste Kogu
+0,29.09.1970,Keskharidus (sh keskeriharidus),Email puudub,1198,Üksikkandidaadid,"['KAIDO', 'KOOKMAA']",Puudub
+0,13.03.1979,Keskharidus (sh keskeriharidus),normaalseteinimesteesindaja@mail.ee,1199,Üksikkandidaadid,"['VEIKO', 'TANI']",Puudub
